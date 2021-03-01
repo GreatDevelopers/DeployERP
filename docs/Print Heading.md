@@ -14,3 +14,4 @@ Home > Settings > Print Headings
 3. Save.
 <pre>Note: You may edit in full page before saving or edit after saving the print heading
       in order to add description to it.</br></pre>
+[Video Tutorial](https://docs.erpnext.com/docs/user/manual/en/setting-up/print/print-headings#2-video)
