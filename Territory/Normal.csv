@@ -1,0 +1,23 @@
+Data Import Template,,,,,
+Table:,Territory,,,,
+,,,,,
+,,,,,
+Notes:,,,,,
+Please do not change the template headings.,,,,,
+First data column must be blank.,,,,,
+,,,,,
+DocType:,Territory,,,,
+Column Labels:,ID,Territory Name,Parent Territory,Is Group,Territory Manager
+Column Name:,name,territory_name,parent_territory,is_group,territory_manager
+Mandatory:,Yes,Yes,No,No,No
+Type:,Data,Data,Link,Check,Link
+Info:,,,Valid Territory,0 or 1,Valid Sales Person
+Start entering data below this line,,,,,
+,"""All Territories""",All Territories,,1,
+,"""India""",India,All Territories,1,
+,"""Rest of India""",Rest of India,India,0,
+,"""Delhi""",Delhi,India,0,
+,"""Punjab""",Punjab,India,1,
+,"""Ludhiana""",Ludhiana,Punjab,0,
+,"""Rest Of Punjab""",Rest Of Punjab,Punjab,0,
+,"""Rest of World""",Rest of World,All Territories,0,
