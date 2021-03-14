@@ -6,7 +6,7 @@
 - For adding taxes -->Open chart of accounts--> Source of Funds(Liabilities)-->Current  liabilities-->Duties and Taxes. Here add child.
 - Payment - Create quotation --> Sales order 
 <!-- 
---> (payment request or payment entry) --> Sales invoice and delivery note --> Payment Request --> Payment Entry
+--(payment request or payment entry) -- Sales invoice and delivery note -- Payment Request -- Payment Entry
 -->
 
 - Payment Template 
