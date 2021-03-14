@@ -1,0 +1,34 @@
+Data Import Template,,,,,,,,,,,,,
+Table:,Department,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,
+Please do not change the template headings.,,,,,,,,,,,,,
+First data column must be blank.,,,,,,,,,,,,,
+"If you are uploading new records, leave the ""name"" (ID) column blank.",,,,,,,,,,,,,
+"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.",,,,,,,,,,,,,
+Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,,,,,,,,,,,,,
+"For updating, you can update only selective columns.",,,,,,,,,,,,,
+You can only upload upto 5000 records in one go. (may be less in some cases),,,,,,,,,,,,,
+,,,,,,,,,,,,,
+DocType:,Department,,,,,,,~,Department Approver,leave_approvers,~,Department Approver,expense_approvers
+Column Labels:,ID,Department,Company,Parent Department,Is Group,Disabled,Leave Block List,,ID,Approver,,ID,Approver
+Column Name:,name,department_name,company,parent_department,is_group,disabled,leave_block_list,~,name,approver,~,name,approver
+Mandatory:,Yes,Yes,Yes,No,No,No,No,,Yes,Yes,,Yes,Yes
+Type:,Data,Data,Link,Link,Check,Check,Link,,Data,Link,,Data,Link
+Info:,,,Valid Company,Valid Department,0 or 1,0 or 1,Valid Leave Block List,,,Valid User,,,Valid User
+Start entering data below this line,,,,,,,,,,,,,
+,"""All Departments""",All Departments,,,1,0,,,,,,,
+,"""Accounts - NT""",Accounts,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Marketing - NT""",Marketing,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Sales - NT""",Sales,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Purchase - NT""",Purchase,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Operations - NT""",Operations,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Production - NT""",Production,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Dispatch - NT""",Dispatch,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Customer Service - NT""",Customer Service,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Human Resources - NT""",Human Resources,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Management - NT""",Management,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Quality Management - NT""",Quality Management,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Research & Development - NT""",Research & Development,Nanak Tech,All Departments,0,0,,,,,,,
+,"""Legal - NT""",Legal,Nanak Tech,All Departments,0,0,,,,,,,
