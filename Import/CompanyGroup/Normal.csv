@@ -1,0 +1,22 @@
+Data Import Template,,,,,,
+Table:,Customer Group,,,,,
+,,,,,,
+,,,,,,
+Notes:,,,,,,
+Please do not change the template headings.,,,,,,
+First data column must be blank.,,,,,,
+Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,,,,,,
+,,,,,,
+DocType:,Customer Group,,,,,
+Column Labels:,ID,Customer Group Name,Parent Customer Group,Is Group,Default Price List,Default Payment Terms Template
+Column Name:,name,customer_group_name,parent_customer_group,is_group,default_price_list,payment_terms
+Mandatory:,Yes,Yes,No,No,No,No
+Type:,Data,Data,Link,Check,Link,Link
+Info:,,,Valid Customer Group,0 or 1,Valid Price List,Valid Payment Terms Template
+Start entering data below this line,,,,,,
+,"""All Customer Groups""",All Customer Groups,,1,,
+,"""Private""",Private,All Customer Groups,0,,
+,"""Commercial""",Commercial,All Customer Groups,0,,
+,"""Non Profit""",Non Profit,All Customer Groups,0,,
+,"""Government""",Government,All Customer Groups,0,,
+,"""PSU""",PSU,All Customer Groups,0,,

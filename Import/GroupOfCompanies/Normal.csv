@@ -1,0 +1,23 @@
+Data Import Template,,,,,,,,,,,,,,
+Table:,Company,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+First data column must be blank.,,,,,,,,,,,,,,
+"If you are uploading new records, leave the ""name"" (ID) column blank.",,,,,,,,,,,,,,
+"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+DocType:,Company,,,,,,,,,,,,,
+Column Labels:,ID,Company,Abbr,Default Currency,Country,Is Group,Domain,Parent Company,Standard Working Hours,Create Chart Of Accounts Based On,Chart Of Accounts Template,Existing Company ,Tax ID,Date of Establishment
+Column Name:,name,company_name,abbr,default_currency,country,is_group,domain,parent_company,standard_working_hours,create_chart_of_accounts_based_on,chart_of_accounts,existing_company,tax_id,date_of_establishment
+Mandatory:,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No
+Type:,Data,Data,Data,Link,Link,Check,Link,Link,Float,Select,Select,Link,Data,Date
+Info:,,,,Valid Currency,Valid Country,0 or 1,Valid Domain,Valid Company,,"One of: Standard Template, Existing Company",,Valid Company,,dd-mm-yyyy
+Start entering data below this line,,,,,,,,,,,,,,
+,,Dada Motors,DM,INR,India,1,Education,,8.0,Standard Template,India - Chart of Accounts,,03RAITN1978L1ZC,
+,,Papa Garments,PG,INR,India,1,Education,Dada Motors,8.0,Existing Company,,Dada Motors,03RAITN1978L1ZC,08-04-1956
+,,Hero Consultancy Services,HCS,INR,India,0,Services,Papa Garments,8.0,Existing Company,,Papa Garments,03RAITN1978L2ZB,01-01-1979

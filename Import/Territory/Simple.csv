@@ -1,0 +1,9 @@
+name,territory_name,parent_territory,is_group
+"""All Territories""",All Territories,,1
+"""India""",India,All Territories,1
+"""Rest Of India""",Rest Of India,India,0
+"""Delhi""",Delhi,India,0
+"""Punjab""",Punjab,India,1
+"""Ludhiana""",Ludhiana,Punjab,0
+"""Rest Of Punjab""",Rest Of Punjab,Punjab,0
+"""Rest Of World""",Rest Of World,All Territories,0

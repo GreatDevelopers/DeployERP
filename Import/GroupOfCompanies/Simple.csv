@@ -1,0 +1,4 @@
+company_name,abbr,Area / domain,parent_company,tax_id,date_of_establishment
+Dada Motors,DM,Education,,03RAITN1978L1ZC,28-12-1950
+Papa Garments,PG,Education,Dada Motors,03RAITN1978L1ZC,08-04-1956
+Hero Consultancy Services,HCS,Services,Papa Garments,03RAITN1978L2ZB,01-01-1979

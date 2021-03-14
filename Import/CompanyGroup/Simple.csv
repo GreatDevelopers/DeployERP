@@ -1,0 +1,7 @@
+name ID,customer_group_name,parent_customer_group,is_group
+"""All Customer Groups""",All Customer Groups,,1
+"""Private""",Private,All Customer Groups,0
+"""Commercial""",Commercial,All Customer Groups,0
+"""Non Profit""",Non Profit,All Customer Groups,0
+"""Government""",Government,All Customer Groups,0
+"""PSU""",PSU,All Customer Groups,0
