@@ -4,7 +4,8 @@
 - Make the labs as groups
 - Create item attribute --> item template -->item variant.
 - For adding taxes -->Open chart of accounts--> Source of Funds(Liabilities)-->Current  liabilities-->Duties and Taxes. Here add child.
-- Payment - Create quotation --> Sales order <!-- --> (payment request or payment entry) --> Sales invoice and delivery note --> Payment Request --> Payment Entry -->
+- Payment - Create quotation --> Sales order 
+<!-- --> (payment request or payment entry) --> Sales invoice and delivery note --> Payment Request --> Payment Entry -->
 
 - Payment Template 
 - Series and tax template
