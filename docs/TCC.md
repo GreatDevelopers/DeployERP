@@ -13,6 +13,6 @@
 
 Generated
 - Payment Template 
-- Series and tax template
+- Sales and tax template
 - letter head
 - Set up default price list
