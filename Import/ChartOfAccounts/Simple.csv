@@ -1,0 +1,396 @@
+ID/name,account_name,company,parent_account,disabled,account_number,is_group,root_type,report_type,account_currency,inter_company_account,account_type,tax_rate,freeze_account,balance_must_be,include_in_gross
+"""Application of Funds (Assets) - GNDEC""",Application of Funds (Assets),Guru Nanak Dev Engineering College,,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Assets - GNDEC""",Current Assets,Guru Nanak Dev Engineering College,Application of Funds (Assets) - GNDEC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Receivable - GNDEC""",Accounts Receivable,Guru Nanak Dev Engineering College,Current Assets - GNDEC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Debtors - GNDEC""",Debtors,Guru Nanak Dev Engineering College,Accounts Receivable - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Receivable,0.0,No,,0
+"""Bank Accounts - GNDEC""",Bank Accounts,Guru Nanak Dev Engineering College,Current Assets - GNDEC,0,,1,Asset,Balance Sheet,INR,0,Bank,0.0,No,,0
+"""Cash In Hand - GNDEC""",Cash In Hand,Guru Nanak Dev Engineering College,Current Assets - GNDEC,0,,1,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Cash - GNDEC""",Cash,Guru Nanak Dev Engineering College,Cash In Hand - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Loans and Advances (Assets) - GNDEC""",Loans and Advances (Assets),Guru Nanak Dev Engineering College,Current Assets - GNDEC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Securities and Deposits - GNDEC""",Securities and Deposits,Guru Nanak Dev Engineering College,Current Assets - GNDEC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Earnest Money - GNDEC""",Earnest Money,Guru Nanak Dev Engineering College,Securities and Deposits - GNDEC,0,,0,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Assets - GNDEC""",Stock Assets,Guru Nanak Dev Engineering College,Current Assets - GNDEC,0,,1,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Stock In Hand - GNDEC""",Stock In Hand,Guru Nanak Dev Engineering College,Stock Assets - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Tax Assets - GNDEC""",Tax Assets,Guru Nanak Dev Engineering College,Current Assets - GNDEC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Fixed Assets - GNDEC""",Fixed Assets,Guru Nanak Dev Engineering College,Application of Funds (Assets) - GNDEC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accumulated Depreciations - GNDEC""",Accumulated Depreciations,Guru Nanak Dev Engineering College,Fixed Assets - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Accumulated Depreciation,0.0,No,,0
+"""Buildings - GNDEC""",Buildings,Guru Nanak Dev Engineering College,Fixed Assets - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Capital Equipments - GNDEC""",Capital Equipments,Guru Nanak Dev Engineering College,Fixed Assets - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Electronic Equipments - GNDEC""",Electronic Equipments,Guru Nanak Dev Engineering College,Fixed Assets - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Furnitures and Fixtures - GNDEC""",Furnitures and Fixtures,Guru Nanak Dev Engineering College,Fixed Assets - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Office Equipments - GNDEC""",Office Equipments,Guru Nanak Dev Engineering College,Fixed Assets - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Plants and Machineries - GNDEC""",Plants and Machineries,Guru Nanak Dev Engineering College,Fixed Assets - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Investments - GNDEC""",Investments,Guru Nanak Dev Engineering College,Application of Funds (Assets) - GNDEC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Accounts - GNDEC""",Temporary Accounts,Guru Nanak Dev Engineering College,Application of Funds (Assets) - GNDEC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Opening - GNDEC""",Temporary Opening,Guru Nanak Dev Engineering College,Temporary Accounts - GNDEC,0,,0,Asset,Balance Sheet,INR,0,Temporary,0.0,No,,0
+"""Application of Funds (Assets) - NSET""",Application of Funds (Assets),Nankana Sahib Education Trust,,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Assets - NSET""",Current Assets,Nankana Sahib Education Trust,Application of Funds (Assets) - NSET,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Receivable - NSET""",Accounts Receivable,Nankana Sahib Education Trust,Current Assets - NSET,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Debtors - NSET""",Debtors,Nankana Sahib Education Trust,Accounts Receivable - NSET,0,,0,Asset,Balance Sheet,INR,0,Receivable,0.0,No,,0
+"""Bank Accounts - NSET""",Bank Accounts,Nankana Sahib Education Trust,Current Assets - NSET,0,,1,Asset,Balance Sheet,INR,0,Bank,0.0,No,,0
+"""Cash In Hand - NSET""",Cash In Hand,Nankana Sahib Education Trust,Current Assets - NSET,0,,1,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Cash - NSET""",Cash,Nankana Sahib Education Trust,Cash In Hand - NSET,0,,0,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Loans and Advances (Assets) - NSET""",Loans and Advances (Assets),Nankana Sahib Education Trust,Current Assets - NSET,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Securities and Deposits - NSET""",Securities and Deposits,Nankana Sahib Education Trust,Current Assets - NSET,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Earnest Money - NSET""",Earnest Money,Nankana Sahib Education Trust,Securities and Deposits - NSET,0,,0,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Assets - NSET""",Stock Assets,Nankana Sahib Education Trust,Current Assets - NSET,0,,1,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Stock In Hand - NSET""",Stock In Hand,Nankana Sahib Education Trust,Stock Assets - NSET,0,,0,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Tax Assets - NSET""",Tax Assets,Nankana Sahib Education Trust,Current Assets - NSET,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Fixed Assets - NSET""",Fixed Assets,Nankana Sahib Education Trust,Application of Funds (Assets) - NSET,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accumulated Depreciations - NSET""",Accumulated Depreciations,Nankana Sahib Education Trust,Fixed Assets - NSET,0,,0,Asset,Balance Sheet,INR,0,Accumulated Depreciation,0.0,No,,0
+"""Buildings - NSET""",Buildings,Nankana Sahib Education Trust,Fixed Assets - NSET,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Capital Equipments - NSET""",Capital Equipments,Nankana Sahib Education Trust,Fixed Assets - NSET,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Electronic Equipments - NSET""",Electronic Equipments,Nankana Sahib Education Trust,Fixed Assets - NSET,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Furnitures and Fixtures - NSET""",Furnitures and Fixtures,Nankana Sahib Education Trust,Fixed Assets - NSET,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Office Equipments - NSET""",Office Equipments,Nankana Sahib Education Trust,Fixed Assets - NSET,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Plants and Machineries - NSET""",Plants and Machineries,Nankana Sahib Education Trust,Fixed Assets - NSET,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Investments - NSET""",Investments,Nankana Sahib Education Trust,Application of Funds (Assets) - NSET,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Accounts - NSET""",Temporary Accounts,Nankana Sahib Education Trust,Application of Funds (Assets) - NSET,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Opening - NSET""",Temporary Opening,Nankana Sahib Education Trust,Temporary Accounts - NSET,0,,0,Asset,Balance Sheet,INR,0,Temporary,0.0,No,,0
+"""Application of Funds (Assets) - T""",Application of Funds (Assets),TCC-3,,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Assets - T""",Current Assets,TCC-3,Application of Funds (Assets) - T,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Receivable - T""",Accounts Receivable,TCC-3,Current Assets - T,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Debtors - T""",Debtors,TCC-3,Accounts Receivable - T,0,,0,Asset,Balance Sheet,INR,0,Receivable,0.0,No,,0
+"""Bank Accounts - T""",Bank Accounts,TCC-3,Current Assets - T,0,,1,Asset,Balance Sheet,INR,0,Bank,0.0,No,,0
+"""Tcc-3 - T""",Tcc-3,TCC-3,Bank Accounts - T,0,,0,Asset,Balance Sheet,INR,0,,0.0,No,Credit,0
+"""Cash In Hand - T""",Cash In Hand,TCC-3,Current Assets - T,0,,1,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Cash - T""",Cash,TCC-3,Cash In Hand - T,0,,0,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Loans and Advances (Assets) - T""",Loans and Advances (Assets),TCC-3,Current Assets - T,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Employee Advances - T""",Employee Advances,TCC-3,Loans and Advances (Assets) - T,0,,0,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Securities and Deposits - T""",Securities and Deposits,TCC-3,Current Assets - T,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Earnest Money - T""",Earnest Money,TCC-3,Securities and Deposits - T,0,,0,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Assets - T""",Stock Assets,TCC-3,Current Assets - T,0,,1,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Stock In Hand - T""",Stock In Hand,TCC-3,Stock Assets - T,0,,0,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Tax Assets - T""",Tax Assets,TCC-3,Current Assets - T,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Fixed Assets - T""",Fixed Assets,TCC-3,Application of Funds (Assets) - T,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accumulated Depreciation - T""",Accumulated Depreciation,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Accumulated Depreciation,0.0,No,,0
+"""Buildings - T""",Buildings,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Capital Equipments - T""",Capital Equipments,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""CWIP Account - T""",CWIP Account,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Capital Work in Progress,0.0,No,,0
+"""Electronic Equipments - T""",Electronic Equipments,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Furnitures and Fixtures - T""",Furnitures and Fixtures,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Office Equipments - T""",Office Equipments,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Plants and Machineries - T""",Plants and Machineries,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Softwares - T""",Softwares,TCC-3,Fixed Assets - T,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Investments - T""",Investments,TCC-3,Application of Funds (Assets) - T,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Accounts - T""",Temporary Accounts,TCC-3,Application of Funds (Assets) - T,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Opening - T""",Temporary Opening,TCC-3,Temporary Accounts - T,0,,0,Asset,Balance Sheet,INR,0,Temporary,0.0,No,,0
+"""Application of Funds (Assets) - TCC""",Application of Funds (Assets),Testing and Consultancy Cell,,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Assets - TCC""",Current Assets,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Receivable - TCC""",Accounts Receivable,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Debtors - TCC""",Debtors,Testing and Consultancy Cell,Accounts Receivable - TCC,0,,0,Asset,Balance Sheet,INR,0,Receivable,0.0,No,,0
+"""Bank Accounts - TCC""",Bank Accounts,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Bank,0.0,No,,0
+"""Cash In Hand - TCC""",Cash In Hand,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Cash - TCC""",Cash,Testing and Consultancy Cell,Cash In Hand - TCC,0,,0,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Loans and Advances (Assets) - TCC""",Loans and Advances (Assets),Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Securities and Deposits - TCC""",Securities and Deposits,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Earnest Money - TCC""",Earnest Money,Testing and Consultancy Cell,Securities and Deposits - TCC,0,,0,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Assets - TCC""",Stock Assets,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Stock In Hand - TCC""",Stock In Hand,Testing and Consultancy Cell,Stock Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Tax Assets - TCC""",Tax Assets,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Fixed Assets - TCC""",Fixed Assets,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accumulated Depreciations - TCC""",Accumulated Depreciations,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Accumulated Depreciation,0.0,No,,0
+"""Buildings - TCC""",Buildings,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Capital Equipments - TCC""",Capital Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Electronic Equipments - TCC""",Electronic Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Furnitures and Fixtures - TCC""",Furnitures and Fixtures,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Office Equipments - TCC""",Office Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Plants and Machineries - TCC""",Plants and Machineries,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Investments - TCC""",Investments,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Accounts - TCC""",Temporary Accounts,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Opening - TCC""",Temporary Opening,Testing and Consultancy Cell,Temporary Accounts - TCC,0,,0,Asset,Balance Sheet,INR,0,Temporary,0.0,No,,0
+"""Application of Funds (Assets) - TCC2""",Application of Funds (Assets),Testing and Consultancy Cell2,,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Assets - TCC2""",Current Assets,Testing and Consultancy Cell2,Application of Funds (Assets) - TCC2,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Receivable - TCC2""",Accounts Receivable,Testing and Consultancy Cell2,Current Assets - TCC2,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Debtors - TCC2""",Debtors,Testing and Consultancy Cell2,Accounts Receivable - TCC2,0,,0,Asset,Balance Sheet,INR,0,Receivable,0.0,No,,0
+"""Bank Accounts - TCC2""",Bank Accounts,Testing and Consultancy Cell2,Current Assets - TCC2,0,,1,Asset,Balance Sheet,INR,0,Bank,0.0,No,,0
+"""Cash In Hand - TCC2""",Cash In Hand,Testing and Consultancy Cell2,Current Assets - TCC2,0,,1,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Cash - TCC2""",Cash,Testing and Consultancy Cell2,Cash In Hand - TCC2,0,,0,Asset,Balance Sheet,INR,0,Cash,0.0,No,,0
+"""Loans and Advances (Assets) - TCC2""",Loans and Advances (Assets),Testing and Consultancy Cell2,Current Assets - TCC2,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Securities and Deposits - TCC2""",Securities and Deposits,Testing and Consultancy Cell2,Current Assets - TCC2,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Earnest Money - TCC2""",Earnest Money,Testing and Consultancy Cell2,Securities and Deposits - TCC2,0,,0,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Assets - TCC2""",Stock Assets,Testing and Consultancy Cell2,Current Assets - TCC2,0,,1,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Stock In Hand - TCC2""",Stock In Hand,Testing and Consultancy Cell2,Stock Assets - TCC2,0,,0,Asset,Balance Sheet,INR,0,Stock,0.0,No,,0
+"""Tax Assets - TCC2""",Tax Assets,Testing and Consultancy Cell2,Current Assets - TCC2,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Fixed Assets - TCC2""",Fixed Assets,Testing and Consultancy Cell2,Application of Funds (Assets) - TCC2,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Accumulated Depreciations - TCC2""",Accumulated Depreciations,Testing and Consultancy Cell2,Fixed Assets - TCC2,0,,0,Asset,Balance Sheet,INR,0,Accumulated Depreciation,0.0,No,,0
+"""Buildings - TCC2""",Buildings,Testing and Consultancy Cell2,Fixed Assets - TCC2,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Capital Equipments - TCC2""",Capital Equipments,Testing and Consultancy Cell2,Fixed Assets - TCC2,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Electronic Equipments - TCC2""",Electronic Equipments,Testing and Consultancy Cell2,Fixed Assets - TCC2,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Furnitures and Fixtures - TCC2""",Furnitures and Fixtures,Testing and Consultancy Cell2,Fixed Assets - TCC2,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Office Equipments - TCC2""",Office Equipments,Testing and Consultancy Cell2,Fixed Assets - TCC2,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Plants and Machineries - TCC2""",Plants and Machineries,Testing and Consultancy Cell2,Fixed Assets - TCC2,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0.0,No,,0
+"""Investments - TCC2""",Investments,Testing and Consultancy Cell2,Application of Funds (Assets) - TCC2,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Accounts - TCC2""",Temporary Accounts,Testing and Consultancy Cell2,Application of Funds (Assets) - TCC2,0,,1,Asset,Balance Sheet,INR,0,,0.0,No,,0
+"""Temporary Opening - TCC2""",Temporary Opening,Testing and Consultancy Cell2,Temporary Accounts - TCC2,0,,0,Asset,Balance Sheet,INR,0,Temporary,0.0,No,,0
+"""Equity - T""",Equity,TCC-3,,0,,1,Equity,Balance Sheet,INR,0,,0.0,No,,0
+"""Capital Stock - T""",Capital Stock,TCC-3,Equity - T,0,,0,Equity,Balance Sheet,INR,0,Equity,0.0,No,,0
+"""Dividends Paid - T""",Dividends Paid,TCC-3,Equity - T,0,,0,Equity,Balance Sheet,INR,0,Equity,0.0,No,,0
+"""Opening Balance Equity - T""",Opening Balance Equity,TCC-3,Equity - T,0,,0,Equity,Balance Sheet,INR,0,Equity,0.0,No,,0
+"""Retained Earnings - T""",Retained Earnings,TCC-3,Equity - T,0,,0,Equity,Balance Sheet,INR,0,Equity,0.0,No,,0
+"""Expenses - GNDEC""",Expenses,Guru Nanak Dev Engineering College,,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Expenses - GNDEC""",Direct Expenses,Guru Nanak Dev Engineering College,Expenses - GNDEC,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Stock Expenses - GNDEC""",Stock Expenses,Guru Nanak Dev Engineering College,Direct Expenses - GNDEC,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Cost of Goods Sold - GNDEC""",Cost of Goods Sold,Guru Nanak Dev Engineering College,Stock Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,Cost of Goods Sold,0.0,No,,0
+"""Expenses Included In Valuation - GNDEC""",Expenses Included In Valuation,Guru Nanak Dev Engineering College,Stock Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,Expenses Included In Valuation,0.0,No,,0
+"""Stock Adjustment - GNDEC""",Stock Adjustment,Guru Nanak Dev Engineering College,Stock Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,Stock Adjustment,0.0,No,,0
+"""Indirect Expenses - GNDEC""",Indirect Expenses,Guru Nanak Dev Engineering College,Expenses - GNDEC,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Administrative Expenses - GNDEC""",Administrative Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Commission on Sales - GNDEC""",Commission on Sales,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Depreciation - GNDEC""",Depreciation,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,Depreciation,0.0,No,,0
+"""Entertainment Expenses - GNDEC""",Entertainment Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Exchange Gain/Loss - GNDEC""",Exchange Gain/Loss,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Freight and Forwarding Charges - GNDEC""",Freight and Forwarding Charges,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,Chargeable,0.0,No,,0
+"""Gain/Loss on Asset Disposal - GNDEC""",Gain/Loss on Asset Disposal,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Legal Expenses - GNDEC""",Legal Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Marketing Expenses - GNDEC""",Marketing Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Miscellaneous Expenses - GNDEC""",Miscellaneous Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Maintenance Expenses - GNDEC""",Office Maintenance Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Rent - GNDEC""",Office Rent,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Postal Expenses - GNDEC""",Postal Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Print and Stationary - GNDEC""",Print and Stationary,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Rounded Off - GNDEC""",Rounded Off,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,Round Off,0.0,No,,0
+"""Salary - GNDEC""",Salary,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Sales Expenses - GNDEC""",Sales Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Telephone Expenses - GNDEC""",Telephone Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Travel Expenses - GNDEC""",Travel Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Utility Expenses - GNDEC""",Utility Expenses,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Write Off - GNDEC""",Write Off,Guru Nanak Dev Engineering College,Indirect Expenses - GNDEC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Expenses - NSET""",Expenses,Nankana Sahib Education Trust,,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Expenses - NSET""",Direct Expenses,Nankana Sahib Education Trust,Expenses - NSET,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Stock Expenses - NSET""",Stock Expenses,Nankana Sahib Education Trust,Direct Expenses - NSET,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Cost of Goods Sold - NSET""",Cost of Goods Sold,Nankana Sahib Education Trust,Stock Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,Cost of Goods Sold,0.0,No,,0
+"""Expenses Included In Valuation - NSET""",Expenses Included In Valuation,Nankana Sahib Education Trust,Stock Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,Expenses Included In Valuation,0.0,No,,0
+"""Stock Adjustment - NSET""",Stock Adjustment,Nankana Sahib Education Trust,Stock Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,Stock Adjustment,0.0,No,,0
+"""Indirect Expenses - NSET""",Indirect Expenses,Nankana Sahib Education Trust,Expenses - NSET,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Administrative Expenses - NSET""",Administrative Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Commission on Sales - NSET""",Commission on Sales,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Depreciation - NSET""",Depreciation,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,Depreciation,0.0,No,,0
+"""Entertainment Expenses - NSET""",Entertainment Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Exchange Gain/Loss - NSET""",Exchange Gain/Loss,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Freight and Forwarding Charges - NSET""",Freight and Forwarding Charges,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,Chargeable,0.0,No,,0
+"""Gain/Loss on Asset Disposal - NSET""",Gain/Loss on Asset Disposal,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Legal Expenses - NSET""",Legal Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Marketing Expenses - NSET""",Marketing Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Miscellaneous Expenses - NSET""",Miscellaneous Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Maintenance Expenses - NSET""",Office Maintenance Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Rent - NSET""",Office Rent,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Postal Expenses - NSET""",Postal Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Print and Stationary - NSET""",Print and Stationary,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Rounded Off - NSET""",Rounded Off,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,Round Off,0.0,No,,0
+"""Salary - NSET""",Salary,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Sales Expenses - NSET""",Sales Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Telephone Expenses - NSET""",Telephone Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Travel Expenses - NSET""",Travel Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Utility Expenses - NSET""",Utility Expenses,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Write Off - NSET""",Write Off,Nankana Sahib Education Trust,Indirect Expenses - NSET,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Expenses - T""",Expenses,TCC-3,,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Expenses - T""",Direct Expenses,TCC-3,Expenses - T,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Stock Expenses - T""",Stock Expenses,TCC-3,Direct Expenses - T,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Cost of Goods Sold - T""",Cost of Goods Sold,TCC-3,Stock Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Cost of Goods Sold,0.0,No,,0
+"""Expenses Included In Asset Valuation - T""",Expenses Included In Asset Valuation,TCC-3,Stock Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Expenses Included In Asset Valuation,0.0,No,,0
+"""Expenses Included In Valuation - T""",Expenses Included In Valuation,TCC-3,Stock Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Expenses Included In Valuation,0.0,No,,0
+"""Stock Adjustment - T""",Stock Adjustment,TCC-3,Stock Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Stock Adjustment,0.0,No,,0
+"""Indirect Expenses - T""",Indirect Expenses,TCC-3,Expenses - T,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Administrative Expenses - T""",Administrative Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Commission on Sales - T""",Commission on Sales,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Depreciation - T""",Depreciation,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Depreciation,0.0,No,,0
+"""Entertainment Expenses - T""",Entertainment Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Exchange Gain/Loss - T""",Exchange Gain/Loss,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Freight and Forwarding Charges - T""",Freight and Forwarding Charges,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Chargeable,0.0,No,,0
+"""Gain/Loss on Asset Disposal - T""",Gain/Loss on Asset Disposal,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Legal Expenses - T""",Legal Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Marketing Expenses - T""",Marketing Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Chargeable,0.0,No,,0
+"""Miscellaneous Expenses - T""",Miscellaneous Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Chargeable,0.0,No,,0
+"""Office Maintenance Expenses - T""",Office Maintenance Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Rent - T""",Office Rent,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Postal Expenses - T""",Postal Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Print and Stationery - T""",Print and Stationery,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Round Off - T""",Round Off,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,Round Off,0.0,No,,0
+"""Salary - T""",Salary,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Sales Expenses - T""",Sales Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Telephone Expenses - T""",Telephone Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Travel Expenses - T""",Travel Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Utility Expenses - T""",Utility Expenses,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Write Off - T""",Write Off,TCC-3,Indirect Expenses - T,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Expenses - TCC""",Expenses,Testing and Consultancy Cell,,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Expenses - TCC""",Direct Expenses,Testing and Consultancy Cell,Expenses - TCC,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Stock Expenses - TCC""",Stock Expenses,Testing and Consultancy Cell,Direct Expenses - TCC,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Cost of Goods Sold - TCC""",Cost of Goods Sold,Testing and Consultancy Cell,Stock Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Cost of Goods Sold,0.0,No,,0
+"""Expenses Included In Valuation - TCC""",Expenses Included In Valuation,Testing and Consultancy Cell,Stock Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Expenses Included In Valuation,0.0,No,,0
+"""Stock Adjustment - TCC""",Stock Adjustment,Testing and Consultancy Cell,Stock Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Stock Adjustment,0.0,No,,0
+"""Indirect Expenses - TCC""",Indirect Expenses,Testing and Consultancy Cell,Expenses - TCC,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Administrative Expenses - TCC""",Administrative Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Commission on Sales - TCC""",Commission on Sales,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Depreciation - TCC""",Depreciation,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Depreciation,0.0,No,,0
+"""Entertainment Expenses - TCC""",Entertainment Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Exchange Gain/Loss - TCC""",Exchange Gain/Loss,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Freight and Forwarding Charges - TCC""",Freight and Forwarding Charges,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Chargeable,0.0,No,,0
+"""Gain/Loss on Asset Disposal - TCC""",Gain/Loss on Asset Disposal,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Legal Expenses - TCC""",Legal Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Marketing Expenses - TCC""",Marketing Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Miscellaneous Expenses - TCC""",Miscellaneous Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Maintenance Expenses - TCC""",Office Maintenance Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Rent - TCC""",Office Rent,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Postal Expenses - TCC""",Postal Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Print and Stationary - TCC""",Print and Stationary,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Rounded Off - TCC""",Rounded Off,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Round Off,0.0,No,,0
+"""Salary - TCC""",Salary,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Sales Expenses - TCC""",Sales Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Telephone Expenses - TCC""",Telephone Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Travel Expenses - TCC""",Travel Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Utility Expenses - TCC""",Utility Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Write Off - TCC""",Write Off,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Expenses - TCC2""",Expenses,Testing and Consultancy Cell2,,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Expenses - TCC2""",Direct Expenses,Testing and Consultancy Cell2,Expenses - TCC2,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Stock Expenses - TCC2""",Stock Expenses,Testing and Consultancy Cell2,Direct Expenses - TCC2,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Cost of Goods Sold - TCC2""",Cost of Goods Sold,Testing and Consultancy Cell2,Stock Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,Cost of Goods Sold,0.0,No,,0
+"""Expenses Included In Valuation - TCC2""",Expenses Included In Valuation,Testing and Consultancy Cell2,Stock Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,Expenses Included In Valuation,0.0,No,,0
+"""Stock Adjustment - TCC2""",Stock Adjustment,Testing and Consultancy Cell2,Stock Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,Stock Adjustment,0.0,No,,0
+"""Indirect Expenses - TCC2""",Indirect Expenses,Testing and Consultancy Cell2,Expenses - TCC2,0,,1,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Administrative Expenses - TCC2""",Administrative Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Commission on Sales - TCC2""",Commission on Sales,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Depreciation - TCC2""",Depreciation,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,Depreciation,0.0,No,,0
+"""Entertainment Expenses - TCC2""",Entertainment Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Exchange Gain/Loss - TCC2""",Exchange Gain/Loss,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Freight and Forwarding Charges - TCC2""",Freight and Forwarding Charges,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,Chargeable,0.0,No,,0
+"""Gain/Loss on Asset Disposal - TCC2""",Gain/Loss on Asset Disposal,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Legal Expenses - TCC2""",Legal Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Marketing Expenses - TCC2""",Marketing Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Miscellaneous Expenses - TCC2""",Miscellaneous Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Maintenance Expenses - TCC2""",Office Maintenance Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Office Rent - TCC2""",Office Rent,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Postal Expenses - TCC2""",Postal Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Print and Stationary - TCC2""",Print and Stationary,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Rounded Off - TCC2""",Rounded Off,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,Round Off,0.0,No,,0
+"""Salary - TCC2""",Salary,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Sales Expenses - TCC2""",Sales Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Telephone Expenses - TCC2""",Telephone Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Travel Expenses - TCC2""",Travel Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Utility Expenses - TCC2""",Utility Expenses,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Write Off - TCC2""",Write Off,Testing and Consultancy Cell2,Indirect Expenses - TCC2,0,,0,Expense,Profit and Loss,INR,0,,0.0,No,,0
+"""Income - GNDEC""",Income,Guru Nanak Dev Engineering College,,0,,1,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Income - GNDEC""",Direct Income,Guru Nanak Dev Engineering College,Income - GNDEC,0,,1,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Sales - GNDEC""",Sales,Guru Nanak Dev Engineering College,Direct Income - GNDEC,0,,0,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Service - GNDEC""",Service,Guru Nanak Dev Engineering College,Direct Income - GNDEC,0,,0,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Indirect Income - GNDEC""",Indirect Income,Guru Nanak Dev Engineering College,Income - GNDEC,0,,1,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Income - NSET""",Income,Nankana Sahib Education Trust,,0,,1,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Income - NSET""",Direct Income,Nankana Sahib Education Trust,Income - NSET,0,,1,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Sales - NSET""",Sales,Nankana Sahib Education Trust,Direct Income - NSET,0,,0,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Service - NSET""",Service,Nankana Sahib Education Trust,Direct Income - NSET,0,,0,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Indirect Income - NSET""",Indirect Income,Nankana Sahib Education Trust,Income - NSET,0,,1,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Income - T""",Income,TCC-3,,0,,1,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Income - T""",Direct Income,TCC-3,Income - T,0,,1,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Sales - T""",Sales,TCC-3,Direct Income - T,0,,0,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Service - T""",Service,TCC-3,Direct Income - T,0,,0,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Indirect Income - T""",Indirect Income,TCC-3,Income - T,0,,1,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Income - TCC""",Income,Testing and Consultancy Cell,,0,,1,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Income - TCC""",Direct Income,Testing and Consultancy Cell,Income - TCC,0,,1,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Sales - TCC""",Sales,Testing and Consultancy Cell,Direct Income - TCC,0,,0,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Service - TCC""",Service,Testing and Consultancy Cell,Direct Income - TCC,0,,0,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Indirect Income - TCC""",Indirect Income,Testing and Consultancy Cell,Income - TCC,0,,1,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Income - TCC2""",Income,Testing and Consultancy Cell2,,0,,1,Income,Profit and Loss,INR,0,,0.0,No,,0
+"""Direct Income - TCC2""",Direct Income,Testing and Consultancy Cell2,Income - TCC2,0,,1,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Sales - TCC2""",Sales,Testing and Consultancy Cell2,Direct Income - TCC2,0,,0,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Service - TCC2""",Service,Testing and Consultancy Cell2,Direct Income - TCC2,0,,0,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Indirect Income - TCC2""",Indirect Income,Testing and Consultancy Cell2,Income - TCC2,0,,1,Income,Profit and Loss,INR,0,Income Account,0.0,No,,0
+"""Source of Funds (Liabilities) - GNDEC""",Source of Funds (Liabilities),Guru Nanak Dev Engineering College,,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Capital Account - GNDEC""",Capital Account,Guru Nanak Dev Engineering College,Source of Funds (Liabilities) - GNDEC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Reserves and Surplus - GNDEC""",Reserves and Surplus,Guru Nanak Dev Engineering College,Capital Account - GNDEC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Shareholders Funds - GNDEC""",Shareholders Funds,Guru Nanak Dev Engineering College,Capital Account - GNDEC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Liabilities - GNDEC""",Current Liabilities,Guru Nanak Dev Engineering College,Source of Funds (Liabilities) - GNDEC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Payable - GNDEC""",Accounts Payable,Guru Nanak Dev Engineering College,Current Liabilities - GNDEC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Creditors - GNDEC""",Creditors,Guru Nanak Dev Engineering College,Accounts Payable - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Payable,0.0,No,,0
+"""Payroll Payable - GNDEC""",Payroll Payable,Guru Nanak Dev Engineering College,Accounts Payable - GNDEC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Duties and Taxes - GNDEC""",Duties and Taxes,Guru Nanak Dev Engineering College,Current Liabilities - GNDEC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""CGST - GNDEC""",CGST,Guru Nanak Dev Engineering College,Duties and Taxes - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Tax,9.0,No,,0
+"""IGST - GNDEC""",IGST,Guru Nanak Dev Engineering College,Duties and Taxes - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Tax,18.0,No,,0
+"""SGST - GNDEC""",SGST,Guru Nanak Dev Engineering College,Duties and Taxes - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Tax,9.0,No,,0
+"""TDS - GNDEC""",TDS,Guru Nanak Dev Engineering College,Duties and Taxes - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Tax,0.0,No,,0
+"""TDS Payable - GNDEC""",TDS Payable,Guru Nanak Dev Engineering College,Duties and Taxes - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Tax,0.0,No,,0
+"""VAT 14% - GNDEC""",VAT 14%,Guru Nanak Dev Engineering College,Duties and Taxes - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Tax,14.0,No,,0
+"""VAT 4% - GNDEC""",VAT 4%,Guru Nanak Dev Engineering College,Duties and Taxes - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Tax,4.0,No,,0
+"""VAT 5% - GNDEC""",VAT 5%,Guru Nanak Dev Engineering College,Duties and Taxes - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Tax,5.0,No,,0
+"""Loans (Liabilities) - GNDEC""",Loans (Liabilities),Guru Nanak Dev Engineering College,Current Liabilities - GNDEC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Bank Overdraft Account - GNDEC""",Bank Overdraft Account,Guru Nanak Dev Engineering College,Loans (Liabilities) - GNDEC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Secured Loans - GNDEC""",Secured Loans,Guru Nanak Dev Engineering College,Loans (Liabilities) - GNDEC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Unsecured Loans - GNDEC""",Unsecured Loans,Guru Nanak Dev Engineering College,Loans (Liabilities) - GNDEC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Liabilities - GNDEC""",Stock Liabilities,Guru Nanak Dev Engineering College,Current Liabilities - GNDEC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Received But Not Billed - GNDEC""",Stock Received But Not Billed,Guru Nanak Dev Engineering College,Stock Liabilities - GNDEC,0,,0,Liability,Balance Sheet,INR,0,Stock Received But Not Billed,0.0,No,,0
+"""Source of Funds (Liabilities) - NSET""",Source of Funds (Liabilities),Nankana Sahib Education Trust,,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Capital Account - NSET""",Capital Account,Nankana Sahib Education Trust,Source of Funds (Liabilities) - NSET,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Reserves and Surplus - NSET""",Reserves and Surplus,Nankana Sahib Education Trust,Capital Account - NSET,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Shareholders Funds - NSET""",Shareholders Funds,Nankana Sahib Education Trust,Capital Account - NSET,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Liabilities - NSET""",Current Liabilities,Nankana Sahib Education Trust,Source of Funds (Liabilities) - NSET,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Payable - NSET""",Accounts Payable,Nankana Sahib Education Trust,Current Liabilities - NSET,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Creditors - NSET""",Creditors,Nankana Sahib Education Trust,Accounts Payable - NSET,0,,0,Liability,Balance Sheet,INR,0,Payable,0.0,No,,0
+"""Payroll Payable - NSET""",Payroll Payable,Nankana Sahib Education Trust,Accounts Payable - NSET,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Duties and Taxes - NSET""",Duties and Taxes,Nankana Sahib Education Trust,Current Liabilities - NSET,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""TDS - NSET""",TDS,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,0,Liability,Balance Sheet,INR,0,Tax,0.0,No,,0
+"""Loans (Liabilities) - NSET""",Loans (Liabilities),Nankana Sahib Education Trust,Current Liabilities - NSET,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Bank Overdraft Account - NSET""",Bank Overdraft Account,Nankana Sahib Education Trust,Loans (Liabilities) - NSET,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Secured Loans - NSET""",Secured Loans,Nankana Sahib Education Trust,Loans (Liabilities) - NSET,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Unsecured Loans - NSET""",Unsecured Loans,Nankana Sahib Education Trust,Loans (Liabilities) - NSET,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Liabilities - NSET""",Stock Liabilities,Nankana Sahib Education Trust,Current Liabilities - NSET,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Received But Not Billed - NSET""",Stock Received But Not Billed,Nankana Sahib Education Trust,Stock Liabilities - NSET,0,,0,Liability,Balance Sheet,INR,0,Stock Received But Not Billed,0.0,No,,0
+"""Source of Funds (Liabilities) - T""",Source of Funds (Liabilities),TCC-3,,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Liabilities - T""",Current Liabilities,TCC-3,Source of Funds (Liabilities) - T,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Payable - T""",Accounts Payable,TCC-3,Current Liabilities - T,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Creditors - T""",Creditors,TCC-3,Accounts Payable - T,0,,0,Liability,Balance Sheet,INR,0,Payable,0.0,No,,0
+"""Payroll Payable - T""",Payroll Payable,TCC-3,Accounts Payable - T,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Duties and Taxes - T""",Duties and Taxes,TCC-3,Current Liabilities - T,0,,1,Liability,Balance Sheet,INR,0,Tax,0.0,No,,0
+"""TDS Payable - T""",TDS Payable,TCC-3,Duties and Taxes - T,0,,0,Liability,Balance Sheet,INR,0,Tax,0.0,No,,0
+"""SGST - T""",SGST,TCC-3,Duties and Taxes - T,0,,0,Liability,Balance Sheet,INR,0,Tax,9.0,No,,0
+"""CGST - T""",CGST,TCC-3,Duties and Taxes - T,0,,0,Liability,Balance Sheet,INR,0,Tax,9.0,No,,0
+"""IGST - T""",IGST,TCC-3,Duties and Taxes - T,0,,0,Liability,Balance Sheet,INR,0,Tax,18.0,No,,0
+"""VAT 5% - T""",VAT 5%,TCC-3,Duties and Taxes - T,0,,0,Liability,Balance Sheet,INR,0,Tax,5.0,No,,0
+"""VAT 4% - T""",VAT 4%,TCC-3,Duties and Taxes - T,0,,0,Liability,Balance Sheet,INR,0,Tax,4.0,No,,0
+"""VAT 14% - T""",VAT 14%,TCC-3,Duties and Taxes - T,0,,0,Liability,Balance Sheet,INR,0,Tax,14.0,No,,0
+"""Loans (Liabilities) - T""",Loans (Liabilities),TCC-3,Current Liabilities - T,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Bank Overdraft Account - T""",Bank Overdraft Account,TCC-3,Loans (Liabilities) - T,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Secured Loans - T""",Secured Loans,TCC-3,Loans (Liabilities) - T,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Unsecured Loans - T""",Unsecured Loans,TCC-3,Loans (Liabilities) - T,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Liabilities - T""",Stock Liabilities,TCC-3,Current Liabilities - T,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Asset Received But Not Billed - T""",Asset Received But Not Billed,TCC-3,Stock Liabilities - T,0,,0,Liability,Balance Sheet,INR,0,Asset Received But Not Billed,0.0,No,,0
+"""Stock Received But Not Billed - T""",Stock Received But Not Billed,TCC-3,Stock Liabilities - T,0,,0,Liability,Balance Sheet,INR,0,Stock Received But Not Billed,0.0,No,,0
+"""Source of Funds (Liabilities) - TCC""",Source of Funds (Liabilities),Testing and Consultancy Cell,,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Capital Account - TCC""",Capital Account,Testing and Consultancy Cell,Source of Funds (Liabilities) - TCC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Reserves and Surplus - TCC""",Reserves and Surplus,Testing and Consultancy Cell,Capital Account - TCC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Shareholders Funds - TCC""",Shareholders Funds,Testing and Consultancy Cell,Capital Account - TCC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Liabilities - TCC""",Current Liabilities,Testing and Consultancy Cell,Source of Funds (Liabilities) - TCC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Payable - TCC""",Accounts Payable,Testing and Consultancy Cell,Current Liabilities - TCC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Creditors - TCC""",Creditors,Testing and Consultancy Cell,Accounts Payable - TCC,0,,0,Liability,Balance Sheet,INR,0,Payable,0.0,No,,0
+"""Payroll Payable - TCC""",Payroll Payable,Testing and Consultancy Cell,Accounts Payable - TCC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Duties and Taxes - TCC""",Duties and Taxes,Testing and Consultancy Cell,Current Liabilities - TCC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""CGST - TCC""",CGST,Testing and Consultancy Cell,Duties and Taxes - TCC,0,,0,Liability,Balance Sheet,INR,0,Tax,9.0,No,,0
+"""SGST - TCC""",SGST,Testing and Consultancy Cell,Duties and Taxes - TCC,0,,0,Liability,Balance Sheet,INR,0,Tax,9.0,No,,0
+"""TDS - TCC""",TDS,Testing and Consultancy Cell,Duties and Taxes - TCC,0,,0,Liability,Balance Sheet,INR,0,Tax,0.0,No,,0
+"""Loans (Liabilities) - TCC""",Loans (Liabilities),Testing and Consultancy Cell,Current Liabilities - TCC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Bank Overdraft Account - TCC""",Bank Overdraft Account,Testing and Consultancy Cell,Loans (Liabilities) - TCC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Secured Loans - TCC""",Secured Loans,Testing and Consultancy Cell,Loans (Liabilities) - TCC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Unsecured Loans - TCC""",Unsecured Loans,Testing and Consultancy Cell,Loans (Liabilities) - TCC,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Liabilities - TCC""",Stock Liabilities,Testing and Consultancy Cell,Current Liabilities - TCC,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Received But Not Billed - TCC""",Stock Received But Not Billed,Testing and Consultancy Cell,Stock Liabilities - TCC,0,,0,Liability,Balance Sheet,INR,0,Stock Received But Not Billed,0.0,No,,0
+"""Source of Funds (Liabilities) - TCC2""",Source of Funds (Liabilities),Testing and Consultancy Cell2,,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Capital Account - TCC2""",Capital Account,Testing and Consultancy Cell2,Source of Funds (Liabilities) - TCC2,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Reserves and Surplus - TCC2""",Reserves and Surplus,Testing and Consultancy Cell2,Capital Account - TCC2,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Shareholders Funds - TCC2""",Shareholders Funds,Testing and Consultancy Cell2,Capital Account - TCC2,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Current Liabilities - TCC2""",Current Liabilities,Testing and Consultancy Cell2,Source of Funds (Liabilities) - TCC2,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Accounts Payable - TCC2""",Accounts Payable,Testing and Consultancy Cell2,Current Liabilities - TCC2,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Creditors - TCC2""",Creditors,Testing and Consultancy Cell2,Accounts Payable - TCC2,0,,0,Liability,Balance Sheet,INR,0,Payable,0.0,No,,0
+"""Payroll Payable - TCC2""",Payroll Payable,Testing and Consultancy Cell2,Accounts Payable - TCC2,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Duties and Taxes - TCC2""",Duties and Taxes,Testing and Consultancy Cell2,Current Liabilities - TCC2,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""CGST - TCC2""",CGST,Testing and Consultancy Cell2,Duties and Taxes - TCC2,0,,0,Liability,Balance Sheet,INR,0,Tax,9.0,No,,0
+"""IGST - TCC2""",IGST,Testing and Consultancy Cell2,Duties and Taxes - TCC2,0,,0,Liability,Balance Sheet,INR,0,Tax,18.0,No,,0
+"""SGST - TCC2""",SGST,Testing and Consultancy Cell2,Duties and Taxes - TCC2,0,,0,Liability,Balance Sheet,INR,0,Tax,9.0,No,,0
+"""TDS - TCC2""",TDS,Testing and Consultancy Cell2,Duties and Taxes - TCC2,0,,0,Liability,Balance Sheet,INR,0,Tax,0.0,No,,0
+"""TDS Payable - TCC2""",TDS Payable,Testing and Consultancy Cell2,Duties and Taxes - TCC2,0,,0,Liability,Balance Sheet,INR,0,Tax,0.0,No,,0
+"""VAT 14% - TCC2""",VAT 14%,Testing and Consultancy Cell2,Duties and Taxes - TCC2,0,,0,Liability,Balance Sheet,INR,0,Tax,14.0,No,,0
+"""VAT 4% - TCC2""",VAT 4%,Testing and Consultancy Cell2,Duties and Taxes - TCC2,0,,0,Liability,Balance Sheet,INR,0,Tax,4.0,No,,0
+"""VAT 5% - TCC2""",VAT 5%,Testing and Consultancy Cell2,Duties and Taxes - TCC2,0,,0,Liability,Balance Sheet,INR,0,Tax,5.0,No,,0
+"""Loans (Liabilities) - TCC2""",Loans (Liabilities),Testing and Consultancy Cell2,Current Liabilities - TCC2,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Bank Overdraft Account - TCC2""",Bank Overdraft Account,Testing and Consultancy Cell2,Loans (Liabilities) - TCC2,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Secured Loans - TCC2""",Secured Loans,Testing and Consultancy Cell2,Loans (Liabilities) - TCC2,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Unsecured Loans - TCC2""",Unsecured Loans,Testing and Consultancy Cell2,Loans (Liabilities) - TCC2,0,,0,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Liabilities - TCC2""",Stock Liabilities,Testing and Consultancy Cell2,Current Liabilities - TCC2,0,,1,Liability,Balance Sheet,INR,0,,0.0,No,,0
+"""Stock Received But Not Billed - TCC2""",Stock Received But Not Billed,Testing and Consultancy Cell2,Stock Liabilities - TCC2,0,,0,Liability,Balance Sheet,INR,0,Stock Received But Not Billed,0.0,No,,0
