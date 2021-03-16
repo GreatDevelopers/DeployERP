@@ -15,3 +15,19 @@ Generated
 - Sales and tax template
 - letter head
 - Set up default price list
+
+### Chart of Accounts
+
+![image](https://user-images.githubusercontent.com/53931644/111279311-946bb080-8660-11eb-83d8-32c2aa656f60.png)
+
+### Department Tree
+
+https://erp.gndec.ac.in/desk#Tree/Department
+
+### Item group
+
+![image](https://user-images.githubusercontent.com/53931644/111279710-f9270b00-8660-11eb-84e1-f6d9eee70165.png)
+
+### Item list
+
+![image](https://user-images.githubusercontent.com/53931644/111280006-53c06700-8661-11eb-8e8c-a1a276488b6e.png)
