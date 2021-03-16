@@ -73,10 +73,8 @@ upto 3 storeys: 2/
 
 ![image](https://user-images.githubusercontent.com/53931644/111279710-f9270b00-8660-11eb-84e1-f6d9eee70165.png)
 
-### Item list
-
-![image](https://user-images.githubusercontent.com/53931644/111280006-53c06700-8661-11eb-8e8c-a1a276488b6e.png)
+### [Item list](https://erp.gndec.ac.in/desk#List/Item/List)
 
 ### [Company Tree](https://erp.gndec.ac.in/desk#Tree/Company)
 
-### [Employ Tree](https://erp.gndec.ac.in/desk#Tree/Account)
+### [Employee Tree](https://erp.gndec.ac.in/desk#Tree/Account)
