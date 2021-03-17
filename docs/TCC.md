@@ -22,3 +22,5 @@ Generated
 ### [Company Tree](https://erp.gndec.ac.in/desk#Tree/Company)
 ### [Employee Tree](https://erp.gndec.ac.in/desk#Tree/Employee)
 
+Issues we are facing:
+- The issue is that we want to automate the procedure of sending email whenever user of erpnext create quotation, sales order, sales invoice, delivery note, payment request and payment entry, then email should be automatically sent.
