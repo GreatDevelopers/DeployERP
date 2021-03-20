@@ -101,8 +101,24 @@ Satff or client (customers) are added, either from:
 
 > Username, Password, Address, Telephone and Org tupe are mandatory.
 
-## 5 Add product / service groups
+## 5 Add units
 
+From [Admin panel] -> catalog -> Units -> [Add unit]
 
+- Unit:
 
-## 6 Add product / services
+For example:
+
+- Sq metre
+- Set
+- Nos
+
+## 6 Add product / service groups
+
+From [Admin panel] -> catalog -> category -> [Add category]
+
+- Name:
+- Parent:
+- Unit:
+
+## 7 Add product / services
