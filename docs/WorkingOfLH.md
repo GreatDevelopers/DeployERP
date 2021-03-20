@@ -28,7 +28,7 @@
 
 ![Options from set-up (top right)](LHui/A123918.png)
 
-> If you click on `LibreHatti` from top center or top left, then you will be to HOME page as user (non-admin). If you click on `Home` from top left, when you are on admin page, then you will be taken to HOME page of admin user. 
+> If you click on `LibreHatti` from top center or top left, then you will be to HOME page as user (non-admin). If you click on `Home` from top left, when you are on admin page (Admin panel), then you will be taken to HOME page of admin user. 
 
 ## 3 Company Set-up
 
