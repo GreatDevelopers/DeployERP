@@ -98,3 +98,5 @@ Satff or client (customers) are added, either from:
 - Is org
 - Org type:
 - Company
+
+> Username, Password, Address, Telephone and Org tupe are mandatory.
