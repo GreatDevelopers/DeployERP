@@ -1,26 +1,103 @@
-## Our team has done these tasks :
+---
+theme: gaia
+_class: lead
+paginate: true
+backgroundColor: #fff
+marp: true
 
-- Made the company Nanakana Sahib Education Trust --> Guru Nanak Dev Engineering College --> Testing and Consultancy Cell
-- Made Department as group
-- Made labs as child group of department
-- Created item attribute, item template, item variant:   [ item attribute --> item template -->item variant.]
-- Added taxes:    [taxes -->Open chart of accounts--> Source of Funds(Liabilities)-->Current  liabilities-->Duties and Taxes. Here add child.]
-- Created quotation  [Quotation -->Sales order -->(payment request or payment entry) --> Sales invoice and delivery note --> Payment Request -->Payment Entry]
+backgroundImage: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKFcfc3lLfpbn8A5tdeEJ1htvfSaduvEn1Lg&usqp=CAU')
 
-Generated
-- Payment Template 
-- Sales and tax template
-- letter head
-- Set up default price list
+---
+# ```ERPNext```
 
-### [Chart of Accounts](https://erp.gndec.ac.in/desk#Tree/Account)
-![image](https://user-images.githubusercontent.com/53931644/111279311-946bb080-8660-11eb-83d8-32c2aa656f60.png)
-### [Department Tree](https://erp.gndec.ac.in/desk#Tree/Department)
-### [Item group](https://erp.gndec.ac.in/desk#Tree/Item%20Group)
-![image](https://user-images.githubusercontent.com/53931644/111279710-f9270b00-8660-11eb-84e1-f6d9eee70165.png)
-### [Item list](https://erp.gndec.ac.in/desk#List/Item/List)
-### [Company Tree](https://erp.gndec.ac.in/desk#Tree/Company)
-### [Employee Tree](https://erp.gndec.ac.in/desk#Tree/Employee)
+---
 
-Issues we are facing:
-- The issue is that we want to automate the procedure of sending email whenever user of erpnext create quotation, sales order, sales invoice, delivery note, payment request and payment entry, then email should be automatically sent.
+# ```Company```
+
+![bg :100% 90%](images/Company.png)
+
+---
+
+# ```Item Group```
+![bg :100% 70%](images/ItemGroup.png)
+
+---
+# ```Item List```
+![bg :100% 70%](images/ItemList.png)
+
+---
+# ```Customer List```
+![bg :90% 70%](images/CustomerList.png)
+
+----
+# ```Price List```
+![bg :90% 70%](images/PriceList.png)
+
+----
+# ```Quotation```
+![bg right :100% 90%](images/Quotation.jpg)
+
+---- 
+# ```Sales order```
+![bg left :100% 70%](https://user-images.githubusercontent.com/57444962/111754875-7bf8d180-88be-11eb-861c-a32bf699de75.jpg)
+
+
+---
+
+![bg left :100% 70%](https://user-images.githubusercontent.com/57444962/111754987-9d59bd80-88be-11eb-88ff-a6da118a1219.jpg)
+
+
+---
+
+# ```Delivery Note```
+![bg right :100% 70%](https://user-images.githubusercontent.com/57444962/111756309-13125900-88c0-11eb-9ed4-9691acb2e406.jpg)
+
+
+----
+
+![bg right :100% 70%](https://user-images.githubusercontent.com/57444962/111756373-232a3880-88c0-11eb-8f84-0bff4bc017df.jpg)
+
+
+----
+# ```Payment Request```
+![bg left :100% 70%](images/Payment_Request.jpg)
+
+----
+# ```Sales Invoice```
+![bg right :100% 70%](images/Sales_Invoice.jpg)
+
+----
+# ```Payment Entry```
+![bg left :100% 70%](images/Payment_Entry.jpg)
+
+----
+
+# ```Email```
+![bg :90% 70%](images/Email.png)
+
+----
+# ```Chart of Accounts```
+![bg  :100% 70%](images/ChartOfAccounts.png)
+
+----
+# ```General Ledger```
+
+![bg :100% 80%](images/GeneralLedger.png)
+
+---
+# ```Journal Entry```
+
+![bg :100% 80%](images/JournalEntry.png)
+
+---
+# ```Balance Sheet```
+![bg :100% 80%](images/BalanceSheet.png)
+
+------
+
+# ```Profit and Loss Statement```
+
+![bg :90% 80%](images/ProfitAndLoss.png)
+
+
+
