@@ -121,4 +121,15 @@ From [Admin panel] -> catalog -> category -> [Add category]
 - Parent:
 - Unit:
 
+Tree may looks like:
+
+1. SoM
+    1. Field
+        1. Cube
+        2. Brick
+    2. Lab
+        1. Cube
+        2. Brick
+
 ## 7 Add product / services
+
