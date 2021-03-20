@@ -67,3 +67,32 @@ To set-up a new company, from admin page, [Useraccounts] -> [Admin Organisations
 - Tagline: Serving society technically
 - Title: Tessting and Consultancy Cell
 - Organisation type: Private
+
+## 4 Add user / customer
+
+Satff or client (customers) are added, either from:
+
+1. [User home] -> New Customer or
+2. [Adminhome] -> Authentication and authorization -> User -> [Add user]
+
+- Username:
+- Email address:
+- First name:
+- Last name:
+- Password:
+- Password confirmation:
+
+- Address:
+- Telephone:
+- Fax:
+- Pan no:
+- Stc no:
+- Gst in:
+- State:
+- State code:
+- Avatar:
+- Tagline:
+- Title:
+- Is org
+- Org type:
+- Company
