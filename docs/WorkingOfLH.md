@@ -100,3 +100,9 @@ Satff or client (customers) are added, either from:
 - Company
 
 > Username, Password, Address, Telephone and Org tupe are mandatory.
+
+## 5 Add product / service groups
+
+
+
+## 6 Add product / services
