@@ -82,6 +82,8 @@ Satff or client (customers) are added, either from:
 - Password:
 - Password confirmation:
 
+---
+
 - Address:
 - Telephone:
 - Fax:
