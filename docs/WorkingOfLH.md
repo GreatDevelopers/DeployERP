@@ -136,3 +136,16 @@ Tree may looks like:
 
 ## 7 Add product / services
 
+## 8 Non-payment order
+
+Query or purchase order received, for which payment is no received.
+
+From [Admin Panel] -> Catalog -> Non payment orders -> Add non payment order
+
+- Client:
+- Letter No.
+- Letter Date:
+- Site:
+- Item type:
+
+
