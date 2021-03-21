@@ -130,6 +130,9 @@ Tree may looks like:
     2. Lab
         1. Cube
         2. Brick
+1. Design
+    1. Architectural
+    1. Structural
 
 ## 7 Add product / services
 
