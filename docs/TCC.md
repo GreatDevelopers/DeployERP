@@ -40,10 +40,10 @@ A few items / service:
 Under group 1.1
 
 1 Soil Investigation [has variant]
-1.1 Soil Investigation (up to 10m): 7500/- per bore
-1.2 Soil Investigation (x m, 10 <= x < 20): (7500 + (x -10) * 950 )/- per bore
-1.3 Soil Investigation (x m, 20 <= x < 30): (17000 + (x -20) * 1250 )/- per bore
-1.4 Soil Investigation (x m, 30 <= x < 40): (142000 + (x -20) * 1550
+1.1 Soil Investigation (up to 10m): 7500/- per bore <br/>
+1.2 Soil Investigation (x m, 10 <= x < 20): (7500 + (x -10) * 950 )/- per bore <br/>
+1.3 Soil Investigation (x m, 20 <= x < 30): (17000 + (x -20) * 1250 )/- per bore <br/>
+1.4 Soil Investigation (x m, 30 <= x < 40): (142000 + (x -20) * 1550 <br/>
 )/- per bore
 
 **Without using formula, the list of item variants are very long.
