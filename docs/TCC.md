@@ -24,8 +24,8 @@ updated in all the Docs.**
 3. Surveying
 
 - Price List
-- 
-Territory wise (say for Delhi, rate may be about 10% more than that of Punjab)
+- Territory wise (say for Delhi, rate may be about 10% more than that of Punjab)
+
 **We are exploring how can we do this.**
 
 **Set default Pricing.(Normal person should not be able to change the pricing.)
