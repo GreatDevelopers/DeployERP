@@ -104,7 +104,7 @@ Three different types of Chart of Accounts, needed to be set during
 installation are almost the same.
 **Have maintained hierarchy along separate chart of accounts **
 
-Check https://github.com/GreatDevelopers/DeployERP/blob/main/docs/Images/CoA3Options.png
+
 Later, we need to also have custom reports like reports of test
 performed or design done.
 
