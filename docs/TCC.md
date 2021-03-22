@@ -64,7 +64,7 @@ Under group 2.2
 2.1 Buildings Rate depend on storeys and delivery time:
 upto 3 storeys: 2/- per square feet
 4 to 6 storeys: 3/- pe square feet
-> 6 storeys Lump sum
+6 storeys Lump sum
 The above rates are for normal delivery (30 days in Terms and Conditions)
 for fast delivery (20 days in Terms and Conditions) 25% more
 for super-fast (10 days in Terms and Conditions) delivery 50% more
