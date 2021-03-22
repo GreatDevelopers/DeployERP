@@ -96,8 +96,7 @@ https://github.com/GreatDevelopers/DeployERP/blob/main/Import/CompanyGroup/Simpl
 -----------------
 - Report List
 
-**Reports and Registers have been explored and documented on github and PR created.**
-
+**Reports and Registers have been explored and documented on github.**
 Profit / loss
 Budget
 
