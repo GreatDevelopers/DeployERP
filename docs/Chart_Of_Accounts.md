@@ -6,4 +6,4 @@ One can use standard template of chart of accounts or one can create New chart o
 3. Fill all required fields.
 4. Click on Save.
 
-When we create company,there is a field of Chart of accounts which we can select from dropdown menu.
+When we create company,there is a field of Chart of accounts template which we can select from dropdown menu.It automatically creates Chart of Accounts according to the template.
