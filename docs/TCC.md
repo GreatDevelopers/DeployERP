@@ -3,47 +3,6 @@
 with all data-set which may look as real as possible, like address, GST number.
 
 ## Company
-
-1. Search **Company List** in the search bar.
-2. Click on New Company.
-3. Fill all required fields that are in RED colour and you can also fill optional fields.
-- Company Name
-- Abbreviation
-- Is Group (If we want to make child company under this company then tick this option, otherwise not required to tick this option.)
-- Domain (Select option from dropbar according to the company's work.)
-- Parent Company (If it is parent company then it is not required to fill this field but if it is a child company then fill this field with parent company name.)
-- Default Currency (We can even use INR.)
-- We are getting two templates of Chart Of Accounts templates by default (Indian Chart Of Accounts & Standard Chart of Accounts). We can even make our own Chart of accounts according to our need.
-- Default Letter Head (You can Select option From dropdown OR you can create a new letter head by clicking on the option of CREATE A NEW LETTER HEAD.)
-
-Rest fields can be filled according to the requirement but not mandatory.
-
-![image](https://user-images.githubusercontent.com/53931644/112584559-122c7a80-8e1e-11eb-90b8-7b4d8ad31e7e.png)
-
-4. Click on Save.
-
-## Customer
-
-1. Search Customer List in Search Bar.
-2. Click on New Customer.
-3. Fill all the Required details.
-![image](https://user-images.githubusercontent.com/53931644/112581850-941ba400-8e1c-11eb-8fcd-23e49bb24bb5.png)
-
-4. Click on save
-
-
-## Item
-
-1. Search Item List in Search Bar.
-2. Click on New Item List.
-3. Enter Item Code and Item Name
-4. If you need to 
-
-## Set up tax and Chart of Accounts
-
-1. When we create company,there is an option of Chart of accounts which we can fill 
-2. Search Chart of Accounts in the Search Bar.
-3. 
 ## Employee setup (Sales person/ Accounts Manager / Accountant etc)
 ##  Item List
 
