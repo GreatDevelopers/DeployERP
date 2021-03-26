@@ -9,5 +9,7 @@
  3. Now fill all the required details.
  - In the Accounting Entries section, choose the required account and enter the amount which is debited or credited in the respective column.
  - Make sure that the total amount credited is equal to the total amount debited.  
- 4. We can even check the transactions done through Journal Entry Chart of Accounts.
+
+
+We can even check the transactions done through Journal Entry in the Chart of Accounts.
  
