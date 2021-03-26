@@ -8,14 +8,14 @@ Steps:-
  
 
 For example: 
-1. Material Testing  
-1.1 Soil 
-1.2 Brick  
-1.3 Concrete  
+1. Material Testing    
+1.1 Soil   
+1.2 Brick    
+1.3 Concrete    
 2. Design  
-2.1 Architectural 
-2.2 Structural  
-3. Surveying  
+2.1 Architectural   
+2.2 Structural    
+3. Surveying    
 
-Material Testing, Design and Surveying are Item Groups
+Material Testing, Design and Surveying are Item Groups.  
 Soil, Brick and Concrete are the sub groups of Material Testing.
