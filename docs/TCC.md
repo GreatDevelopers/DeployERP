@@ -13,8 +13,8 @@ Generated
 - letter head
 - Set up default price list
 
-To get brief idea, click on these links:
-1. {Company](https://github.com/Falcon-Coders1/DeployERP/blob/main/docs/Company.md)
+## To get brief idea, click on these links:
+1. [Company](https://github.com/Falcon-Coders1/DeployERP/blob/main/docs/Company.md)
 2. Customer
 3. Item List
 4. Item Group
