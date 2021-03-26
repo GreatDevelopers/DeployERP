@@ -1,11 +1,17 @@
 
-Testing and Consultancy Cell (TCC), with all data-set which may look
-as real as possible, like address, GST number.
+# Testing and Consultancy Cell (TCC)
+with all data-set which may look as real as possible, like address, GST number.
 
-- Company
-. Set up tax and Chart of Accounts
-. Employee setup (Sales person/ Accounts Manager / Accountant etc)
-- Item List
+## Company
+
+1. Search **Company List** in the search bar.
+2. Click on New Company.
+3. Fill all required fields.
+4. Click on Save.
+
+## Set up tax and Chart of Accounts
+## Employee setup (Sales person/ Accounts Manager / Accountant etc)
+##  Item List
 
 **Naming Series changed from default to "TCC-DOC-YYYY" (DOC refers to
 all the Document type.) [Item code will also be in series type. ]
