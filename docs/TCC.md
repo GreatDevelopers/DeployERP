@@ -41,8 +41,9 @@ Rest fields can be filled according to the requirement but not mandatory.
 
 ## Set up tax and Chart of Accounts
 
-1. Search Chart of Accounts in the Search Bar.
-2. 
+1. When we create company,there is an option of Chart of accounts which we can fill 
+2. Search Chart of Accounts in the Search Bar.
+3. 
 ## Employee setup (Sales person/ Accounts Manager / Accountant etc)
 ##  Item List
 
