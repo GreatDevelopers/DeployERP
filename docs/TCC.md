@@ -1,4 +1,4 @@
-Progress Report of TCC Project
+## Progress Report of TCC Project
 
 - Made the company Nanakana Sahib Education Trust --> Guru Nanak Dev Engineering College --> Testing and Consultancy Cell
 - Made Department as group
@@ -13,10 +13,21 @@ Generated
 - letter head
 - Set up default price list
 
-To brief:
-1. Company
+To get brief idea, click on these links:
+1. {Company](https://github.com/Falcon-Coders1/DeployERP/blob/main/docs/Company.md)
 2. Customer
 3. Item List
 4. Item Group
-5. 
+5. Price List
+6. Chart of Accounts
+7. Quotation
+8. Sales Order
+9. Payment Request
+10. Sales Invoice
+11. Payment Entry
+12. General Ledger
+13. Journal Entry
+14. Balance Sheet
+15. Profit and Loss Statement
+
 
