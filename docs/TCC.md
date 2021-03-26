@@ -7,9 +7,14 @@ with all data-set which may look as real as possible, like address, GST number.
 1. Search **Company List** in the search bar.
 2. Click on New Company.
 3. Fill all required fields.
+
+
 4. Click on Save.
 
 ## Set up tax and Chart of Accounts
+
+1. Search Chart of Accounts in the Search Bar.
+2. 
 ## Employee setup (Sales person/ Accounts Manager / Accountant etc)
 ##  Item List
 
@@ -18,7 +23,7 @@ all the Document type.) [Item code will also be in series type. ]
 Naming series can be searched in search bar of ERPNext and can be
 updated in all the Docs.**
 
-. item group and sub-group, like
+## item group and sub-group, like
 
 1. Material Testing
 1.1 Soil
@@ -29,7 +34,7 @@ updated in all the Docs.**
 2.2 Structural
 3. Surveying
 
-- Price List
+## Price List
 - Territory wise (say for Delhi, rate may be about 10% more than that of Punjab)
 
 **We are exploring how can we do this.**
@@ -41,7 +46,7 @@ select Rate]
 For discount, [go to Accounting--> Pricing Rule --> Price Discount
 Scheme--> select Discount ]**
 
-A few items / service:
+## A few items / service:
 
 Under group 1.1
 
