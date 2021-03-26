@@ -18,7 +18,7 @@ with all data-set which may look as real as possible, like address, GST number.
 
 Rest fields can be filled according to the requirement but not mandatory.
 
-![image](https://user-images.githubusercontent.com/53931644/112584409-cd084880-8e1d-11eb-8b06-88a96bbe771e.png)
+![image](https://user-images.githubusercontent.com/53931644/112584559-122c7a80-8e1e-11eb-90b8-7b4d8ad31e7e.png)
 
 4. Click on Save.
 
