@@ -1,0 +1,9 @@
+"LIBREHATTI     ",,,,,,,,,,,,,,,,
+"Payment Register",,,,,,,,,,,,,,,,
+"Payment Register from February-15-2021 to March-14-2021 ",,,,,,,,,,,,,,,,
+"S.No.","Receipt No.","Dated","Name","Address","District","Company","Material","Site","Contact No.","Email Address","Charges","Service Tax (9.0%)","Education Cess (9.0%)","H.Education Cess (%)","TDS","Received Amount"
+1,9351,"Feb. 21, 2021","Chairman","Gill Sabha, Village Kaher","Dhuri",,"Testing of Soil for Bearing Capacity for Construction of OHSR","Kaher","98123-12345","abc@me.pb",11000,990,990,0,0,12980
+2,9352,"Feb. 27, 2021","Executive Engineer","Division – II","Gandhi Nagar",,"Vetting of Mechanical Design/Components","vetting of Piping for 5 MGD WTP at Gandhi Nagar","99152-12341",,7000,630,630,0,0,8260
+3,9353,"March 11, 2021","Manager","Shri Guru Teg Bahadur Sugar Mill","Jeed",,"Testing of Steel Sample","Shri Guru Teg Bahadur Sugar Mill Jeed ","98123-12342","cba@me.pb",5000,450,450,0,0,5900
+4,9354,"March 14, 2021","Kulbir Sharma Contractor","Dev Nagar","Patiala",,"Testing of Cubes","Village bhaini Darera Block Raikot Divsion Ludhiana-1","99152-12343","xyz@me.pb",600,54,54,0,0,708
+"Sum",,,,,,,,,,,23600,0,0,427128,89886,27848

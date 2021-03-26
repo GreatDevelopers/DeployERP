@@ -2,7 +2,7 @@
 
 ### References
 
-1. [Official Dosc / or change it]()
+1. [Installation Link](https://www.digitalocean.com/community/tutorials/how-to-install-an-erpnext-stack-on-ubuntu-18-04)
 
 ### Hardware needed
 
@@ -17,3 +17,5 @@
 1. HDD
 
 ### Operating System used
+
+Ubuntu 18.04

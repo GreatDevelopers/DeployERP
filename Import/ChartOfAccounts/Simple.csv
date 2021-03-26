@@ -1,0 +1,25 @@
+ID/name,account_name,company,parent_account,disabled,account_number,is_group,root_type,report_type,account_currency,inter_company_account,account_type,tax_rate,freeze_account,balance_must_be,include_in_gross
+"""Application of Funds (Assets) - TCC""",Application of Funds (Assets),Testing and Consultancy Cell,,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Current Assets - TCC""",Current Assets,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Accounts Receivable - TCC""",Accounts Receivable,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Debtors - TCC""",Debtors,Testing and Consultancy Cell,Accounts Receivable - TCC,0,,0,Asset,Balance Sheet,INR,0,Receivable,0,No,,0
+"""Bank Accounts - TCC""",Bank Accounts,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Bank,0,No,,0
+"""Cash In Hand - TCC""",Cash In Hand,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Cash,0,No,,0
+"""Cash - TCC""",Cash,Testing and Consultancy Cell,Cash In Hand - TCC,0,,0,Asset,Balance Sheet,INR,0,Cash,0,No,,0
+"""Loans and Advances (Assets) - TCC""",Loans and Advances (Assets),Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Securities and Deposits - TCC""",Securities and Deposits,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Earnest Money - TCC""",Earnest Money,Testing and Consultancy Cell,Securities and Deposits - TCC,0,,0,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Stock Assets - TCC""",Stock Assets,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Stock,0,No,,0
+"""Stock In Hand - TCC""",Stock In Hand,Testing and Consultancy Cell,Stock Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Stock,0,No,,0
+"""Tax Assets - TCC""",Tax Assets,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Fixed Assets - TCC""",Fixed Assets,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Accumulated Depreciations - TCC""",Accumulated Depreciations,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Accumulated Depreciation,0,No,,0
+"""Buildings - TCC""",Buildings,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+"""Capital Equipments - TCC""",Capital Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+"""Electronic Equipments - TCC""",Electronic Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+"""Furnitures and Fixtures - TCC""",Furnitures and Fixtures,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+"""Office Equipments - TCC""",Office Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+"""Plants and Machineries - TCC""",Plants and Machineries,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+"""Investments - TCC""",Investments,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Temporary Accounts - TCC""",Temporary Accounts,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+"""Temporary Opening - TCC""",Temporary Opening,Testing and Consultancy Cell,Temporary Accounts - TCC,0,,0,Asset,Balance Sheet,INR,0,Temporary,0,No,,0

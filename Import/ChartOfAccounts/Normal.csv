@@ -1,0 +1,316 @@
+Data Import Template,,,,,,,,,,,,,,,,
+Table:,Account,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,,,
+Please do not change the template headings.,,,,,,,,,,,,,,,,
+First data column must be blank.,,,,,,,,,,,,,,,,
+"If you are uploading new records, leave the ""name"" (ID) column blank.",,,,,,,,,,,,,,,,
+"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.",,,,,,,,,,,,,,,,
+Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,,,,,,,,,,,,,,,,
+"For updating, you can update only selective columns.",,,,,,,,,,,,,,,,
+You can only upload upto 5000 records in one go. (may be less in some cases),,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+DocType:,Account,,,,,,,,,,,,,,,
+Column Labels:,ID,Account Name,Company,Parent Account,Disable,Account Number,Is Group,Root Type,Report Type,Currency,Inter Company Account,Account Type,Rate,Frozen,Balance must be,Include in gross
+Column Name:,name,account_name,company,parent_account,disabled,account_number,is_group,root_type,report_type,account_currency,inter_company_account,account_type,tax_rate,freeze_account,balance_must_be,include_in_gross
+Mandatory:,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Type:,Data,Data,Link,Link,Check,Data,Check,Select,Select,Link,Check,Select,Float,Select,Select,Check
+Info:,,,Valid Company,Valid Account,0 or 1,,0 or 1,"One of: Asset, Liability, Income, Expense, Equity","One of: Balance Sheet, Profit and Loss",Valid Currency,0 or 1,"One of: Accumulated Depreciation, Asset Received But Not Billed, Bank, Cash, Chargeable, Capital Work in Progress, Cost of Goods Sold, Depreciation, Equity, Expense Account, Expenses Included In Asset Valuation, Expenses Included In Valuation, Fixed Asset, Income Account, Payable, Receivable, Round Off, Stock, Stock Adjustment, Stock Received But Not Billed, Tax, Temporary",,"One of: No, Yes","One of: Debit, Credit",0 or 1
+Start entering data below this line,,,,,,,,,,,,,,,,
+,"""Application of Funds (Assets) - TCC""",Application of Funds (Assets),Testing and Consultancy Cell,,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Current Assets - TCC""",Current Assets,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Accounts Receivable - TCC""",Accounts Receivable,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Debtors - TCC""",Debtors,Testing and Consultancy Cell,Accounts Receivable - TCC,0,,0,Asset,Balance Sheet,INR,0,Receivable,0,No,,0
+,"""Bank Accounts - TCC""",Bank Accounts,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Bank,0,No,,0
+,"""Cash In Hand - TCC""",Cash In Hand,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Cash,0,No,,0
+,"""Cash - TCC""",Cash,Testing and Consultancy Cell,Cash In Hand - TCC,0,,0,Asset,Balance Sheet,INR,0,Cash,0,No,,0
+,"""Loans and Advances (Assets) - TCC""",Loans and Advances (Assets),Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Securities and Deposits - TCC""",Securities and Deposits,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Earnest Money - TCC""",Earnest Money,Testing and Consultancy Cell,Securities and Deposits - TCC,0,,0,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Stock Assets - TCC""",Stock Assets,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,Stock,0,No,,0
+,"""Stock In Hand - TCC""",Stock In Hand,Testing and Consultancy Cell,Stock Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Stock,0,No,,0
+,"""Tax Assets - TCC""",Tax Assets,Testing and Consultancy Cell,Current Assets - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Fixed Assets - TCC""",Fixed Assets,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Accumulated Depreciations - TCC""",Accumulated Depreciations,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Accumulated Depreciation,0,No,,0
+,"""Buildings - TCC""",Buildings,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+,"""Capital Equipments - TCC""",Capital Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+,"""Electronic Equipments - TCC""",Electronic Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+,"""Furnitures and Fixtures - TCC""",Furnitures and Fixtures,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+,"""Office Equipments - TCC""",Office Equipments,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+,"""Plants and Machineries - TCC""",Plants and Machineries,Testing and Consultancy Cell,Fixed Assets - TCC,0,,0,Asset,Balance Sheet,INR,0,Fixed Asset,0,No,,0
+,"""Investments - TCC""",Investments,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Temporary Accounts - TCC""",Temporary Accounts,Testing and Consultancy Cell,Application of Funds (Assets) - TCC,0,,1,Asset,Balance Sheet,INR,0,,0,No,,0
+,"""Temporary Opening - TCC""",Temporary Opening,Testing and Consultancy Cell,Temporary Accounts - TCC,0,,0,Asset,Balance Sheet,INR,0,Temporary,0,No,,0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,"""Expenses - TCC""",Expenses,Testing and Consultancy Cell,,0,,1,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Direct Expenses - TCC""",Direct Expenses,Testing and Consultancy Cell,Expenses - TCC,0,,1,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Stock Expenses - TCC""",Stock Expenses,Testing and Consultancy Cell,Direct Expenses - TCC,0,,1,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Cost of Goods Sold - TCC""",Cost of Goods Sold,Testing and Consultancy Cell,Stock Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Cost of Goods Sold,0,No,,0
+,"""Expenses Included In Valuation - TCC""",Expenses Included In Valuation,Testing and Consultancy Cell,Stock Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Expenses Included In Valuation,0,No,,0
+,"""Stock Adjustment - TCC""",Stock Adjustment,Testing and Consultancy Cell,Stock Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Stock Adjustment,0,No,,0
+,"""Indirect Expenses - TCC""",Indirect Expenses,Testing and Consultancy Cell,Expenses - TCC,0,,1,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Administrative Expenses - TCC""",Administrative Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Commission on Sales - TCC""",Commission on Sales,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Depreciation - TCC""",Depreciation,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Depreciation,0,No,,0
+,"""Entertainment Expenses - TCC""",Entertainment Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Exchange Gain/Loss - TCC""",Exchange Gain/Loss,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Freight and Forwarding Charges - TCC""",Freight and Forwarding Charges,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Chargeable,0,No,,0
+,"""Gain/Loss on Asset Disposal - TCC""",Gain/Loss on Asset Disposal,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Legal Expenses - TCC""",Legal Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Marketing Expenses - TCC""",Marketing Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Miscellaneous Expenses - TCC""",Miscellaneous Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Office Maintenance Expenses - TCC""",Office Maintenance Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Office Rent - TCC""",Office Rent,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Postal Expenses - TCC""",Postal Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Print and Stationary - TCC""",Print and Stationary,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Rounded Off - TCC""",Rounded Off,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,Round Off,0,No,,0
+,"""Salary - TCC""",Salary,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Sales Expenses - TCC""",Sales Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Telephone Expenses - TCC""",Telephone Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Travel Expenses - TCC""",Travel Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Utility Expenses - TCC""",Utility Expenses,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,"""Write Off - TCC""",Write Off,Testing and Consultancy Cell,Indirect Expenses - TCC,0,,0,Expense,Profit and Loss,INR,0,,0,No,,0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,"""Income - TCC""",Income,Testing and Consultancy Cell,,0,,1,Income,Profit and Loss,INR,0,,0,No,,0
+,"""Direct Income - TCC""",Direct Income,Testing and Consultancy Cell,Income - TCC,0,,1,Income,Profit and Loss,INR,0,Income Account,0,No,,0
+,"""Sales - TCC""",Sales,Testing and Consultancy Cell,Direct Income - TCC,0,,0,Income,Profit and Loss,INR,0,Income Account,0,No,,0
+,"""Service - TCC""",Service,Testing and Consultancy Cell,Direct Income - TCC,0,,0,Income,Profit and Loss,INR,0,Income Account,0,No,,0
+,"""Indirect Income - TCC""",Indirect Income,Testing and Consultancy Cell,Income - TCC,0,,1,Income,Profit and Loss,INR,0,Income Account,0,No,,0
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,"""Source of Funds (Liabilities) - TCC""",Source of Funds (Liabilities),Testing and Consultancy Cell,,0,,1,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Capital Account - TCC""",Capital Account,Testing and Consultancy Cell,Source of Funds (Liabilities) - TCC,0,,1,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Reserves and Surplus - TCC""",Reserves and Surplus,Testing and Consultancy Cell,Capital Account - TCC,0,,0,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Shareholders Funds - TCC""",Shareholders Funds,Testing and Consultancy Cell,Capital Account - TCC,0,,0,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Current Liabilities - TCC""",Current Liabilities,Testing and Consultancy Cell,Source of Funds (Liabilities) - TCC,0,,1,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Accounts Payable - TCC""",Accounts Payable,Testing and Consultancy Cell,Current Liabilities - TCC,0,,1,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Creditors - TCC""",Creditors,Testing and Consultancy Cell,Accounts Payable - TCC,0,,0,Liability,Balance Sheet,INR,0,Payable,0,No,,0
+,"""Payroll Payable - TCC""",Payroll Payable,Testing and Consultancy Cell,Accounts Payable - TCC,0,,0,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Duties and Taxes - TCC""",Duties and Taxes,Testing and Consultancy Cell,Current Liabilities - TCC,0,,1,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""CGST - TCC""",CGST,Testing and Consultancy Cell,Duties and Taxes - TCC,0,,0,Liability,Balance Sheet,INR,0,Tax,9,No,,0
+,"""SGST - TCC""",SGST,Testing and Consultancy Cell,Duties and Taxes - TCC,0,,0,Liability,Balance Sheet,INR,0,Tax,9,No,,0
+,"""TDS - TCC""",TDS,Testing and Consultancy Cell,Duties and Taxes - TCC,0,,0,Liability,Balance Sheet,INR,0,Tax,0,No,,0
+,"""Loans (Liabilities) - TCC""",Loans (Liabilities),Testing and Consultancy Cell,Current Liabilities - TCC,0,,1,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Bank Overdraft Account - TCC""",Bank Overdraft Account,Testing and Consultancy Cell,Loans (Liabilities) - TCC,0,,0,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Secured Loans - TCC""",Secured Loans,Testing and Consultancy Cell,Loans (Liabilities) - TCC,0,,0,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Unsecured Loans - TCC""",Unsecured Loans,Testing and Consultancy Cell,Loans (Liabilities) - TCC,0,,0,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Stock Liabilities - TCC""",Stock Liabilities,Testing and Consultancy Cell,Current Liabilities - TCC,0,,1,Liability,Balance Sheet,INR,0,,0,No,,0
+,"""Stock Received But Not Billed - TCC""",Stock Received But Not Billed,Testing and Consultancy Cell,Stock Liabilities - TCC,0,,0,Liability,Balance Sheet,INR,0,Stock Received But Not Billed,0,No,,0

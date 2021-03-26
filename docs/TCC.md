@@ -108,4 +108,20 @@ installation are almost the same.
 
 Later, we need to also have custom reports like reports of test
 performed or design done.
+=======
+Generated
+- Payment Template 
+- Sales and tax template
+- letter head
+- Set up default price list
+
+### [Chart of Accounts](https://erp.gndec.ac.in/desk#Tree/Account)
+![image](https://user-images.githubusercontent.com/53931644/111279311-946bb080-8660-11eb-83d8-32c2aa656f60.png)
+### [Department Tree](https://erp.gndec.ac.in/desk#Tree/Department)
+### [Item group](https://erp.gndec.ac.in/desk#Tree/Item%20Group)
+![image](https://user-images.githubusercontent.com/53931644/111279710-f9270b00-8660-11eb-84e1-f6d9eee70165.png)
+### [Item list](https://erp.gndec.ac.in/desk#List/Item/List)
+### [Company Tree](https://erp.gndec.ac.in/desk#Tree/Company)
+### [Employee Tree](https://erp.gndec.ac.in/desk#Tree/Employee)
+
 
