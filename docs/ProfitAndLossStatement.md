@@ -11,5 +11,5 @@ A Profit and Loss Statement is a financial statement which summarizes all the re
 And optional fields, if you want the results precisely.
 3. Click on Menu, then
 - if you want to export the Profit and Loss Statement as pdf or excel or csv file, click on appropriate option.
-- if you want remove or add specific column in the balance sheet, then Click on Add Column ,and then tick or untick the options according to your need.
+- if you want remove or add specific column in the Profit and Loss Statement, then Click on Add Column ,and then tick or untick the options according to your need.
 - if you want to save the Profit and Loss Statement, Click on Save.
