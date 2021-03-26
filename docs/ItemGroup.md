@@ -3,7 +3,7 @@
 Steps:-  
 1.Search Item-group in search bar.  
 2.Click on New.  
-3.Fill all required details.  
+3.Fill all required fields.  
 4.Click on save.  
  
 
