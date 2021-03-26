@@ -6,10 +6,29 @@ with all data-set which may look as real as possible, like address, GST number.
 
 1. Search **Company List** in the search bar.
 2. Click on New Company.
-3. Fill all required fields.
+3. Fill all required fields that are in RED colour and you can also fill optional fields.
+- Company Name
+- Abbreviation
+- Is Group (If we want to make child company under this company then tick this option, otherwise not required to tick this option.)
+- Domain (Select option from dropbar according to the company's work.)
+- Parent Company (If it is parent company then it is not required to fill this field but if it is a child company then fill this field with parent company name.)
+- Default Currency
+- Default Letter Head (You can Select option From dropdown OR you can create a new letter head by clicking on the option of CREATE A NEW LETTER HEAD.)
 
+Rest fields can be filled according to the requirement but not mandatory.
 
 4. Click on Save.
+
+## Customer
+
+
+
+## Item
+
+1. Search Item List in Search Bar.
+2. Click on New Item List.
+3. Enter Item Code and Item Name
+4. If you need to 
 
 ## Set up tax and Chart of Accounts
 
