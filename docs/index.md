@@ -4,7 +4,6 @@ Log of learning and deployment of ERPNext to a small Service Company.
 
 1. [Working of LibreHatti](WorkingOfLH.md)
 1. [Progress on deployment for TCC](TCC.md)
-
 1. [Installation](Installation.md)
 1. [Company set-up](CompanySetUp.md)
 1. [Set-up accounting period](AccountingPeriod.md)
