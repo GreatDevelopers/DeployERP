@@ -11,7 +11,7 @@ all the Document type.) [Item code will also be in series type. ]
 Naming series can be searched in search bar of ERPNext and can be
 updated in all the Docs.**
 
-## item group and sub-group, like
+## Item group and sub-group, like
 
 1. Material Testing
 1.1 Soil
