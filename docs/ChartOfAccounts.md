@@ -1,4 +1,4 @@
-## Set up tax and Chart of Accounts
+## Chart of Accounts
 
 One can use standard template of chart of accounts or one can create New chart of accounts template by following steps:-
 1. Search Chart of Accounts in the Search bar.
