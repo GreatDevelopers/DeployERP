@@ -15,19 +15,19 @@ Generated
 
 ## To get brief idea, click on these links:
 1. [Company](Company.md)
-2. Customer
-3. Item List
-4. Item Group
-5. Price List
-6. Chart of Accounts
-7. Quotation
-8. Sales Order
-9. Payment Request
-10. Sales Invoice
-11. Payment Entry
-12. General Ledger
-13. Journal Entry
-14. Balance Sheet
-15. Profit and Loss Statement
+2. [Customer](Customer.md)
+3. [Item List](Item.md)
+4. [Item Group](ItemGroup.md)
+5. [Price List](PriceList.md)
+6. [Chart of Accounts](ChartOfAccounts.md)
+7. [Quotation](Quotation.md)
+8. [Sales Order](SalesOrder.md)
+9. [Payment Request](PaymentRequest.md)
+10. [Sales Invoice](SalesInvoice.md)
+11. [Payment Entry](PaymentEntry.md)
+12. [General Ledger](GeneralLedger.md)
+13. [Journal Entry](JournalEntry.md)
+14. [Balance Sheet](BalanceSheet.md)
+15. [Profit and Loss Statement](ProfitAndLossStatement.md)
 
 
