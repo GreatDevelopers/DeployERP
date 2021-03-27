@@ -8,8 +8,10 @@ Log of learning and deployment of ERPNext to a small Service Company.
 1. [Company set-up](CompanySetUp.md)
 1. [Set-up accounting period](AccountingPeriod.md)
 1. [Set-up financial year](FiscalYear.md)
+1. [Set up bank](Add bank.md)
+1. [Set up company's bank account](Add bankAccount.md)
 1. [Sale / purchase register](Register.md)
-3. [Report builder](Reports.md)
+1. [Report builder](Reports.md)
 
 ### Customisation
 
