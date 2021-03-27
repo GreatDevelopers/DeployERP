@@ -19,3 +19,5 @@ For example:
 
 Material Testing, Design and Surveying are Item Groups.  
 Soil, Brick and Concrete are the sub groups of Material Testing.
+
+![image](https://github.com/Falcon-Coders1/TCC_Project/raw/main/images/ItemGroup.png)
