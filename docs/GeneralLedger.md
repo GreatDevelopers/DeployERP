@@ -11,7 +11,10 @@
 
 and other optional fields if you want to search precisely.
 
+![image](https://user-images.githubusercontent.com/74251229/112711161-453d3f80-8eec-11eb-889d-6ac18f159a1c.png)
+
 3. Click on Menu, then
 - if you want to export the General Ledger as pdf or excel or csv file, click on appropriate option.
 - if you want remove or add specific column in the General ledger, then Click on Add Column ,and then tick or untick the options according to your need.
 - if you want to save the General ledger, Click on Save.
+
