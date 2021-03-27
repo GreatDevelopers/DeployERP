@@ -11,6 +11,9 @@ In financial accounting, a balance sheet is a summary of the financial balances 
 
 and other optional fields if you want to search precisely.
 
+![image](https://user-images.githubusercontent.com/74251229/112711186-7ae22880-8eec-11eb-854c-b85577a3aab2.png)
+
+
 3. Click on Menu, then
 - if you want to export the Balance Sheet as pdf or excel or csv file, click on appropriate option.
 - if you want remove or add specific column in the balance sheet, then Click on Add Column ,and then tick or untick the options according to your need.
