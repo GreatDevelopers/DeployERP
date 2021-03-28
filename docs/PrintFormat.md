@@ -30,7 +30,7 @@ To know more about raw printing,[click here](https://docs.erpnext.com/docs/user/
 
 ## Using the Print Format Builder to create print formats with UI
 
-**To access Print Format Builder: **  
+**To access Print Format Builder:**  
 Home > Settings > Print Format Builder  
 
 1. Either select an existing format to edit or create a new format.
