@@ -14,7 +14,7 @@ You can change Print Formats by:
 **To access Print Format:**  
 Home > Settings > Print Format  
 
-**To create a Print Format form:**  
+**To create a Print Format form:**   
 1. Go to the Print Format List, click on New.  
 2. Enter a name and select a DocType for which the Print Format is to be used.  
 3. Select the module for which it should apply.  
