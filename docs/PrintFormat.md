@@ -1,9 +1,9 @@
 # Print Format
 
 ## Description
-With Print Format, you can set how document types look when printing.</br>
-Every transaction has a default Print Format called 'Standard'. </br>
-You can change Print Formats by: </br>
+With Print Format, you can set how document types look when printing.  
+Every transaction has a default Print Format called 'Standard'.  
+You can change Print Formats by:  
    * Using the Print Format form
    * Using Jinja/JS scripting under Print Format
    * Using the Print Format Builder to create print formats with UI
