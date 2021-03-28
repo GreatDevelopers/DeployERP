@@ -1,0 +1,9 @@
+ID,Account Name,Company,Parent Account,Is Group,Disable,Root Type,Report Type,Currency,Inter Company Account,Account Type,Rate,Frozen,Balance must be,Include in gross
+"""TDS - NSET""",TDS,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,Liability,Balance Sheet,INR,0,Tax,0,No,,0
+"""TDS Payable - NSET""",TDS Payable,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,Liability,Balance Sheet,INR,0,Tax,0,No,,0
+"""SGST - NSET""",SGST,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,Liability,Balance Sheet,INR,0,Tax,9,No,,0
+"""CGST - NSET""",CGST,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,Liability,Balance Sheet,INR,0,Tax,9,No,,0
+"""IGST - NSET""",IGST,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,Liability,Balance Sheet,INR,0,Tax,18,No,,0
+"""VAT 5% - NSET""",VAT 5%,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,Liability,Balance Sheet,INR,0,Tax,5,No,,0
+"""VAT 4% - NSET""",VAT 4%,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,Liability,Balance Sheet,INR,0,Tax,4,No,,0
+"""VAT 14% - NSET""",VAT 14%,Nankana Sahib Education Trust,Duties and Taxes - NSET,0,,Liability,Balance Sheet,INR,0,Tax,14,No,,0
