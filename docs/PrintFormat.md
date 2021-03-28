@@ -11,27 +11,27 @@ You can change Print Formats by:
 
 ## Using the Print Format form
 
-**To access Print Format:** </br>
-Home > Settings > Print Format</br>
+**To access Print Format:**  
+Home > Settings > Print Format  
 
-**To create a Print Format form:**</br>
-1. Go to the Print Format List, click on New.</br>
-2. Enter a name and select a DocType for which the Print Format is to be used.</br>
-3. Select the module for which it should apply.</br>
+**To create a Print Format form:**  
+1. Go to the Print Format List, click on New.  
+2. Enter a name and select a DocType for which the Print Format is to be used.  
+3. Select the module for which it should apply.  
 4. You may select either to set standard format as 'yes' or 'no'.
-5. Under styling settings, you can change the font, align the labels together on the left or right,</br> 
+5. Under styling settings, you can change the font, align the labels together on the left or right,  
 add headings for sections, etc. Also, it can be edited under the section custom CSS.
 7. Save.
 
 ## Using Jinja/JS scripting under Print Format
-To style the Print Format using custom Jinja/JS, click on Custom Format. </br>
-If you select this option, there'll be a checkbox for raw printing. </br>
-To know more about raw printing,[click here](https://docs.erpnext.com/docs/user/manual/en/setting-up/print/raw-printing).</br>
+To style the Print Format using custom Jinja/JS, click on Custom Format.  
+If you select this option, there'll be a checkbox for raw printing.  
+To know more about raw printing,[click here](https://docs.erpnext.com/docs/user/manual/en/setting-up/print/raw-printing).  
 
 ## Using the Print Format Builder to create print formats with UI
 
-**To access Print Format Builder: **</br>
-Home > Settings > Print Format Builder</br>
+**To access Print Format Builder: **  
+Home > Settings > Print Format Builder  
 
 1. Either select an existing format to edit or create a new format.
 2. Here you can drag and drop fields from the sidebar to the page and vice versa.
