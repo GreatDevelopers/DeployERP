@@ -42,11 +42,9 @@ and add it to the place where you want to add the Custom HTML content.
 
 ## Using Customize Form to hide/unhide fields
 
-1. Open the document for which you want to make a Print Format. click on the print icon and then</br> 
-click on the customise button. Note: You must have System Manager permission to do this.
+1. Open the document for which you want to make a Print Format. click on the print icon and then click on the customise button. Note: You must have System Manager permission to do this.
 2. Enter a new print format name.
 3. Here you can drag and drop fields from the sidebar to the page and vice versa. (same as in Print Format Builder)
-4. You can add customized text, HTML in your print format, just drag and drop the Custom HTML field (in dark color)</br> 
-and add it to the place where you want to add the Custom HTML content.
+4. You can add customized text, HTML in your print format, just drag and drop the Custom HTML field (in dark color) and add it to the place where you want to add the Custom HTML content.
 5. Then click on Edit HTML to edit your content.
 6. After making the changes, click on Save.
