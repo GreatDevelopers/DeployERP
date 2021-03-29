@@ -52,18 +52,24 @@ and add it to the place where you want to add the Custom HTML content.
 
 # **What I have done for TCC Project as a Report manager and how?**
 
-- Create print style [Desired](https://erp.gndec.ac.in/desk#Form/Print%20Style/Desired)
+- Create Print style [Desired](https://erp.gndec.ac.in/desk#Form/Print%20Style/Desired)
+
 1. Search ```Print Style``` in Search Box.
 2. Click on New.
-3. Add the CSS file and checked the Standard field.
+3. Add the CSS script and checked the Standard field.
 4. Click on Save.
 
 - Create [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
-1. Search ```Print Format``` in Search Box.
-2. Click on New.
-3. Add the CSS file and checked the Standard field.
-4. Click on Save.
-
-
 - Create [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
 - 
+1. Search ```Print Format``` in Search Box.
+2. Click on New.
+3. Fill the Name of Print Format and Doctype.
+4. Click on Save.
+5. Click on Edit Format.
+6. For edit the heading: Click on Edit heading--> Edit html code
+7. For change the other settings, just used drag and drop approach.
+8. Some fields has table type display like Items(Table),one can remove and add the column in the table by clicking on Select column.
+According to the need, one can checked and unchecked the options and Click on Update.
+
+
