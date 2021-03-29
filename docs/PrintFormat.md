@@ -85,9 +85,12 @@ According to the need, one can checked and unchecked the options and Click on Up
 ```
 
 - Edited the [Print Settings](https://erp.gndec.ac.in/desk#Form/Print%20Settings)
-1. Searched ```Print Settings``` in the Search Box.
-2. Unchecked the ***the Repeat header and Footer in Pdf***.
-3. Changed the Print Style from default ***Modern*** to ***Desired***.
-4. Other default settings, I have not changed as there is no need of it.
-5. Click on Save.
+1. Search ```Print Settings``` in the Search Box.
+2. Edit the settings according to the need
+3. Click on Save.
+```
+Unchecked the the Repeat header and Footer in Pdf.
+Changed the Print Style from default ***Modern*** to ***Desired***.
+Other default settings, I have not changed as there is no need of it.
+```
 
