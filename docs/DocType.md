@@ -7,5 +7,7 @@
 5. Click on Save.
 
 ##  Edited DocType for TCC Project
-``` Made mandatory Email and Contact number fields in the Customer DocType. 
-Added Signature, Tax ID and GSTIN fields in the quotation DocType ```
+```
+Made mandatory Email and Contact number fields in the Customer DocType. 
+Added Signature, Tax ID and GSTIN fields in the quotation DocType.
+```
