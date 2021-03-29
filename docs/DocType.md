@@ -6,4 +6,5 @@
 4. Edit it.
 5. Click on Save.
 
-## Edited Customer DocType (Made mandatory fields Email and Contact number. 
+##  Edited DocType for TCC Project
+``` Made mandatory fields Email and Contact number in the Customer DocType. ```
