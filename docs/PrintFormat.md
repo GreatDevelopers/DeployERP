@@ -58,7 +58,9 @@ and add it to the place where you want to add the Custom HTML content.
 2. Click on New.
 3. Add the CSS script and checked the Standard field.
 4. Click on Save.
- ***I have created new print style for settings of the margin of the page.***
+```
+I have created new print style for settings of the margin of the page.
+```
 
 - Created [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
 - Created [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
