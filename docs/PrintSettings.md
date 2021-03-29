@@ -5,7 +5,7 @@
 2. Edit the settings according to the need
 3. Click on Save.
 
-## Edited the [Print Settings](https://erp.gndec.ac.in/desk#Form/Print%20Settings)
+## Edited the [Print Settings](https://erp.gndec.ac.in/desk#Form/Print%20Settings) For TCC Project
 ```
 Unchecked the the Repeat header and Footer in Pdf.
 Changed the Print Style from default ***Modern*** to ***Desired***.
