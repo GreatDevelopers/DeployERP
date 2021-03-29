@@ -25,4 +25,5 @@ Log of learning and deployment of ERPNext to a small Service Company.
 2. [Settings print style](PrintStyle.md)
 3. [Edited Print Settings](PrintSettings.md)
 4. [Edited DocType](DocType.md)
+5. [Edited Customise Form](CustomiseForm.md)
 
