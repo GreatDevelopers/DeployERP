@@ -58,6 +58,7 @@ and add it to the place where you want to add the Custom HTML content.
 2. Click on New.
 3. Add the CSS script and checked the Standard field.
 4. Click on Save.
+ ***I have created new print style for settings of the margin of the page.***
 
 - Created [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
 - Created [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
@@ -71,6 +72,15 @@ and add it to the place where you want to add the Custom HTML content.
 7. For change the other settings, just used drag and drop approach.
 8. Some fields has table type display like Items(Table), one can remove and add the column in the table by clicking on Select column.
 According to the need, one can checked and unchecked the options and Click on Update.
+
+```
+ I have created new print format of quotation for settings of the pdf as required.
+ - Removed Contact and Mobile number field.
+ - Removed total quantity field.
+ - Edited the heading.
+ - Unchecked the column of Discount in Items Table.
+ - Replace the position of Date and Valid Till fields.
+```
 
 - Edited the [Print Settings](https://erp.gndec.ac.in/desk#Form/Print%20Settings)
 1. Searched ```Print Settings``` in the Search Box.
