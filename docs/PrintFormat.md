@@ -48,3 +48,22 @@ and add it to the place where you want to add the Custom HTML content.
 4. You can add customized text, HTML in your print format, just drag and drop the Custom HTML field (in dark color) and add it to the place where you want to add the Custom HTML content.
 5. Then click on Edit HTML to edit your content.
 6. After making the changes, click on Save.
+
+
+**What I have done for TCC Project as a Report manager and how?**
+
+- Create print style [Desired](https://erp.gndec.ac.in/desk#Form/Print%20Style/Desired)
+1. Search ```Print Style``` in Search Box.
+2. Click on New.
+3. Add the CSS file and checked the Standard field.
+4. Click on Save.
+
+- Create [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
+1. Search ```Print Format``` in Search Box.
+2. Click on New.
+3. Add the CSS file and checked the Standard field.
+4. Click on Save.
+
+
+- Create [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
+- 
