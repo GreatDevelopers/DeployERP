@@ -22,4 +22,6 @@ Log of learning and deployment of ERPNext to a small Service Company.
 1. [Creating letterhead](LetterHead.md)
 1. [Setting print format](PrintFormat.md)
 1. [Setting print heading](PrintHeading.md)
+2. [Settings print style](PrintStyle.md)
+3. [Edited Print Settings](PrintSettings.md)
 
