@@ -52,15 +52,15 @@ and add it to the place where you want to add the Custom HTML content.
 
 # **What I have done for TCC Project as a Report manager and how?**
 
-- Create Print style [Desired](https://erp.gndec.ac.in/desk#Form/Print%20Style/Desired)
+- Created Print style [Desired](https://erp.gndec.ac.in/desk#Form/Print%20Style/Desired)
 
 1. Search ```Print Style``` in Search Box.
 2. Click on New.
 3. Add the CSS script and checked the Standard field.
 4. Click on Save.
 
-- Create [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
-- Create [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
+- Created [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
+- Created [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
  
 1. Search ```Print Format``` in Search Box.
 2. Click on New.
@@ -72,4 +72,10 @@ and add it to the place where you want to add the Custom HTML content.
 8. Some fields has table type display like Items(Table), one can remove and add the column in the table by clicking on Select column.
 According to the need, one can checked and unchecked the options and Click on Update.
 
+- Edited the [Print Settings](https://erp.gndec.ac.in/desk#Form/Print%20Settings)
+1. Search ```Print Settings``` in the Search Box.
+2. Unchecked [the Repeat header and Footer in Pdf]().
+3. Change the Print Style from default [Modern]() to [Desired]().
+4. Other default settings, I have not changed as there is no need of it.
+5. Click on Save.
 
