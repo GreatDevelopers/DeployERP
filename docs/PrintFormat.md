@@ -69,7 +69,7 @@ and add it to the place where you want to add the Custom HTML content.
 5. Click on Edit Format.
 6. For edit the heading: Click on Edit heading--> Edit html code
 7. For change the other settings, just used drag and drop approach.
-8. Some fields has table type display like Items(Table),one can remove and add the column in the table by clicking on Select column.
+8. Some fields has table type display like Items(Table), one can remove and add the column in the table by clicking on Select column.
 According to the need, one can checked and unchecked the options and Click on Update.
 
 
