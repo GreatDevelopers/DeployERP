@@ -50,7 +50,7 @@ and add it to the place where you want to add the Custom HTML content.
 6. After making the changes, click on Save.
 
 
-# **What I have done for TCC Project as a Report manager and how?**
+# **What has been done related to the customisation part for TCC Project and How?**
 
 - Created Print style [Desired](https://erp.gndec.ac.in/desk#Form/Print%20Style/Desired)
 
@@ -59,7 +59,7 @@ and add it to the place where you want to add the Custom HTML content.
 3. Add the CSS script and checked the Standard field.
 4. Click on Save.
 ```
-I have created new print style for settings of the margin of the page.
+Created new print style for settings of the margin of the page.
 ```
 
 - Created [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
@@ -76,12 +76,12 @@ I have created new print style for settings of the margin of the page.
 According to the need, one can checked and unchecked the options and Click on Update.
 
 ```
- I have created new print format of quotation for settings of the pdf as required.
+ Created new print format of quotation for settings of the pdf as required.
  - Removed Contact and Mobile number field.
  - Removed total quantity field.
  - Edited the heading.
  - Unchecked the column of Discount in Items Table.
- - Replace the position of Date and Valid Till fields.
+ - Changed the position of Date and Valid Till fields.
 ```
 
 - Edited the [Print Settings](https://erp.gndec.ac.in/desk#Form/Print%20Settings)
@@ -91,6 +91,6 @@ According to the need, one can checked and unchecked the options and Click on Up
 ```
 Unchecked the the Repeat header and Footer in Pdf.
 Changed the Print Style from default ***Modern*** to ***Desired***.
-Other default settings, I have not changed as there is no need of it.
+Other default settings has not been changed as there is no need of it.
 ```
 
