@@ -61,7 +61,7 @@ and add it to the place where you want to add the Custom HTML content.
 
 - Create [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
 - Create [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
-- 
+ 
 1. Search ```Print Format``` in Search Box.
 2. Click on New.
 3. Fill the Name of Print Format and Doctype.
