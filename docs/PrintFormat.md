@@ -73,8 +73,6 @@ According to the need, one can checked and unchecked the options and Click on Up
 
 
 ## Created [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
-## Created [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
-## Created [Print Format For Sales order](https://erp.gndec.ac.in/desk#Form/Print%20Format/Print%20Format%20for%20Sales%20order)
 ```
  Created new print format of quotation for settings of the pdf as required.
  - Removed Contact and Mobile number field.
@@ -82,5 +80,11 @@ According to the need, one can checked and unchecked the options and Click on Up
  - Edited the heading.
  - Unchecked the column of Discount in Items Table.
  - Changed the position of Date and Valid Till fields.
+ - Unchecked the column of item name in items Table.
 ```
+
+
+## Created [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
+## Created [Print Format For Sales order](https://erp.gndec.ac.in/desk#Form/Print%20Format/Print%20Format%20for%20Sales%20order)
+
 
