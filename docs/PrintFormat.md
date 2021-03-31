@@ -92,7 +92,6 @@ According to the need, one can checked and unchecked the options and Click on Up
 
 
 ## Created [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
-=======
 
 ```
  Created new print format of quotation for settings of the pdf as required.
