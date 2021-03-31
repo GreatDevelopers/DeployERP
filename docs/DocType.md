@@ -19,8 +19,14 @@ Quotation DocType:
 
 Address Doctype:
 - Made default [Country: India , State: Punjab ]
+
 ```
+By clicking on right side triangle shape icon.
 ![image](https://user-images.githubusercontent.com/74251229/113138794-e5c09600-9243-11eb-9066-52b0fc03df2d.png)
+
+Edited the default text box:
+![image](https://user-images.githubusercontent.com/74251229/113139137-57004900-9244-11eb-838f-c1c26f549fc9.png)
+
 
 ```
 ```
