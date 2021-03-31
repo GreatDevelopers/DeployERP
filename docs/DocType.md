@@ -9,13 +9,15 @@
 ##  Edited DocType for TCC Project
 ```
 Customer DocType:
-
-Made mandatory Email and Contact number fields.
-Changed type column of particular Email row from Read only to Data.
-Changed type column of particular Mobile No. row from Read only to Data.
-Added GSTIN field (Label: GSTIN,Type: data, Name: gstin, Checked the mandatory option)
+- Made mandatory Email and Contact number fields.
+- Changed type column of particular Email row from Read only to Data.
+- Changed type column of particular Mobile No. row from Read only to Data.
+- Added GSTIN field (Label: GSTIN,Type: data, Name: gstin, Checked the mandatory option)
 
 Quotation DocType:
+- Added Tax ID and GSTIN fields.
 
-Added Tax ID and GSTIN fields.
+Address Doctype:
+- Made default [Country: India , State: Punjab ]
+
 ```
