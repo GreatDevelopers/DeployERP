@@ -100,25 +100,6 @@ According to the need, one can checked and unchecked the options and Click on Up
  - Removed total quantity field.
  - Edited the heading.
  - Unchecked the column of Discount in Items Table.
- - Changed the position of Date and Valid Till fields.
-
+ - Changed the position of Valid Till fields.
  - Unchecked the column of item name in items Table.
 ```
-
-
-## Created [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
-## Created [Print Format For Sales order](https://erp.gndec.ac.in/desk#Form/Print%20Format/Print%20Format%20for%20Sales%20order)
-
-=======
-```
-
-- Edited the [Print Settings](https://erp.gndec.ac.in/desk#Form/Print%20Settings)
-1. Search ```Print Settings``` in the Search Box.
-2. Edit the settings according to the need
-3. Click on Save.
-```
-Unchecked the the Repeat header and Footer in Pdf.
-Changed the Print Style from default ***Modern*** to ***Desired***.
-Other default settings has not been changed as there is no need of it.
-```
-
