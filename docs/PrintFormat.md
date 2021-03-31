@@ -54,24 +54,7 @@ and add it to the place where you want to add the Custom HTML content.
 # **What has been done related to Print Format for TCC Project and How?**
 
 ## Guide to make new Print Format:
- 
-1. Search ```New Print Format``` in the Search Box.
-=======
-# **What has been done related to the customisation part for TCC Project and How?**
 
-- Created Print style [Desired](https://erp.gndec.ac.in/desk#Form/Print%20Style/Desired)
-
-1. Search ```Print Style``` in Search Box.
-2. Click on New.
-3. Add the CSS script and checked the Standard field.
-4. Click on Save.
-```
-Created new print style for settings of the margin of the page.
-```
-
-- Created [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
-- Created [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
- 
 1. Search ```Print Format``` in Search Box.
 2. Click on New.
 3. Fill the Name of Print Format and Doctype.
@@ -102,3 +85,5 @@ According to the need, one can checked and unchecked the options and Click on Up
  - Changed the position of Valid Till fields.
  - Unchecked the column of item name in items Table.
 ```
+
+## Created [Print Format for Performa Bill](https://erp.gndec.ac.in/desk#Form/Print%20Format/Print%20Format%20for%20Performa%20Bill)
