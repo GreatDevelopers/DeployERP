@@ -17,5 +17,5 @@ Added GSTIN field (Label: GSTIN,Type: data, Name: gstin, Checked the mandatory o
 
 Quotation DocType:
 
-Added Signature, Tax ID and GSTIN fields.
+Added Tax ID and GSTIN fields.
 ```
