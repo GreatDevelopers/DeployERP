@@ -20,4 +20,7 @@ Quotation DocType:
 Address Doctype:
 - Made default [Country: India , State: Punjab ]
 
+file:///home/dell/Pictures/address.png![image](https://user-images.githubusercontent.com/74251229/113138794-e5c09600-9243-11eb-9066-52b0fc03df2d.png)
+
+
 ```
