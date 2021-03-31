@@ -27,6 +27,9 @@ By clicking on right side triangle shape icon.
 Edited the default text box:
 ![image](https://user-images.githubusercontent.com/74251229/113139137-57004900-9244-11eb-838f-c1c26f549fc9.png)
 
+Click on right side triangle shape icon on top right.
+![image](https://user-images.githubusercontent.com/74251229/113139792-3258a100-9245-11eb-9ca8-a57f63a7bf82.png)
+
 
 ```
 ```
