@@ -28,7 +28,8 @@ Edited the default text box:
 ![image](https://user-images.githubusercontent.com/74251229/113139137-57004900-9244-11eb-838f-c1c26f549fc9.png)
 
 Click on right side triangle shape icon on top right.
-![image](https://user-images.githubusercontent.com/74251229/113139990-6fbd2e80-9245-11eb-8d71-b3977b4c71bb.png)
+file:///home/dell/Pictures/country.png![image](https://user-images.githubusercontent.com/74251229/113142780-ed366e00-9248-11eb-9bda-838fe5acadc8.png)
+
 
 
 
