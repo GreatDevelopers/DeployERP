@@ -8,8 +8,14 @@
 
 ##  Edited DocType for TCC Project
 ```
-Made mandatory Email and Contact number fields in the Customer DocType. 
+Customer DocType:
+
+Made mandatory Email and Contact number fields.
 Changed type column of particular Email row from Read only to Data.
 Changed type column of particular Mobile No. row from Read only to Data.
-Added Signature, Tax ID and GSTIN fields in the quotation DocType.
+Added GSTIN field (Label: GSTIN,Type: data, Name: gstin, Checked the mandatory option)
+
+Quotation DocType:
+
+Added Signature, Tax ID and GSTIN fields.
 ```
