@@ -24,3 +24,6 @@ If you want to make this the default Letter Head, click on "Default Letter Head"
 6. In enabled mode, you can then further edit the header and footer of the letter head based on HTML.</br>
 7. Lastly, save it and check for its preview.</br>
 [Video Tutorial](https://docs.erpnext.com/docs/user/manual/en/setting-up/print/letter-head#2-video)</br>
+
+
+## Made letterhead named Main for TCC Project.

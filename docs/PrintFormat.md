@@ -50,6 +50,13 @@ and add it to the place where you want to add the Custom HTML content.
 6. After making the changes, click on Save.
 
 
+
+# **What has been done related to Print Format for TCC Project and How?**
+
+## Guide to make new Print Format:
+ 
+1. Search ```New Print Format``` in the Search Box.
+=======
 # **What has been done related to the customisation part for TCC Project and How?**
 
 - Created Print style [Desired](https://erp.gndec.ac.in/desk#Form/Print%20Style/Desired)
@@ -75,6 +82,18 @@ Created new print style for settings of the margin of the page.
 8. Some fields has table type display like Items(Table), one can remove and add the column in the table by clicking on Select column.
 According to the need, one can checked and unchecked the options and Click on Update.
 
+
+## Guide to see Print Format List and edit any of the Print Format:
+
+1. Search ```Print Format List``` in the Search Box.
+2. Click on one of the print formats to see.
+3. Click on edit if needed.
+4. Click on Save.
+
+
+## Created [Print Format For Quotation](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20for%20Quotation)
+=======
+
 ```
  Created new print format of quotation for settings of the pdf as required.
  - Removed Contact and Mobile number field.
@@ -82,6 +101,15 @@ According to the need, one can checked and unchecked the options and Click on Up
  - Edited the heading.
  - Unchecked the column of Discount in Items Table.
  - Changed the position of Date and Valid Till fields.
+
+ - Unchecked the column of item name in items Table.
+```
+
+
+## Created [Print Format For Receipt](https://erp.gndec.ac.in/desk#print-format-builder/Print%20Format%20of%20Receipt)
+## Created [Print Format For Sales order](https://erp.gndec.ac.in/desk#Form/Print%20Format/Print%20Format%20for%20Sales%20order)
+
+=======
 ```
 
 - Edited the [Print Settings](https://erp.gndec.ac.in/desk#Form/Print%20Settings)
