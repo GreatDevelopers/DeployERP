@@ -1,0 +1,6 @@
+2022-09-22 20:22:50,712 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 20:22:50,912 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 20:22:51,020 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 20:22:51,228 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 20:22:51,319 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 20:22:51,478 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in

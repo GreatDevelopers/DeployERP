@@ -1,0 +1,1 @@
+2022-09-22 22:06:22,423 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in

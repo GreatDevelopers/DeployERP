@@ -1,0 +1,748 @@
+2022-09-22 22:07:20,004 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:08:20,240 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:09:20,531 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:10:20,830 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:10:20,850 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:10:21,027 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:10:21,175 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:10:21,364 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:10:21,489 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:10:21,657 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:10:21,790 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:10:22,034 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:10:22,133 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:10:22,281 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:10:22,408 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:10:22,562 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:10:22,641 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:10:22,815 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:10:22,893 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:10:23,096 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:10:23,219 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:10:23,435 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:10:23,564 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:10:23,729 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:11:21,187 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:12:21,447 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:13:21,710 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:14:22,033 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:14:22,046 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:14:22,219 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:14:22,302 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:14:22,478 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:14:22,598 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:14:22,758 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:14:22,883 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:14:23,136 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:14:23,220 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:14:23,371 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:14:23,477 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:14:23,632 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:14:23,715 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:14:23,899 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:14:23,982 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:14:24,180 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:14:24,303 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:14:24,519 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:14:24,633 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:14:24,797 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:15:22,421 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:15:22,491 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 22:15:23,129 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 22:15:23,259 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 22:15:23,526 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 22:15:23,624 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 22:15:23,852 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 22:16:22,775 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:17:23,028 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:18:23,346 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:18:23,372 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:18:23,661 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:18:23,774 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:18:23,950 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:18:24,028 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:18:24,187 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:18:24,312 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:18:24,549 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:18:24,671 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:18:24,836 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:18:24,959 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:18:25,111 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:18:25,232 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:18:25,412 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:18:25,487 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:18:25,684 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:18:25,759 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:18:25,974 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:18:26,050 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:18:26,210 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:19:23,734 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:20:23,999 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:21:24,328 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:22:24,583 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:22:24,600 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:22:24,758 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:22:24,883 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:22:25,071 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:22:25,197 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:22:25,360 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:22:25,433 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:22:25,672 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:22:25,797 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:22:25,964 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:22:26,092 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:22:26,251 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:22:26,371 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:22:26,551 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:22:26,679 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:22:26,889 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:22:26,966 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:22:27,173 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:22:27,296 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:22:27,465 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:23:24,957 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:24:25,232 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:25:25,507 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:26:25,814 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:26:25,827 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:26:26,050 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:26:26,169 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:26:26,358 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:26:26,439 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:26:26,603 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:26:26,710 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:26:26,957 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:26:27,073 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:26:27,230 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:26:27,311 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:26:27,468 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:26:27,595 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:26:27,775 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:26:27,875 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:26:28,073 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:26:28,195 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:26:28,406 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:26:28,483 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:26:28,655 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:27:26,209 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:28:26,490 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:29:26,768 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:30:26,998 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.gndec.ac.in
+2022-09-22 22:30:27,077 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp.gndec.ac.in
+2022-09-22 22:30:27,311 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.gndec.ac.in
+2022-09-22 22:30:27,328 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:30:27,429 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp.gndec.ac.in
+2022-09-22 22:30:27,537 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp.gndec.ac.in
+2022-09-22 22:30:27,902 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp.gndec.ac.in
+2022-09-22 22:30:28,031 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp.gndec.ac.in
+2022-09-22 22:30:28,245 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp.gndec.ac.in
+2022-09-22 22:30:28,353 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for erp.gndec.ac.in
+2022-09-22 22:30:28,665 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for erp.gndec.ac.in
+2022-09-22 22:30:28,744 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for erp.gndec.ac.in
+2022-09-22 22:30:29,064 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for erp.gndec.ac.in
+2022-09-22 22:30:29,190 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp.gndec.ac.in
+2022-09-22 22:30:29,495 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp.gndec.ac.in
+2022-09-22 22:30:29,624 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp.gndec.ac.in
+2022-09-22 22:30:29,874 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp.gndec.ac.in
+2022-09-22 22:30:29,954 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp.gndec.ac.in
+2022-09-22 22:30:30,141 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp.gndec.ac.in
+2022-09-22 22:30:30,281 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for erp.gndec.ac.in
+2022-09-22 22:30:30,525 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for erp.gndec.ac.in
+2022-09-22 22:30:30,626 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp.gndec.ac.in
+2022-09-22 22:30:30,840 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp.gndec.ac.in
+2022-09-22 22:30:30,975 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:30:31,158 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:30:31,284 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:30:31,467 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:30:31,544 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:30:31,753 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:30:31,875 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:30:32,115 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:30:32,244 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp.gndec.ac.in
+2022-09-22 22:30:32,585 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for erp.gndec.ac.in
+2022-09-22 22:30:32,717 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp.gndec.ac.in
+2022-09-22 22:30:33,000 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp.gndec.ac.in
+2022-09-22 22:30:33,142 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp.gndec.ac.in
+2022-09-22 22:30:33,440 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp.gndec.ac.in
+2022-09-22 22:30:33,529 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for erp.gndec.ac.in
+2022-09-22 22:30:33,745 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for erp.gndec.ac.in
+2022-09-22 22:30:33,835 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for erp.gndec.ac.in
+2022-09-22 22:30:34,041 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for erp.gndec.ac.in
+2022-09-22 22:30:34,128 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for erp.gndec.ac.in
+2022-09-22 22:30:34,326 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for erp.gndec.ac.in
+2022-09-22 22:30:34,415 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for erp.gndec.ac.in
+2022-09-22 22:30:34,617 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for erp.gndec.ac.in
+2022-09-22 22:30:34,719 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for erp.gndec.ac.in
+2022-09-22 22:30:34,950 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for erp.gndec.ac.in
+2022-09-22 22:30:35,058 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for erp.gndec.ac.in
+2022-09-22 22:30:35,281 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for erp.gndec.ac.in
+2022-09-22 22:30:35,385 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:30:35,545 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:30:35,628 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:30:35,797 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:30:35,882 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:30:36,069 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:30:36,153 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:30:36,363 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:30:36,445 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:30:36,662 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:30:36,778 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:30:36,947 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:30:37,037 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 22:30:37,679 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 22:30:37,814 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 22:30:38,142 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 22:30:38,227 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 22:30:38,452 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 22:31:27,583 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:32:27,853 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:33:28,114 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:34:28,400 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:34:28,412 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:34:28,591 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:34:28,723 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:34:28,909 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:34:28,989 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:34:29,146 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:34:29,255 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:34:29,497 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:34:29,628 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:34:29,786 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:34:29,909 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:34:30,071 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:34:30,198 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:34:30,384 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:34:30,473 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:34:30,671 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:34:30,756 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:34:30,962 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:34:31,043 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:34:31,203 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:35:28,776 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:36:29,030 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:37:29,282 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:38:29,619 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:38:29,620 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:38:29,800 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:38:29,875 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:38:30,053 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:38:30,179 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:38:30,343 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:38:30,430 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:38:30,671 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:38:30,746 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:38:30,902 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:38:31,024 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:38:31,178 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:38:31,258 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:38:31,437 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:38:31,564 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:38:31,763 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:38:31,849 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:38:32,052 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:38:32,128 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:38:32,294 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:39:29,989 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:40:30,260 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:41:30,530 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:42:30,868 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:42:30,891 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:42:31,060 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:42:31,139 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:42:31,318 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:42:31,393 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:42:31,554 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:42:31,661 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:42:31,902 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:42:32,025 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:42:32,189 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:42:32,327 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:42:32,479 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:42:32,571 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:42:32,779 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:42:32,855 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:42:33,057 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:42:33,180 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:42:33,388 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:42:33,497 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:42:33,659 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:43:31,236 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:44:31,508 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:45:31,786 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:45:31,847 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 22:45:32,549 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 22:45:32,679 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 22:45:32,956 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 22:45:33,065 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 22:45:33,328 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 22:46:32,057 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:46:32,081 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:46:32,230 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:46:32,313 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:46:32,491 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:46:32,614 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:46:32,777 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:46:32,872 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:46:33,115 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:46:33,244 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:46:33,404 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:46:33,516 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:46:33,674 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:46:33,796 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:46:33,973 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:46:34,106 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:46:34,311 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:46:34,409 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:46:34,613 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:46:34,739 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:46:34,904 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:47:32,444 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:48:32,677 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:49:32,932 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:50:33,243 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:50:33,247 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:50:33,438 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:50:33,564 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:50:33,748 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:50:33,869 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:50:34,035 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:50:34,161 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:50:34,413 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:50:34,536 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:50:34,692 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:50:34,818 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:50:34,979 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:50:35,100 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:50:35,284 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:50:35,366 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:50:35,569 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:50:35,694 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:50:35,902 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:50:36,008 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:50:36,184 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:51:33,532 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:52:33,865 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:53:34,131 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:54:34,423 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:54:34,437 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:54:34,638 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:54:34,726 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:54:34,911 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:54:35,018 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:54:35,177 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:54:35,250 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:54:35,485 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:54:35,607 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:54:35,760 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:54:35,834 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:54:35,984 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:54:36,103 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:54:36,293 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:54:36,419 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:54:36,620 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:54:36,742 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:54:36,949 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:54:37,043 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:54:37,203 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:55:34,710 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:56:34,973 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:57:35,256 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:58:35,575 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:58:35,601 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 22:58:35,758 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 22:58:35,873 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:58:36,074 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 22:58:36,155 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:58:36,316 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 22:58:36,394 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:58:36,643 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 22:58:36,736 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:58:36,885 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 22:58:37,010 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:58:37,171 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 22:58:37,256 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:58:37,432 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 22:58:37,558 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:58:37,785 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 22:58:37,867 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:58:38,072 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 22:58:38,176 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:58:38,362 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 22:59:35,937 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:00:36,237 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:00:36,292 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp.gndec.ac.in
+2022-09-22 23:00:36,693 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for erp.gndec.ac.in
+2022-09-22 23:00:36,784 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 23:00:37,422 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 23:00:37,532 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 23:00:37,804 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 23:00:37,936 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 23:00:38,174 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 23:01:36,594 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:02:36,879 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:02:36,898 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:02:37,060 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:02:37,137 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:02:37,325 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:02:37,402 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:02:37,562 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:02:37,666 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:02:37,943 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:02:38,034 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:02:38,185 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:02:38,316 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:02:38,472 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:02:38,552 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:02:38,740 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:02:38,869 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:02:39,072 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:02:39,169 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:02:39,381 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:02:39,476 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:02:39,640 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:03:37,266 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:04:37,533 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:05:37,789 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:06:38,109 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:06:38,132 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:06:38,318 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:06:38,447 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:06:38,630 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:06:38,708 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:06:38,867 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:06:39,010 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:06:39,262 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:06:39,380 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:06:39,535 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:06:39,646 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:06:39,813 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:06:39,921 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:06:40,101 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:06:40,225 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:06:40,426 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:06:40,540 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:06:40,765 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:06:40,839 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:06:40,997 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:07:38,380 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:08:38,675 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:09:38,956 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:10:39,248 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:10:39,271 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:10:39,515 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:10:39,597 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:10:39,773 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:10:39,893 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:10:40,058 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:10:40,136 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:10:40,390 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:10:40,516 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:10:40,669 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:10:40,767 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:10:40,920 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:10:41,041 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:10:41,235 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:10:41,346 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:10:41,548 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:10:41,625 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:10:41,828 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:10:41,950 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:10:42,116 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:11:39,619 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:12:39,886 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:13:40,169 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:14:40,477 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:14:40,505 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:14:40,691 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:14:40,776 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:14:40,956 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:14:41,080 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:14:41,244 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:14:41,319 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:14:41,553 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:14:41,625 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:14:41,776 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:14:41,902 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:14:42,061 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:14:42,142 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:14:42,314 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:14:42,423 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:14:42,627 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:14:42,751 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:14:42,961 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:14:43,033 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:14:43,202 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:15:40,823 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:15:40,907 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 23:15:41,638 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 23:15:41,740 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 23:15:42,001 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 23:15:42,132 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 23:15:42,363 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 23:16:41,128 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:17:41,400 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:18:41,730 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:18:41,743 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:18:41,916 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:18:42,003 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:18:42,187 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:18:42,270 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:18:42,438 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:18:42,542 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:18:42,775 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:18:42,905 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:18:43,063 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:18:43,199 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:18:43,388 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:18:43,479 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:18:43,661 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:18:43,745 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:18:43,950 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:18:44,031 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:18:44,242 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:18:44,366 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:18:44,539 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:19:42,026 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:20:42,277 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:21:42,556 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:22:42,896 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:22:42,908 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:22:43,079 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:22:43,213 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:22:43,399 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:22:43,529 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:22:43,692 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:22:43,769 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:22:44,004 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:22:44,107 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:22:44,280 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:22:44,391 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:22:44,545 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:22:44,645 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:22:44,849 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:22:44,983 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:22:45,186 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:22:45,264 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:22:45,507 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:22:45,619 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:22:45,789 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:23:43,285 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:24:43,567 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:25:43,841 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:26:44,161 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:26:44,164 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:26:44,346 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:26:44,424 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:26:44,600 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:26:44,679 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:26:44,836 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:26:44,923 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:26:45,159 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:26:45,236 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:26:45,383 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:26:45,460 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:26:45,608 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:26:45,734 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:26:45,928 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:26:46,049 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:26:46,249 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:26:46,326 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:26:46,527 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:26:46,653 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:26:46,818 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:27:44,536 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:28:44,818 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:29:45,089 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:30:45,352 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.gndec.ac.in
+2022-09-22 23:30:45,419 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp.gndec.ac.in
+2022-09-22 23:30:45,596 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:30:45,632 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp.gndec.ac.in
+2022-09-22 23:30:45,802 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp.gndec.ac.in
+2022-09-22 23:30:45,920 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp.gndec.ac.in
+2022-09-22 23:30:46,149 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp.gndec.ac.in
+2022-09-22 23:30:46,282 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp.gndec.ac.in
+2022-09-22 23:30:46,514 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp.gndec.ac.in
+2022-09-22 23:30:46,600 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for erp.gndec.ac.in
+2022-09-22 23:30:46,884 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for erp.gndec.ac.in
+2022-09-22 23:30:46,994 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for erp.gndec.ac.in
+2022-09-22 23:30:47,262 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for erp.gndec.ac.in
+2022-09-22 23:30:47,369 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp.gndec.ac.in
+2022-09-22 23:30:47,674 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp.gndec.ac.in
+2022-09-22 23:30:47,770 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp.gndec.ac.in
+2022-09-22 23:30:48,010 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp.gndec.ac.in
+2022-09-22 23:30:48,127 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp.gndec.ac.in
+2022-09-22 23:30:48,342 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp.gndec.ac.in
+2022-09-22 23:30:48,451 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for erp.gndec.ac.in
+2022-09-22 23:30:48,693 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for erp.gndec.ac.in
+2022-09-22 23:30:48,815 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp.gndec.ac.in
+2022-09-22 23:30:49,009 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp.gndec.ac.in
+2022-09-22 23:30:49,144 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:30:49,320 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:30:49,434 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:30:49,622 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:30:49,713 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:30:49,871 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:30:49,992 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:30:50,232 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:30:50,334 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp.gndec.ac.in
+2022-09-22 23:30:50,617 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for erp.gndec.ac.in
+2022-09-22 23:30:50,757 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp.gndec.ac.in
+2022-09-22 23:30:51,019 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp.gndec.ac.in
+2022-09-22 23:30:51,131 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp.gndec.ac.in
+2022-09-22 23:30:51,423 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp.gndec.ac.in
+2022-09-22 23:30:51,555 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for erp.gndec.ac.in
+2022-09-22 23:30:51,772 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for erp.gndec.ac.in
+2022-09-22 23:30:51,888 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for erp.gndec.ac.in
+2022-09-22 23:30:52,078 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for erp.gndec.ac.in
+2022-09-22 23:30:52,172 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for erp.gndec.ac.in
+2022-09-22 23:30:52,370 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for erp.gndec.ac.in
+2022-09-22 23:30:52,498 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for erp.gndec.ac.in
+2022-09-22 23:30:52,696 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for erp.gndec.ac.in
+2022-09-22 23:30:52,822 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for erp.gndec.ac.in
+2022-09-22 23:30:53,061 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for erp.gndec.ac.in
+2022-09-22 23:30:53,196 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for erp.gndec.ac.in
+2022-09-22 23:30:53,392 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for erp.gndec.ac.in
+2022-09-22 23:30:53,469 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:30:53,625 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:30:53,754 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:30:53,910 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:30:54,008 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:30:54,184 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:30:54,312 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:30:54,524 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:30:54,632 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:30:54,842 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:30:54,960 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:30:55,130 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:30:55,263 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 23:30:55,983 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 23:30:56,117 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 23:30:56,385 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 23:30:56,474 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 23:30:56,707 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 23:31:45,935 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:32:46,190 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:33:46,450 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:34:46,759 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:34:46,783 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:34:46,970 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:34:47,095 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:34:47,278 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:34:47,381 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:34:47,541 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:34:47,618 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:34:47,859 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:34:47,940 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:34:48,091 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:34:48,166 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:34:48,316 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:34:48,440 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:34:48,622 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:34:48,738 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:34:48,943 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:34:49,021 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:34:49,225 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:34:49,305 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:34:49,469 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:35:47,109 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:36:47,350 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:37:47,618 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:38:47,943 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:38:47,960 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:38:48,125 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:38:48,237 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:38:48,418 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:38:48,519 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:38:48,682 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:38:48,813 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:38:49,058 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:38:49,187 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:38:49,342 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:38:49,469 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:38:49,626 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:38:49,715 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:38:49,891 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:38:49,968 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:38:50,170 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:38:50,304 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:38:50,519 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:38:50,613 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:38:50,777 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:39:48,237 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:40:48,497 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:41:48,757 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:42:49,050 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:42:49,054 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:42:49,294 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:42:49,389 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:42:49,613 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:42:49,736 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:42:49,995 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:42:50,117 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:42:50,359 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:42:50,482 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:42:50,639 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:42:50,720 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:42:50,872 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:42:50,953 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:42:51,140 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:42:51,269 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:42:51,477 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:42:51,601 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:42:51,809 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:42:51,889 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:42:52,055 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:43:49,405 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:44:49,653 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:45:49,918 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:45:49,999 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 23:45:50,670 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp.gndec.ac.in
+2022-09-22 23:45:50,779 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 23:45:51,100 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp.gndec.ac.in
+2022-09-22 23:45:51,183 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 23:45:51,431 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp.gndec.ac.in
+2022-09-22 23:46:50,322 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:46:50,338 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:46:50,505 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:46:50,593 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:46:50,779 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:46:50,907 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:46:51,074 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:46:51,163 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:46:51,397 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:46:51,529 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:46:51,689 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:46:51,769 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:46:51,917 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:46:52,022 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:46:52,233 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:46:52,319 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:46:52,516 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:46:52,645 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:46:52,859 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:46:52,953 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:46:53,162 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:47:50,698 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:48:50,928 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:49:51,193 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:50:51,496 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:50:51,522 DEBUG scheduler Queued events for site erp.gndec.ac.in
+2022-09-22 23:50:51,674 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp.gndec.ac.in
+2022-09-22 23:50:51,749 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:50:51,926 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp.gndec.ac.in
+2022-09-22 23:50:52,060 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:50:52,227 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp.gndec.ac.in
+2022-09-22 23:50:52,302 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:50:52,538 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp.gndec.ac.in
+2022-09-22 23:50:52,614 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:50:52,767 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp.gndec.ac.in
+2022-09-22 23:50:52,889 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:50:53,055 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp.gndec.ac.in
+2022-09-22 23:50:53,205 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:50:53,394 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp.gndec.ac.in
+2022-09-22 23:50:53,518 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:50:53,728 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp.gndec.ac.in
+2022-09-22 23:50:53,853 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:50:54,069 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp.gndec.ac.in
+2022-09-22 23:50:54,181 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp.gndec.ac.in
+2022-09-22 23:50:54,354 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp.gndec.ac.in

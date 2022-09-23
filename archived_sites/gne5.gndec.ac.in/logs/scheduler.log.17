@@ -1,0 +1,7 @@
+2022-08-30 14:06:41,343 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for gne5.gndec.ac.in
+2022-08-30 14:06:41,468 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for gne5.gndec.ac.in
+2022-08-30 14:06:41,666 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for gne5.gndec.ac.in
+2022-08-30 14:06:41,766 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for gne5.gndec.ac.in
+2022-08-30 14:06:41,970 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for gne5.gndec.ac.in
+2022-08-30 14:06:42,096 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for gne5.gndec.ac.in
+2022-08-30 14:06:42,260 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for gne5.gndec.ac.in
