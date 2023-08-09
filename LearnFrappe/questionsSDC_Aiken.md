@@ -1,3 +1,4 @@
+```text
 '#####' will generate a series, which starts with
 A) 001
 B) 10000
@@ -47,10 +48,35 @@ A) `Fra`mework + `App`lications
 B) Frappe the coffee flavour
 ANSWER: A
 What is the function to generate full name from first name and last name
-A) class LibraryMember(Document):   def before_save(self):      self.full_name = f'{self.first_name} {self.last_name or ""}'
-B) class LibraryMember(Document):   def before_save(self):      self_full_name = f'{self_first_name} {self_last_name or ""}'
-C) class LibraryMember(Document):   def before-save(self):      self.full_name = f'{self.first_name} {self.last_name or ""}'
-D) class LibraryMember(Document):   def before_save(self):-      self.full name = f'{self.first name} {self.last name or ""}'
+```
+```python
+
+A)
+
+class LibraryMember(Document):
+   def before_save(self):
+      self.full_name = f'{self.first_name} {self.last_name or ""}'
+
+B)
+
+class LibraryMember(Document):
+   def before_save(self):
+      self_full_name = f'{self_first_name} {self_last_name or ""}'
+
+C)
+
+class LibraryMember(Document):
+   def before-save(self):
+      self.full_name = f'{self.first_name} {self.last_name or ""}'
+
+D)
+
+class LibraryMember(Document):
+   def before_save(self):
+      self.full name = f'{self.first name} {self.last name or ""}'
+
+```
+```text
 ANSWER: A
 Any visitor can have access to a web form even without a Login ID.
 A) True
@@ -228,3 +254,4 @@ Before we use bench start it is necessary to go inside frappe directory?
 A) True
 B) False
 ANSWER: A
+```
