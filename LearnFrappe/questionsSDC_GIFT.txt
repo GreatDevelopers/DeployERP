@@ -1,0 +1,372 @@
+// question: 0  name: Switch category to $course$/top/Default for xCode100
+$CATEGORY: $course$/top/Default for xCode100
+
+
+// question: 4973  name: 1 Name Series
+::1 Name Series::[html]'\#\#\#\#\#' will generate a series, which starts with{
+	~001
+	~10000
+	~0001
+	=00001
+}
+
+
+// question: 4982  name: 10. doctype
+::10. doctype::[html]Is doctype a doctype?{
+	=Yes
+	~No
+}
+
+
+// question: 4985  name: 11. Doctype includes
+::11. Doctype includes::[html]Doctype includes\: Fields, View settings, Form settings and Naming series.{
+	=True
+	~False
+}
+
+
+// question: 4984  name: 12. Doctypes linkable.
+::12. Doctypes linkable.::[html]All Doctypes are linkable.{
+	=True
+	~False
+}
+
+
+// question: 4986  name: 13. Drop a site completely
+::13. Drop a site completely::[html]What is the command for dropping site completely in bench?{
+	=bench drop-site \{sitename\}
+	~bench drop \{sitename\}
+	~bench remove-site \{sitename\}
+	~None of the above
+}
+
+
+// question: 4987  name: 14. Field:field_name
+::14. Field\:field_name::[html]`Field\:field_name` will auto generate the naming series of doctype.{
+	~True
+	=False
+}
+
+
+// question: 4988  name: 15. Files after doctype
+::15. Files after doctype::[html]After creating Doctype, which files are created in your system?{
+	~%50%javascript
+	~%50%python
+	=Both javascript and python
+	~None of javascript and python
+}
+
+
+// question: 4989  name: 16. Find Frappe-bench directory
+::16. Find Frappe-bench directory::[html]To find Frappe-bench directory which command is used?{
+	~bench find *
+	=bench find .
+	~bench find ?
+	~None of the rest
+}
+
+
+// question: 4990  name: 17. Form Scripts
+::17. Form Scripts::[html]Form Scripts are client-side javascript code that enhances the (User Experience) UX of your Forms.{
+	=True
+	~False
+}
+
+
+// question: 4991  name: 18. Frappe name
+::18. Frappe name::[html]The word Frappe comes from{
+	=`Fra`mework + `App`lications
+	~Frappe the coffee flavour
+}
+
+
+// question: 4992  name: 19. Function for full name
+::19. Function for full name::[html]What is the function to generate full name from first name and last name{
+	=[markdown]```python\nclass LibraryMember(Document)\:\n   def before_save(self)\:\n      self.full_name \= f'\{self.first_name\} \{self.last_name or ""\}'\n```
+	~[markdown]```python\nclass LibraryMember(Document)\:\n   def before_save(self)\:\n      self_full_name \= f'\{self_first_name\} \{self_last_name or ""\}'\n```
+	~[markdown]```python\nclass LibraryMember(Document)\:\n   def before-save(self)\:\n      self.full_name \= f'\{self.first_name\} \{self.last_name or ""\}'\n```
+	~[markdown]```python\nclass LibraryMember(Document)\:\n   def before_save(self)\:-\n      self.full name \= f'\{self.first name\} \{self.last name or ""\}'\n```
+}
+
+
+// question: 4974  name: 2. Access to a web form
+::2. Access to a web form::[html]Any visitor can have access to a web form even without a Login ID.{
+	=True
+	~false
+}
+
+
+// question: 4993  name: 20. Has web view
+::20. Has web view::[html]For providing `Has web view` to our doctype, our site has to be in developer mode?{
+	=True
+	~False
+}
+
+
+// question: 4975  name: 3. administrator password for site creation
+::3. administrator password for site creation::[html]While creating site it is required to set administrator password?{
+	=True
+	~False
+}
+
+
+// question: 4976  name: 4. Check for developer mode
+::4. Check for developer mode::[html]For check site in developer mode which file is used?{
+	~private
+	~public
+	=site_config.json
+	~indexes
+}
+
+
+// question: 4977  name: 5. Controller methods
+::5. Controller methods::[html]Controller methods allow you to write _______ during the lifecycle of a document.{
+	~flow
+	~structure
+	~coding
+	=business logic
+}
+
+
+// question: 4978  name: 6. Create a site
+::6. Create a site::[html]What is the correct command to create a site with domain library.test?{
+	=bench new-site library.test
+	~bench create-site "library.test"
+	~bench new_site library.test
+	~bench create new-site library.test
+}
+
+
+// question: 4979  name: 7. create an app
+::7. create an app::[html]What is the command to create an app named Library Management?{
+	~bench create-app library_management
+	~bench create  new-app library_management
+	~bench new app library_management
+	=bench new-app library_management
+}
+
+
+// question: 4980  name: 8. DB root password for site
+::8. DB root password for site::[html]While creating site Database root password is not required?{
+	~True
+	=False
+}
+
+
+// question: 4981  name: 9. Details needed for new app
+::9. Details needed for new app::[html]While creating new app which details are not filled by default?{
+	~App Description
+	~App Publisher
+	~App Email
+	=All of the above
+	~1. and 3.
+	~1. and 2.
+	~2. and 3.
+}
+
+
+// question: 1313  name: Install app
+::Install app::[html]Command to install app on site?{
+	=bench --site \{sitename\} install-app \{appname\}
+	~bench install-app \{appname\}
+	~bench \{sitename\} install-app \{appname\}
+	~bench --site install-app \{appname\}
+}
+
+
+// question: 1320  name: Language for web views.
+::Language for web views.::[html]Frappe uses ________ by default for it's web pages's look and feel / formatting.{
+	~python
+	~javascript
+	=Bootstrap 4
+	~css
+}
+
+
+// question: 1329  name: Limited access
+::Limited access::[html]Usually you will want to give limited access to your customers. In case of Libray, we want Library Members to be able to view available books that the book y can be issue. We can achieve this by using.{
+	=Web view pages.
+	~Web templates.
+	~Doctype
+	~Bench
+}
+
+
+// question: 1322  name: meta route
+::meta route::[html]In the website route meta a route can start with a "/".{
+	~True
+	=False
+}
+
+
+// question: 1309  name: Meta tags
+::Meta tags::[html]Arbitrary meta tags can be added in your web pages using Website Route Meta.{
+	=true
+	~false
+}
+
+
+// question: 1342  name: Methods runs on saving of document
+::Methods runs on saving of document::[html]Which of the following methods runs every time a document is saved?{
+	~On_submit
+	~on_save
+	=before_save
+	~before_submit
+}
+
+
+// question: 1326  name: name field
+::name field::[html]The `name` field is required to be filled in manually if it is set to prompt.{
+	=True
+	~false
+}
+
+
+// question: 1341  name: New database
+::New database::[html]When a new database is created in mysql?{
+	~While installing frappe
+	=While creating a site
+	~While installing app
+	~All of the rest
+}
+
+
+// question: 1317  name: New doctype
+::New doctype::[html]For creating new doctype, which mode is necessary ?{
+	~Admin mode
+	=Developer mode
+	~System Manager mode
+}
+
+
+// question: 1325  name: Page Builder
+::Page Builder::[html]Page Builder lets you quickly{
+	=create web pages from pre-configured web templates.
+	~create a doctype pre-configured web templates.
+	~create a web template pre-configured web forms.
+	~write code for the page
+}
+
+
+// question: 1330  name: Portal view?
+::Portal view?::[html]What all steps are needed to enable a DocType in portal view?{
+	~%33.33333%Enter a suitable route in the Route field
+	~Create a page for this doctype in www folder
+	~%33.33333%Add a field named Route in the fields table
+	~%33.33333%Enable Has Web View in doctype
+}
+
+
+// question: 1307  name: Primary key in doctype
+::Primary key in doctype::[html]All DocTypes in Frappe have a primary key called{
+	~Naming series
+	=Name
+	~Document type
+}
+
+
+// question: 1336  name: remove app
+::remove app::[html]What is the command to remove app from site?{
+	~bench --site \{sitename\} uninstall-app
+	~bench sitename uninstall-app \{appname\}
+	=bench --site \{sitename\} uninstall-app \{appname\}
+	~All of the rest
+}
+
+
+// question: 1311  name: Remove app
+::Remove app::[html]Bench command to remove an app?{
+	~bench uninstall -app
+	~bench uninstall \{appname\}
+	~bench uninstall-app \{appname\}
+	=bench remove-app \{appname\}
+}
+
+
+// question: 1335  name: Server side script?
+::Server side script?::[plain]What is the command to enable server side script?{
+	~bench –site <your_site> set-config enabled_server_script true
+	=bench –site <your_site> set-config server_script_enabled true
+	~bench –site set-config <your_site> server_script_enabled true
+	~bench –site set-config <your_site> enabled_server_script true
+}
+
+
+// question: 1337  name: Set default site
+::Set default site::[html]What is the command to set default site in frappe?{
+	=bench use sitename
+	~bench update sitename
+	~bench get-site sitename
+	~bench get-update-current-site sitename
+}
+
+
+// question: 1312  name: Set developer mode?
+::Set developer mode?::[html]Command to change the bench into developer mode?{
+	~bench set config -g developer_mode true
+	=bench set-config -g developer_mode true
+	~bench set-config g developer_mode true
+	~bench set-configuration -g developer-mode true
+}
+
+
+// question: 1332  name: Single doctype?
+::Single doctype?::[html]What is a single doctype?{
+	=It does not create a new database table.
+	~It creates a new database table.
+	~It creates multiple database tables.
+}
+
+
+// question: 1331  name: States of a submittable doctype
+::States of a submittable doctype::[html]What are the states of a submittable doctype?{
+	~Draft, Saved, Cancelled
+	~Draft, Submitted, Deleted
+	=Draft, Submitted, Cancelled
+	~Unsaved, Saved, Cancelled
+}
+
+
+// question: 1304  name: Storage of doctypes
+::Storage of doctypes::[html]After creating the app the doctypes are stored in which directory?{
+	=App Directory
+	~Frappe Directory
+	~Any of App and Frapee Directory
+	~None of App and Frapee Directory
+}
+
+
+// question: 1339  name: Type of field "Full Name"
+::Type of field "Full Name"::[html]What was the type of field "Full Name" in "Library Member" doctype?{
+	~Data
+	~Data, Hidden
+	~Data, Mandatory
+	=Data, Read Only
+}
+
+
+// question: 1340  name: Type of field "Library Member"
+::Type of field "Library Member"::[html]What was the type of field "Library Member" in "Library Membership" doctype?{
+	~Data, Mandatory
+	=Link, Mandatory
+	~Link, Read Only
+	~Data, Read Only
+}
+
+
+// question: 1321  name: Types of Doctype
+::Types of Doctype::[html]How many types of Doctype Naming is provided by Frappe Framework ?{
+	~4
+	=5
+	~6
+	~3
+}
+
+
+// question: 1310  name: Where to bench start
+::Where to bench start::[html]Before we use bench start it is necessary to  go inside frappe directory?{
+	=True
+	~False
+}
+
+
