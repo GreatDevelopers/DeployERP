@@ -1,0 +1,1024 @@
+﻿Setting up gyp (0.1+20210831gitd6c5dd5-5) ...
+Setting up libwayland-client0:amd64 (1.20.0-1ubuntu0.1) ...
+Setting up libnet-ssleay-perl:amd64 (1.92-1build2) ...
+Setting up gtk-update-icon-cache (3.24.33-1ubuntu2) ...
+Setting up node-readable-stream (3.6.0+~cs3.0.0-1) ...
+Setting up node-lru-cache (6.0.0+~5.1.1-1) ...
+Setting up node-promise-retry (2.0.1-2) ...
+Setting up libfile-basedir-perl (0.09-1) ...
+Setting up libphobos2-ldc-shared98:amd64 (1:1.28.0-1ubuntu1) ...
+Setting up node-supports-color (8.1.1+~8.1.1-1) ...
+Setting up node-once (1.4.0-4) ...
+Setting up libnode-dev (12.22.9~dfsg-1ubuntu3) ...
+Setting up node-resolve (1.20.0+~cs5.27.9-1) ...
+Setting up node-are-we-there-yet (3.0.0+~1.1.0-1) ...
+Setting up libavahi-common3:amd64 (0.8-5ubuntu5.1) ...
+Setting up node-kind-of (6.0.3+dfsg-2) ...
+Setting up dconf-service (0.40.0-3) ...
+Setting up x11-xserver-utils (7.7+9build1) ...
+Setting up nodejs (12.22.9~dfsg-1ubuntu3) ...
+update-alternatives: using /usr/bin/nodejs to provide /usr/bin/js (js) in auto m
+ode
+Setting up node-minimist (1.2.5+~cs5.3.2-1) ...
+Setting up node-abab (2.0.5-2) ...
+Setting up node-argparse (2.0.1-2) ...
+Setting up node-fancy-log (1.3.3+~cs1.3.1-2) ...
+Setting up node-clone (2.1.2-3) ...
+Setting up node-promzard (0.3.0-2) ...
+Setting up libatk-bridge2.0-0:amd64 (2.38.0-3) ...
+Setting up node-mime (3.0.0+dfsg+~cs3.96.1-1) ...
+Setting up libthai0:amd64 (0.1.29-1build1) ...
+Setting up node-source-map-support (0.5.21+ds+~0.5.4-1) ...
+Setting up node-iconv-lite (0.6.3-2) ...
+Setting up node-combined-stream (1.0.8+~1.0.3-1) ...
+Setting up node-unique-filename (1.1.1+ds-1) ...
+Setting up node-ansi-styles (4.3.0+~4.2.0-1) ...
+Setting up node-mime-types (2.1.33-1) ...
+Setting up libnotify4:amd64 (0.7.9-3ubuntu5.22.04.1) ...
+Setting up node-lcov-parse (1.0.0+20170612git80d039574ed9-5) ...
+Setting up node-cssom (0.4.4-3) ...
+Setting up node-form-data (3.0.1-1) ...
+Setting up node-strip-ansi (6.0.1-1) ...
+Setting up node-chalk (4.1.2-1) ...
+Setting up node-spdx-expression-parse (3.0.1+~3.0.1-1) ...
+Setting up node-which (2.0.2+~cs1.3.2-2) ...
+Setting up libfile-desktopentry-perl (0.22-2) ...
+Setting up nodejs-doc (12.22.9~dfsg-1ubuntu3) ...
+Setting up node-punycode (2.1.1-5) ...
+Setting up libnotify-bin (0.7.9-3ubuntu5.22.04.1) ...
+Setting up node-defaults (1.0.3+~1.0.3-1) ...
+Setting up node-is-typedarray (1.0.0-4) ...
+Setting up node-graceful-fs (4.2.4+repack-1) ...
+Setting up node-inflight (1.0.6-2) ...
+Setting up libgdk-pixbuf2.0-bin (2.42.8+dfsg-1ubuntu0.2) ...
+Setting up libwayland-cursor0:amd64 (1.20.0-1ubuntu0.1) ...
+Setting up node-hosted-git-info (4.0.2-1) ...
+Setting up node-aproba (2.0.0-2) ...
+Setting up x11-utils (7.7+5build2) ...
+Setting up node-esprima (4.0.1+ds+~4.0.3-2) ...
+Setting up node-mkdirp (1.0.4+~1.0.2-1) ...
+Setting up node-run-queue (2.0.0-2) ...
+Setting up node-opener (1.5.2+~1.4.0-1) ...
+Setting up node-archy (1.0.0-4) ...
+Setting up node-encoding (0.1.13-2) ...
+Setting up node-js-yaml (4.1.0+dfsg+~4.0.5-6) ...
+Setting up node-nopt (5.0.0-2) ...
+Setting up libavahi-client3:amd64 (0.8-5ubuntu5.1) ...
+Setting up libio-socket-ssl-perl (2.074-2) ...
+Setting up node-slice-ansi (5.0.0+~cs9.0.0-4) ...
+Setting up node-ms (2.1.3+~cs0.7.31-2) ...
+Setting up node-semver (7.3.5+~7.3.8-1) ...
+Setting up node-fs-write-stream-atomic (1.0.10-5) ...
+Setting up node-builtins (4.0.0-1) ...
+Setting up node-colors (1.4.0-3) ...
+Setting up node-log-driver (1.2.7+git+20180219+bba1761737-7) ...
+Setting up libfile-mimeinfo-perl (0.31-1) ...
+Setting up node-ssri (8.0.1-2) ...
+Setting up node-object-assign (4.1.1-6) ...
+Setting up node-end-of-stream (1.4.4+~1.4.1-1) ...
+Setting up node-pump (3.0.0-5) ...
+Setting up dconf-gsettings-backend:amd64 (0.40.0-3) ...
+Setting up node-psl (1.8.0+ds-6) ...
+Setting up libpango-1.0-0:amd64 (1.50.6+ds-2ubuntu1) ...
+Setting up node-stack-utils (2.0.5+~2.0.1-1) ...
+Setting up node-growl (1.10.5-4) ...
+Setting up node-json-buffer (3.0.1-1) ...
+Setting up node-console-control-strings (1.1.0-2) ...
+Setting up node-debug (4.3.2+~cs4.1.7-1) ...
+Setting up node-events (3.3.0+~3.0.0-2) ...
+Setting up node-agent-base (6.0.2+~cs5.4.2-1) ...
+Setting up node-validate-npm-package-name (3.0.0-4) ...
+Setting up node-wcwidth.js (1.0.2-1) ...
+Setting up node-cssstyle (2.3.0-2) ...
+Setting up node-spdx-correct (3.1.1-2) ...
+Setting up libnet-smtp-ssl-perl (1.04-1) ...
+Setting up node-glob (7.2.1+~cs7.6.15-1) ...
+Setting up libmailtools-perl (2.21-1) ...
+Setting up node-get-stream (6.0.1-1) ...
+Setting up node-got (11.8.3+~cs58.7.37-1) ...
+Setting up node-typedarray-to-buffer (4.0.0-2) ...
+Setting up node-tap-parser (7.0.0+ds1-6) ...
+Setting up libcups2:amd64 (2.4.1op1-1ubuntu4.7) ...
+Setting up node-minipass (3.1.6+~cs8.7.18-1) ...
+Setting up node-tough-cookie (4.0.0-2) ...
+Setting up node-npm-package-arg (8.1.5-1) ...
+Setting up libpangoft2-1.0-0:amd64 (1.50.6+ds-2ubuntu1) ...
+Setting up libgtk-3-common (3.24.33-1ubuntu2) ...
+Setting up node-https-proxy-agent (5.0.0+~cs8.0.0-3) ...
+Setting up libpangocairo-1.0-0:amd64 (1.50.6+ds-2ubuntu1) ...
+Setting up node-rimraf (3.0.2-1) ...
+Setting up node-string-width (4.2.3+~cs13.2.3-1) ...
+Setting up gsettings-desktop-schemas (42.0-1ubuntu1) ...
+Setting up node-validate-npm-package-license (3.0.4-2) ...
+Setting up node-write-file-atomic (3.0.3+~3.0.2-1) ...
+Setting up node-columnify (1.5.4+~1.5.1-1) ...
+Setting up node-copy-concurrently (1.0.5-8) ...
+Setting up node-move-concurrently (1.0.1-4) ...
+Setting up librsvg2-2:amd64 (2.52.5+dfsg-3ubuntu0.2) ...
+Setting up node-tap-mocha-reporter (3.0.7+ds-2) ...
+Setting up node-normalize-package-data (3.0.3+~2.4.1-1) ...
+Setting up node-ws (8.5.0+~cs13.3.3-2) ...
+Setting up librsvg2-common:amd64 (2.52.5+dfsg-3ubuntu0.2) ...
+Setting up node-cli-table (0.3.11+~cs0.13.3-1) ...
+Setting up node-jsdom (19.0.0+~cs90.11.27-1) ...
+Setting up node-tar (6.1.11+ds1+~cs6.0.6-1) ...
+Setting up node-wide-align (1.1.3-4) ...
+Setting up node-tap (12.0.1+ds-4) ...
+Setting up node-cacache (15.0.5+~cs13.9.21-3) ...
+Setting up node-read-package-json (4.1.1-1) ...
+Setting up node-fetch (2.6.7+~2.5.12-1) ...
+Setting up node-gauge (4.0.2-1) ...
+Setting up node-npmlog (6.0.1+~4.1.4-1) ...
+Setting up node-coveralls (3.1.1-1) ...
+Setting up node-gyp (8.4.1-1) ...
+Setting up npm (8.5.1~ds-1) ...
+Setting up adwaita-icon-theme (41.0-1ubuntu1) ...
+update-alternatives: using /usr/share/icons/Adwaita/cursor.theme to provide /usr
+/share/icons/default/index.theme (x-cursor-theme) in auto mode
+Setting up liblwp-protocol-https-perl (6.10-1) ...
+Setting up libwww-perl (6.61-1) ...
+Setting up humanity-icon-theme (0.6.16) ...
+Setting up libxml-parser-perl:amd64 (2.46-3build1) ...
+Setting up ubuntu-mono (20.10-0ubuntu2) ...
+Setting up libxml-twig-perl (1:3.52-1) ...
+Setting up libnet-dbus-perl (1.2.0-1build3) ...
+Processing triggers for man-db (2.10.2-1) ...
+Processing triggers for mailcap (3.70+nmu1ubuntu1) ...
+Processing triggers for libglib2.0-0:amd64 (2.72.4-0ubuntu2.2) ...
+Setting up libgtk-3-0:amd64 (3.24.33-1ubuntu2) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.4) ...
+Setting up libgtk-3-bin (3.24.33-1ubuntu2) ...
+Setting up libvte-2.91-0:amd64 (0.68.0-1) ...
+Setting up libvted-3-0:amd64 (3.10.0-1ubuntu1) ...
+Setting up at-spi2-core (2.44.0-3) ...
+Setting up libgtkd-3-0:amd64 (3.10.0-1ubuntu1) ...
+Setting up tilix (1.9.4-2build1) ...
+update-alternatives: using /usr/bin/tilix.wrapper to provide /usr/bin/x-terminal
+-emulator (x-terminal-emulator) in auto mode
+Processing triggers for libgdk-pixbuf-2.0-0:amd64 (2.42.8+dfsg-1ubuntu0.2) ...
+Processing triggers for libc-bin (2.35-0ubuntu3.4) ...
+Scanning processes...
+Scanning linux images...
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+
+added 1 package, and audited 2 packages in 8s
+
+found 0 vulnerabilities
+Package installation complete!
+Now let's install bench
+Collecting frappe-bench
+  Downloading frappe_bench-5.18.0-py3-none-any.whl (145 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 145.6/145.6 KB 1.3 MB/s eta 0:00:00
+Requirement already satisfied: requests in /usr/lib/python3/dist-packages (from
+frappe-bench) (2.25.1)
+Collecting python-crontab~=2.6.0
+  Downloading python_crontab-2.6.0-py3-none-any.whl (25 kB)
+Collecting tomli
+  Downloading tomli-2.0.1-py3-none-any.whl (12 kB)
+Collecting honcho
+  Downloading honcho-1.1.0-py2.py3-none-any.whl (21 kB)
+Requirement already satisfied: setuptools>40.9.0 in /usr/lib/python3/dist-packag
+es (from frappe-bench) (59.6.0)
+Requirement already satisfied: click>=7.0 in /usr/lib/python3/dist-packages (fro
+m frappe-bench) (8.0.3)
+Requirement already satisfied: jinja2~=3.0.3 in /usr/lib/python3/dist-packages (
+from frappe-bench) (3.0.3)
+Collecting gitpython~=3.1.30
+  Downloading GitPython-3.1.40-py3-none-any.whl (190 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 190.6/190.6 KB 7.6 MB/s eta 0:00:00
+Collecting semantic-version~=2.8.2
+  Downloading semantic_version-2.8.5-py2.py3-none-any.whl (15 kB)
+Collecting gitdb<5,>=4.0.1
+  Downloading gitdb-4.0.11-py3-none-any.whl (62 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.7/62.7 KB 2.6 MB/s eta 0:00:00
+Collecting python-dateutil
+  Downloading python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 247.7/247.7 KB 6.4 MB/s eta 0:00:00
+Collecting smmap<6,>=3.0.1
+  Downloading smmap-5.0.1-py3-none-any.whl (24 kB)
+Requirement already satisfied: six>=1.5 in /usr/lib/python3/dist-packages (from
+python-dateutil->python-crontab~=2.6.0->frappe-bench) (1.16.0)
+Installing collected packages: honcho, tomli, smmap, semantic-version, python-da
+teutil, python-crontab, gitdb, gitpython, frappe-bench
+Successfully installed frappe-bench-5.18.0 gitdb-4.0.11 gitpython-3.1.40 honcho-
+1.1.0 python-crontab-2.6.0 python-dateutil-2.8.2 semantic-version-2.8.5 smmap-5.
+0.1 tomli-2.0.1
+WARNING: Running pip as the 'root' user can result in broken permissions and con
+flicting behaviour with the system package manager. It is recommended to use a v
+irtual environment instead: https://pip.pypa.io/warnings/venv
+Initialising bench in frappe-bench folder.
+If you get a restart failed, don't worry, we will resolve that later.
+Setting Up Environment
+$ python3 -m venv env
+$ /home/hsrai/frappe-bench/env/bin/python -m pip install  --upgrade pip
+Requirement already satisfied: pip in ./env/lib/python3.10/site-packages (22.0.2
+)
+Collecting pip
+  WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, stat
+us=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host
+='files.pythonhosted.org', port=443): Read timed out. (read timeout=15)")': /pac
+kages/47/6a/453160888fab7c6a432a6e25f8afe6256d0d9f2cbd25971021da6491d899/pip-23.
+3.1-py3-none-any.whl
+  WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, stat
+us=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host
+='files.pythonhosted.org', port=443): Read timed out. (read timeout=15)")': /pac
+kages/47/6a/453160888fab7c6a432a6e25f8afe6256d0d9f2cbd25971021da6491d899/pip-23.
+3.1-py3-none-any.whl
+  WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, stat
+us=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host
+='files.pythonhosted.org', port=443): Read timed out. (read timeout=15)")': /pac
+kages/47/6a/453160888fab7c6a432a6e25f8afe6256d0d9f2cbd25971021da6491d899/pip-23.
+3.1-py3-none-any.whl
+  Downloading pip-23.3.1-py3-none-any.whl (2.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 1.8 MB/s eta 0:00:00
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 22.0.2
+    Uninstalling pip-22.0.2:
+      Successfully uninstalled pip-22.0.2
+Successfully installed pip-23.3.1
+$ /home/hsrai/frappe-bench/env/bin/python -m pip install  wheel
+WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status
+=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host='
+pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/wheel/
+Collecting wheel
+  Downloading wheel-0.41.2-py3-none-any.whl.metadata (2.2 kB)
+Downloading wheel-0.41.2-py3-none-any.whl (64 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 64.8/64.8 kB 463.3 kB/s eta 0:00:00
+Installing collected packages: wheel
+Successfully installed wheel-0.41.2
+Getting frappe
+$ git clone https://github.com/frappe/frappe.git --branch version-15 --depth 1 -
+-origin upstream
+Cloning into 'frappe'...
+remote: Enumerating objects: 3263, done.
+remote: Counting objects: 100% (3263/3263), done.
+remote: Compressing objects: 100% (2875/2875), done.
+remote: Total 3263 (delta 426), reused 1631 (delta 275), pack-reused 0
+Receiving objects: 100% (3263/3263), 17.92 MiB | 2.55 MiB/s, done.
+Resolving deltas: 100% (426/426), done.
+Updating files: 100% (3090/3090), done.
+Installing frappe
+$ /home/hsrai/frappe-bench/env/bin/python -m pip install  --upgrade -e /home/hsr
+ai/frappe-bench/apps/frappe
+Obtaining file:///home/hsrai/frappe-bench/apps/frappe
+  Installing build dependencies ... done
+  Checking if build backend supports build_editable ... done
+  Getting requirements to build editable ... done
+  Preparing editable metadata (pyproject.toml) ... done
+Collecting Babel~=2.12.1 (from frappe==15.0.1)
+  WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, stat
+us=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host
+='files.pythonhosted.org', port=443): Read timed out. (read timeout=15)")': /pac
+kages/df/c4/1088865e0246d7ecf56d819a233ab2b72f7d6ab043965ef327d0731b5434/Babel-2
+.12.1-py3-none-any.whl
+  WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, stat
+us=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(host
+='files.pythonhosted.org', port=443): Read timed out. (read timeout=15)")': /pac
+kages/df/c4/1088865e0246d7ecf56d819a233ab2b72f7d6ab043965ef327d0731b5434/Babel-2
+.12.1-py3-none-any.whl
+  Downloading Babel-2.12.1-py3-none-any.whl (10.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.1/10.1 MB 2.3 MB/s eta 0:00:00
+Collecting Click~=8.1.7 (from frappe==15.0.1)
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting filelock~=3.8.0 (from frappe==15.0.1)
+  Downloading filelock-3.8.2-py3-none-any.whl (10 kB)
+Collecting filetype~=1.2.0 (from frappe==15.0.1)
+  Downloading filetype-1.2.0-py2.py3-none-any.whl (19 kB)
+Collecting GitPython~=3.1.34 (from frappe==15.0.1)
+  Downloading GitPython-3.1.40-py3-none-any.whl.metadata (12 kB)
+Collecting Jinja2~=3.1.2 (from frappe==15.0.1)
+  Downloading Jinja2-3.1.2-py3-none-any.whl (133 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 133.1/133.1 kB 2.9 MB/s eta 0:00:00
+Collecting Pillow~=10.0.0 (from frappe==15.0.1)
+  Downloading Pillow-10.0.1-cp310-cp310-manylinux_2_28_x86_64.whl.metadata (9.5
+kB)
+Collecting PyJWT~=2.8.0 (from frappe==15.0.1)
+  Downloading PyJWT-2.8.0-py3-none-any.whl.metadata (4.2 kB)
+Collecting PyMySQL==1.1.0 (from frappe==15.0.1)
+  Downloading PyMySQL-1.1.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting pypdf~=3.15.4 (from frappe==15.0.1)
+  Downloading pypdf-3.15.5-py3-none-any.whl.metadata (7.1 kB)
+Collecting PyPika~=0.48.9 (from frappe==15.0.1)
+  Downloading PyPika-0.48.9.tar.gz (67 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 67.3/67.3 kB 1.2 MB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting PyQRCode~=1.2.1 (from frappe==15.0.1)
+  Downloading PyQRCode-1.2.1.zip (41 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 41.9/41.9 kB 490.2 kB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting PyYAML~=6.0.1 (from frappe==15.0.1)
+  Downloading PyYAML-6.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_6
+4.whl.metadata (2.1 kB)
+Collecting RestrictedPython~=6.2 (from frappe==15.0.1)
+  Downloading RestrictedPython-6.2-py3-none-any.whl.metadata (11 kB)
+Collecting WeasyPrint==59.0 (from frappe==15.0.1)
+  Downloading weasyprint-59.0-py3-none-any.whl (267 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 267.6/267.6 kB 963.6 kB/s eta 0:00:00
+Collecting Werkzeug~=2.3.4 (from frappe==15.0.1)
+  Downloading werkzeug-2.3.7-py3-none-any.whl.metadata (4.1 kB)
+Collecting Whoosh~=2.7.4 (from frappe==15.0.1)
+  Downloading Whoosh-2.7.4-py2.py3-none-any.whl (468 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 468.8/468.8 kB 1.2 MB/s eta 0:00:00
+Collecting beautifulsoup4~=4.12.2 (from frappe==15.0.1)
+  Downloading beautifulsoup4-4.12.2-py3-none-any.whl (142 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 143.0/143.0 kB 993.4 kB/s eta 0:00:00
+Collecting bleach-allowlist~=1.0.3 (from frappe==15.0.1)
+  Downloading bleach_allowlist-1.0.3-py2.py3-none-any.whl (9.6 kB)
+Collecting bleach~=6.0.0 (from bleach[css]~=6.0.0->frappe==15.0.1)
+  Downloading bleach-6.0.0-py3-none-any.whl (162 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 162.5/162.5 kB 797.5 kB/s eta 0:00:00
+Collecting cairocffi==1.5.1 (from frappe==15.0.1)
+  Downloading cairocffi-1.5.1.tar.gz (86 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 86.9/86.9 kB 1.6 MB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Installing backend dependencies ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting chardet~=5.1.0 (from frappe==15.0.1)
+  Downloading chardet-5.1.0-py3-none-any.whl (199 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 199.1/199.1 kB 2.4 MB/s eta 0:00:00
+Collecting croniter~=1.4.1 (from frappe==15.0.1)
+  Downloading croniter-1.4.1-py2.py3-none-any.whl.metadata (24 kB)
+Collecting cryptography~=41.0.3 (from frappe==15.0.1)
+  Downloading cryptography-41.0.5-cp37-abi3-manylinux_2_28_x86_64.whl.metadata (
+5.2 kB)
+Collecting email-reply-parser~=0.5.12 (from frappe==15.0.1)
+  Downloading email_reply_parser-0.5.12-py3-none-any.whl (4.1 kB)
+Collecting git-url-parse~=1.2.2 (from frappe==15.0.1)
+  Downloading git_url_parse-1.2.2-py3-none-any.whl (5.6 kB)
+Collecting gunicorn~=21.2.0 (from frappe==15.0.1)
+  Downloading gunicorn-21.2.0-py3-none-any.whl.metadata (4.1 kB)
+Collecting html5lib~=1.1 (from frappe==15.0.1)
+  Downloading html5lib-1.1-py2.py3-none-any.whl (112 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 112.2/112.2 kB 2.4 MB/s eta 0:00:00
+Collecting ipython~=8.15.0 (from frappe==15.0.1)
+  Downloading ipython-8.15.0-py3-none-any.whl.metadata (5.9 kB)
+Collecting ldap3~=2.9 (from frappe==15.0.1)
+  Downloading ldap3-2.9.1-py2.py3-none-any.whl (432 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 432.2/432.2 kB 2.5 MB/s eta 0:00:00
+Collecting markdown2~=2.4.8 (from frappe==15.0.1)
+  Downloading markdown2-2.4.10-py2.py3-none-any.whl.metadata (2.0 kB)
+Collecting MarkupSafe<3,>=2.1.0 (from frappe==15.0.1)
+  Downloading MarkupSafe-2.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x
+86_64.whl.metadata (3.0 kB)
+Collecting maxminddb-geolite2==2018.703 (from frappe==15.0.1)
+  Downloading maxminddb-geolite2-2018.703.tar.gz (26.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 26.1/26.1 MB 3.5 MB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting num2words~=0.5.12 (from frappe==15.0.1)
+  Downloading num2words-0.5.13-py3-none-any.whl.metadata (12 kB)
+Collecting oauthlib~=3.2.2 (from frappe==15.0.1)
+  Downloading oauthlib-3.2.2-py3-none-any.whl (151 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 151.7/151.7 kB 1.0 MB/s eta 0:00:00
+Collecting openpyxl~=3.1.2 (from frappe==15.0.1)
+  Downloading openpyxl-3.1.2-py2.py3-none-any.whl (249 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 250.0/250.0 kB 2.4 MB/s eta 0:00:00
+Collecting passlib~=1.7.4 (from frappe==15.0.1)
+  Downloading passlib-1.7.4-py2.py3-none-any.whl (525 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 525.6/525.6 kB 2.1 MB/s eta 0:00:00
+Collecting pdfkit~=1.0.0 (from frappe==15.0.1)
+  Downloading pdfkit-1.0.0-py3-none-any.whl (12 kB)
+Collecting phonenumbers==8.13.13 (from frappe==15.0.1)
+  Downloading phonenumbers-8.13.13-py2.py3-none-any.whl.metadata (11 kB)
+Collecting premailer~=3.10.0 (from frappe==15.0.1)
+  Downloading premailer-3.10.0-py2.py3-none-any.whl (19 kB)
+Collecting psutil~=5.9.5 (from frappe==15.0.1)
+  Downloading psutil-5.9.6-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.
+manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (21 kB)
+Collecting psycopg2-binary~=2.9.1 (from frappe==15.0.1)
+  Downloading psycopg2_binary-2.9.9-cp310-cp310-manylinux_2_17_x86_64.manylinux2
+014_x86_64.whl.metadata (4.4 kB)
+Collecting pyOpenSSL~=23.2.0 (from frappe==15.0.1)
+  Downloading pyOpenSSL-23.2.0-py3-none-any.whl.metadata (10 kB)
+Collecting pydantic==2.3.0 (from frappe==15.0.1)
+  Downloading pydantic-2.3.0-py3-none-any.whl.metadata (148 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 148.8/148.8 kB 2.4 MB/s eta 0:00:00
+Collecting pyotp~=2.8.0 (from frappe==15.0.1)
+  Downloading pyotp-2.8.0-py3-none-any.whl (12 kB)
+Collecting python-dateutil~=2.8.2 (from frappe==15.0.1)
+  Downloading python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 247.7/247.7 kB 1.8 MB/s eta 0:00:00
+Collecting pytz==2023.3 (from frappe==15.0.1)
+  Downloading pytz-2023.3-py2.py3-none-any.whl (502 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 502.3/502.3 kB 2.7 MB/s eta 0:00:00
+Collecting rauth~=0.7.3 (from frappe==15.0.1)
+  Downloading rauth-0.7.3.tar.gz (16 kB)
+  Preparing metadata (setup.py) ... done
+Collecting redis~=4.5.5 (from frappe==15.0.1)
+  Downloading redis-4.5.5-py3-none-any.whl (240 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 240.3/240.3 kB 5.0 MB/s eta 0:00:00
+Collecting hiredis~=2.2.3 (from frappe==15.0.1)
+  Downloading hiredis-2.2.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_
+64.whl (165 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 165.9/165.9 kB 2.0 MB/s eta 0:00:00
+Collecting requests-oauthlib~=1.3.1 (from frappe==15.0.1)
+  Downloading requests_oauthlib-1.3.1-py2.py3-none-any.whl (23 kB)
+Collecting requests~=2.31.0 (from frappe==15.0.1)
+  Downloading requests-2.31.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting rq~=1.15.1 (from frappe==15.0.1)
+  Downloading rq-1.15.1-py2.py3-none-any.whl.metadata (1.6 kB)
+Collecting rsa>=4.1 (from frappe==15.0.1)
+  Downloading rsa-4.9-py3-none-any.whl (34 kB)
+Collecting semantic-version~=2.10.0 (from frappe==15.0.1)
+  Downloading semantic_version-2.10.0-py2.py3-none-any.whl (15 kB)
+Collecting sqlparse~=0.4.4 (from frappe==15.0.1)
+  Downloading sqlparse-0.4.4-py3-none-any.whl (41 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 41.2/41.2 kB 1.3 MB/s eta 0:00:00
+Collecting tenacity~=8.2.2 (from frappe==15.0.1)
+  Downloading tenacity-8.2.3-py3-none-any.whl.metadata (1.0 kB)
+Collecting terminaltables~=3.1.10 (from frappe==15.0.1)
+  Downloading terminaltables-3.1.10-py2.py3-none-any.whl (15 kB)
+Collecting traceback-with-variables~=2.0.4 (from frappe==15.0.1)
+  Downloading traceback-with-variables-2.0.4.tar.gz (21 kB)
+  Preparing metadata (setup.py) ... done
+Collecting typing_extensions<5,>=4.6.1 (from frappe==15.0.1)
+  Downloading typing_extensions-4.8.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting xlrd~=2.0.1 (from frappe==15.0.1)
+  Downloading xlrd-2.0.1-py2.py3-none-any.whl (96 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 96.5/96.5 kB 3.3 MB/s eta 0:00:00
+Collecting zxcvbn~=4.4.28 (from frappe==15.0.1)
+  Downloading zxcvbn-4.4.28.tar.gz (407 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 407.9/407.9 kB 4.3 MB/s eta 0:00:00
+  Preparing metadata (setup.py) ... done
+Collecting markdownify~=0.11.6 (from frappe==15.0.1)
+  Downloading markdownify-0.11.6-py3-none-any.whl (16 kB)
+Collecting boto3~=1.28.10 (from frappe==15.0.1)
+  Downloading boto3-1.28.72-py3-none-any.whl.metadata (6.7 kB)
+Collecting dropbox~=11.36.0 (from frappe==15.0.1)
+  Downloading dropbox-11.36.2-py3-none-any.whl.metadata (4.3 kB)
+Collecting google-api-python-client~=2.2.0 (from frappe==15.0.1)
+  Downloading google_api_python_client-2.2.0-py2.py3-none-any.whl (7.0 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.0/7.0 MB 5.3 MB/s eta 0:00:00
+Collecting google-auth-oauthlib~=0.4.4 (from frappe==15.0.1)
+  Downloading google_auth_oauthlib-0.4.6-py2.py3-none-any.whl (18 kB)
+Collecting google-auth~=1.29.0 (from frappe==15.0.1)
+  Downloading google_auth-1.29.0-py2.py3-none-any.whl (142 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 142.9/142.9 kB 3.6 MB/s eta 0:00:00
+Collecting posthog~=3.0.1 (from frappe==15.0.1)
+  Downloading posthog-3.0.2-py2.py3-none-any.whl.metadata (2.0 kB)
+Collecting cffi>=1.1.0 (from cairocffi==1.5.1->frappe==15.0.1)
+  Using cached cffi-1.16.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_6
+4.whl.metadata (1.5 kB)
+Collecting maxminddb (from maxminddb-geolite2==2018.703->frappe==15.0.1)
+  Downloading maxminddb-2.4.0.tar.gz (322 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 322.1/322.1 kB 2.0 MB/s eta 0:00:00
+  Installing build dependencies ... done
+  Getting requirements to build wheel ... done
+  Preparing metadata (pyproject.toml) ... done
+Collecting annotated-types>=0.4.0 (from pydantic==2.3.0->frappe==15.0.1)
+  Downloading annotated_types-0.6.0-py3-none-any.whl.metadata (12 kB)
+Collecting pydantic-core==2.6.3 (from pydantic==2.3.0->frappe==15.0.1)
+  Downloading pydantic_core-2.6.3-cp310-cp310-manylinux_2_17_x86_64.manylinux201
+4_x86_64.whl.metadata (6.5 kB)
+Collecting pydyf>=0.6.0 (from WeasyPrint==59.0->frappe==15.0.1)
+  Downloading pydyf-0.8.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting tinycss2>=1.0.0 (from WeasyPrint==59.0->frappe==15.0.1)
+  Downloading tinycss2-1.2.1-py3-none-any.whl (21 kB)
+Collecting cssselect2>=0.1 (from WeasyPrint==59.0->frappe==15.0.1)
+  Downloading cssselect2-0.7.0-py3-none-any.whl (15 kB)
+Collecting Pyphen>=0.9.1 (from WeasyPrint==59.0->frappe==15.0.1)
+  Downloading pyphen-0.14.0-py3-none-any.whl (2.0 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.0/2.0 MB 2.7 MB/s eta 0:00:00
+Collecting fonttools>=4.0.0 (from fonttools[woff]>=4.0.0->WeasyPrint==59.0->frap
+pe==15.0.1)
+  Downloading fonttools-4.43.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x
+86_64.whl.metadata (152 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 152.4/152.4 kB 2.5 MB/s eta 0:00:00
+Collecting soupsieve>1.2 (from beautifulsoup4~=4.12.2->frappe==15.0.1)
+  Downloading soupsieve-2.5-py3-none-any.whl.metadata (4.7 kB)
+Collecting six>=1.9.0 (from bleach~=6.0.0->bleach[css]~=6.0.0->frappe==15.0.1)
+  Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Collecting webencodings (from bleach~=6.0.0->bleach[css]~=6.0.0->frappe==15.0.1)
+  Downloading webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Collecting tinycss2>=1.0.0 (from WeasyPrint==59.0->frappe==15.0.1)
+  Downloading tinycss2-1.1.1-py3-none-any.whl (21 kB)
+Collecting botocore<1.32.0,>=1.31.72 (from boto3~=1.28.10->frappe==15.0.1)
+  Downloading botocore-1.31.72-py3-none-any.whl.metadata (6.1 kB)
+Collecting jmespath<2.0.0,>=0.7.1 (from boto3~=1.28.10->frappe==15.0.1)
+  Downloading jmespath-1.0.1-py3-none-any.whl (20 kB)
+Collecting s3transfer<0.8.0,>=0.7.0 (from boto3~=1.28.10->frappe==15.0.1)
+  Downloading s3transfer-0.7.0-py3-none-any.whl.metadata (1.8 kB)
+Collecting stone>=2 (from dropbox~=11.36.0->frappe==15.0.1)
+  Downloading stone-3.3.1-py3-none-any.whl (162 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 162.3/162.3 kB 960.1 kB/s eta 0:00:00
+Collecting pbr (from git-url-parse~=1.2.2->frappe==15.0.1)
+  Downloading pbr-5.11.1-py2.py3-none-any.whl (112 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 112.7/112.7 kB 1.3 MB/s eta 0:00:00
+Collecting gitdb<5,>=4.0.1 (from GitPython~=3.1.34->frappe==15.0.1)
+  Downloading gitdb-4.0.11-py3-none-any.whl.metadata (1.2 kB)
+Collecting httplib2<1dev,>=0.15.0 (from google-api-python-client~=2.2.0->frappe=
+=15.0.1)
+  Downloading httplib2-0.22.0-py3-none-any.whl (96 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 96.9/96.9 kB 1.0 MB/s eta 0:00:00
+Collecting google-auth-httplib2>=0.1.0 (from google-api-python-client~=2.2.0->fr
+appe==15.0.1)
+  Downloading google_auth_httplib2-0.1.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting google-api-core<2dev,>=1.21.0 (from google-api-python-client~=2.2.0->
+frappe==15.0.1)
+  Downloading google_api_core-1.34.0-py3-none-any.whl (120 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 120.2/120.2 kB 1.7 MB/s eta 0:00:00
+Collecting uritemplate<4dev,>=3.0.0 (from google-api-python-client~=2.2.0->frapp
+e==15.0.1)
+  Downloading uritemplate-3.0.1-py2.py3-none-any.whl (15 kB)
+Collecting cachetools<5.0,>=2.0.0 (from google-auth~=1.29.0->frappe==15.0.1)
+  Downloading cachetools-4.2.4-py3-none-any.whl (10 kB)
+Collecting pyasn1-modules>=0.2.1 (from google-auth~=1.29.0->frappe==15.0.1)
+  Downloading pyasn1_modules-0.3.0-py2.py3-none-any.whl (181 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 181.3/181.3 kB 2.0 MB/s eta 0:00:00
+Requirement already satisfied: setuptools>=40.3.0 in ./env/lib/python3.10/site-p
+ackages (from google-auth~=1.29.0->frappe==15.0.1) (59.6.0)
+Collecting packaging (from gunicorn~=21.2.0->frappe==15.0.1)
+  Downloading packaging-23.2-py3-none-any.whl.metadata (3.2 kB)
+Collecting backcall (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading backcall-0.2.0-py2.py3-none-any.whl (11 kB)
+Collecting decorator (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Collecting jedi>=0.16 (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading jedi-0.19.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting matplotlib-inline (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading matplotlib_inline-0.1.6-py3-none-any.whl (9.4 kB)
+Collecting pickleshare (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
+Collecting prompt-toolkit!=3.0.37,<3.1.0,>=3.0.30 (from ipython~=8.15.0->frappe=
+=15.0.1)
+  Downloading prompt_toolkit-3.0.39-py3-none-any.whl.metadata (6.4 kB)
+Collecting pygments>=2.4.0 (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading Pygments-2.16.1-py3-none-any.whl.metadata (2.5 kB)
+Collecting stack-data (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading stack_data-0.6.3-py3-none-any.whl.metadata (18 kB)
+Collecting traitlets>=5 (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading traitlets-5.12.0-py3-none-any.whl.metadata (10 kB)
+Collecting exceptiongroup (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading exceptiongroup-1.1.3-py3-none-any.whl.metadata (6.1 kB)
+Collecting pexpect>4.3 (from ipython~=8.15.0->frappe==15.0.1)
+  Downloading pexpect-4.8.0-py2.py3-none-any.whl (59 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 59.0/59.0 kB 857.2 kB/s eta 0:00:00
+Collecting pyasn1>=0.4.6 (from ldap3~=2.9->frappe==15.0.1)
+  Downloading pyasn1-0.5.0-py2.py3-none-any.whl (83 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 83.9/83.9 kB 1.6 MB/s eta 0:00:00
+Collecting docopt>=0.6.2 (from num2words~=0.5.12->frappe==15.0.1)
+  Downloading docopt-0.6.2.tar.gz (25 kB)
+  Preparing metadata (setup.py) ... done
+Collecting et-xmlfile (from openpyxl~=3.1.2->frappe==15.0.1)
+  Downloading et_xmlfile-1.1.0-py3-none-any.whl (4.7 kB)
+Collecting monotonic>=1.5 (from posthog~=3.0.1->frappe==15.0.1)
+  Downloading monotonic-1.6-py2.py3-none-any.whl (8.2 kB)
+Collecting backoff>=1.10.0 (from posthog~=3.0.1->frappe==15.0.1)
+  Downloading backoff-2.2.1-py3-none-any.whl (15 kB)
+Collecting lxml (from premailer~=3.10.0->frappe==15.0.1)
+  Downloading lxml-4.9.3-cp310-cp310-manylinux_2_28_x86_64.whl.metadata (3.8 kB)
+Collecting cssselect (from premailer~=3.10.0->frappe==15.0.1)
+  Downloading cssselect-1.2.0-py2.py3-none-any.whl (18 kB)
+Collecting cssutils (from premailer~=3.10.0->frappe==15.0.1)
+  Downloading cssutils-2.9.0-py3-none-any.whl.metadata (9.1 kB)
+Collecting async-timeout>=4.0.2 (from redis~=4.5.5->frappe==15.0.1)
+  Downloading async_timeout-4.0.3-py3-none-any.whl.metadata (4.2 kB)
+Collecting charset-normalizer<4,>=2 (from requests~=2.31.0->frappe==15.0.1)
+  Downloading charset_normalizer-3.3.1-cp310-cp310-manylinux_2_17_x86_64.manylin
+ux2014_x86_64.whl.metadata (33 kB)
+Collecting idna<4,>=2.5 (from requests~=2.31.0->frappe==15.0.1)
+  Downloading idna-3.4-py3-none-any.whl (61 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.5/61.5 kB 1.0 MB/s eta 0:00:00
+Collecting urllib3<3,>=1.21.1 (from requests~=2.31.0->frappe==15.0.1)
+  Downloading urllib3-2.0.7-py3-none-any.whl.metadata (6.6 kB)
+Collecting certifi>=2017.4.17 (from requests~=2.31.0->frappe==15.0.1)
+  Downloading certifi-2023.7.22-py3-none-any.whl.metadata (2.2 kB)
+Collecting pycparser (from cffi>=1.1.0->cairocffi==1.5.1->frappe==15.0.1)
+  Using cached pycparser-2.21-py2.py3-none-any.whl (118 kB)
+Collecting zopfli>=0.1.4 (from fonttools[woff]>=4.0.0->WeasyPrint==59.0->frappe=
+=15.0.1)
+  Downloading zopfli-0.2.3-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_6
+4.whl.metadata (2.9 kB)
+Collecting brotli>=1.0.1 (from fonttools[woff]>=4.0.0->WeasyPrint==59.0->frappe=
+=15.0.1)
+  Downloading Brotli-1.1.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.ma
+nylinux_2_12_x86_64.manylinux2010_x86_64.whl.metadata (5.5 kB)
+Collecting smmap<6,>=3.0.1 (from gitdb<5,>=4.0.1->GitPython~=3.1.34->frappe==15.
+0.1)
+  Downloading smmap-5.0.1-py3-none-any.whl.metadata (4.3 kB)
+Collecting googleapis-common-protos<2.0dev,>=1.56.2 (from google-api-core<2dev,>
+=1.21.0->google-api-python-client~=2.2.0->frappe==15.0.1)
+  Downloading googleapis_common_protos-1.61.0-py2.py3-none-any.whl.metadata (1.5
+ kB)
+Collecting protobuf!=3.20.0,!=3.20.1,!=4.21.0,!=4.21.1,!=4.21.2,!=4.21.3,!=4.21.
+4,!=4.21.5,<4.0.0dev,>=3.19.5 (from google-api-core<2dev,>=1.21.0->google-api-py
+thon-client~=2.2.0->frappe==15.0.1)
+  Downloading protobuf-3.20.3-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x8
+6_64.whl (1.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.1/1.1 MB 4.1 MB/s eta 0:00:00
+Collecting pyparsing!=3.0.0,!=3.0.1,!=3.0.2,!=3.0.3,<4,>=2.4.2 (from httplib2<1d
+ev,>=0.15.0->google-api-python-client~=2.2.0->frappe==15.0.1)
+  Downloading pyparsing-3.1.1-py3-none-any.whl.metadata (5.1 kB)
+Collecting parso<0.9.0,>=0.8.3 (from jedi>=0.16->ipython~=8.15.0->frappe==15.0.1
+)
+  Downloading parso-0.8.3-py2.py3-none-any.whl (100 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100.8/100.8 kB 3.1 MB/s eta 0:00:00
+Collecting ptyprocess>=0.5 (from pexpect>4.3->ipython~=8.15.0->frappe==15.0.1)
+  Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
+Collecting wcwidth (from prompt-toolkit!=3.0.37,<3.1.0,>=3.0.30->ipython~=8.15.0
+->frappe==15.0.1)
+  Downloading wcwidth-0.2.8-py2.py3-none-any.whl.metadata (13 kB)
+Collecting ply>=3.4 (from stone>=2->dropbox~=11.36.0->frappe==15.0.1)
+  Downloading ply-3.11-py2.py3-none-any.whl (49 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 49.6/49.6 kB 1.6 MB/s eta 0:00:00
+Collecting executing>=1.2.0 (from stack-data->ipython~=8.15.0->frappe==15.0.1)
+  Downloading executing-2.0.0-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting asttokens>=2.1.0 (from stack-data->ipython~=8.15.0->frappe==15.0.1)
+  Downloading asttokens-2.4.1-py2.py3-none-any.whl.metadata (5.2 kB)
+Collecting pure-eval (from stack-data->ipython~=8.15.0->frappe==15.0.1)
+  Downloading pure_eval-0.2.2-py3-none-any.whl (11 kB)
+Downloading phonenumbers-8.13.13-py2.py3-none-any.whl (2.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.6/2.6 MB 5.1 MB/s eta 0:00:00
+Downloading pydantic-2.3.0-py3-none-any.whl (374 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 374.5/374.5 kB 3.1 MB/s eta 0:00:00
+Downloading PyMySQL-1.1.0-py3-none-any.whl (44 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.8/44.8 kB 1.7 MB/s eta 0:00:00
+Downloading pydantic_core-2.6.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_
+x86_64.whl (1.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.9/1.9 MB 3.8 MB/s eta 0:00:00
+Downloading boto3-1.28.72-py3-none-any.whl (135 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 135.8/135.8 kB 4.4 MB/s eta 0:00:00
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 97.9/97.9 kB 3.3 MB/s eta 0:00:00
+Downloading croniter-1.4.1-py2.py3-none-any.whl (19 kB)
+Downloading cryptography-41.0.5-cp37-abi3-manylinux_2_28_x86_64.whl (4.4 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.4/4.4 MB 3.9 MB/s eta 0:00:00
+Downloading dropbox-11.36.2-py3-none-any.whl (594 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 594.0/594.0 kB 5.2 MB/s eta 0:00:00
+Downloading GitPython-3.1.40-py3-none-any.whl (190 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 190.6/190.6 kB 2.4 MB/s eta 0:00:00
+Downloading gunicorn-21.2.0-py3-none-any.whl (80 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 80.2/80.2 kB 2.5 MB/s eta 0:00:00
+Downloading ipython-8.15.0-py3-none-any.whl (806 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 806.6/806.6 kB 2.8 MB/s eta 0:00:00
+Downloading markdown2-2.4.10-py2.py3-none-any.whl (39 kB)
+Downloading MarkupSafe-2.1.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86
+_64.whl (25 kB)
+Downloading num2words-0.5.13-py3-none-any.whl (143 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 143.3/143.3 kB 2.8 MB/s eta 0:00:00
+Downloading Pillow-10.0.1-cp310-cp310-manylinux_2_28_x86_64.whl (3.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.6/3.6 MB 6.1 MB/s eta 0:00:00
+Downloading posthog-3.0.2-py2.py3-none-any.whl (37 kB)
+Downloading psutil-5.9.6-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.ma
+nylinux_2_17_x86_64.manylinux2014_x86_64.whl (283 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 283.6/283.6 kB 4.9 MB/s eta 0:00:00
+Downloading psycopg2_binary-2.9.9-cp310-cp310-manylinux_2_17_x86_64.manylinux201
+4_x86_64.whl (3.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.0/3.0 MB 5.9 MB/s eta 0:00:00
+Downloading PyJWT-2.8.0-py3-none-any.whl (22 kB)
+Downloading pyOpenSSL-23.2.0-py3-none-any.whl (59 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 59.0/59.0 kB 2.7 MB/s eta 0:00:00
+Downloading pypdf-3.15.5-py3-none-any.whl (272 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 272.6/272.6 kB 5.8 MB/s eta 0:00:00
+Downloading PyYAML-6.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.
+whl (705 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 705.5/705.5 kB 5.8 MB/s eta 0:00:00
+Downloading requests-2.31.0-py3-none-any.whl (62 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.6/62.6 kB 893.0 kB/s eta 0:00:00
+Downloading RestrictedPython-6.2-py3-none-any.whl (26 kB)
+Downloading rq-1.15.1-py2.py3-none-any.whl (95 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 95.8/95.8 kB 3.9 MB/s eta 0:00:00
+Downloading tenacity-8.2.3-py3-none-any.whl (24 kB)
+Downloading typing_extensions-4.8.0-py3-none-any.whl (31 kB)
+Downloading werkzeug-2.3.7-py3-none-any.whl (242 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 242.2/242.2 kB 5.7 MB/s eta 0:00:00
+Downloading annotated_types-0.6.0-py3-none-any.whl (12 kB)
+Downloading async_timeout-4.0.3-py3-none-any.whl (5.7 kB)
+Downloading botocore-1.31.72-py3-none-any.whl (11.3 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.3/11.3 MB 4.6 MB/s eta 0:00:00
+Downloading certifi-2023.7.22-py3-none-any.whl (158 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 158.3/158.3 kB 955.2 kB/s eta 0:00:00
+Using cached cffi-1.16.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.
+whl (443 kB)
+Downloading charset_normalizer-3.3.1-cp310-cp310-manylinux_2_17_x86_64.manylinux
+2014_x86_64.whl (139 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 139.2/139.2 kB 3.3 MB/s eta 0:00:00
+Downloading fonttools-4.43.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86
+_64.whl (4.5 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.5/4.5 MB 4.6 MB/s eta 0:00:00
+Downloading gitdb-4.0.11-py3-none-any.whl (62 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.7/62.7 kB 2.4 MB/s eta 0:00:00
+Downloading google_auth_httplib2-0.1.1-py2.py3-none-any.whl (9.3 kB)
+Downloading jedi-0.19.1-py2.py3-none-any.whl (1.6 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 5.9 MB/s eta 0:00:00
+Downloading prompt_toolkit-3.0.39-py3-none-any.whl (385 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 385.2/385.2 kB 5.2 MB/s eta 0:00:00
+Downloading pydyf-0.8.0-py3-none-any.whl (7.5 kB)
+Downloading Pygments-2.16.1-py3-none-any.whl (1.2 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 6.4 MB/s eta 0:00:00
+Downloading s3transfer-0.7.0-py3-none-any.whl (79 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 79.8/79.8 kB 3.2 MB/s eta 0:00:00
+Downloading soupsieve-2.5-py3-none-any.whl (36 kB)
+Downloading traitlets-5.12.0-py3-none-any.whl (84 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 84.0/84.0 kB 2.6 MB/s eta 0:00:00
+Downloading urllib3-2.0.7-py3-none-any.whl (124 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 124.2/124.2 kB 3.6 MB/s eta 0:00:00
+Downloading cssutils-2.9.0-py3-none-any.whl (398 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 398.5/398.5 kB 2.4 MB/s eta 0:00:00
+Downloading exceptiongroup-1.1.3-py3-none-any.whl (14 kB)
+Downloading lxml-4.9.3-cp310-cp310-manylinux_2_28_x86_64.whl (7.9 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 7.9/7.9 MB 4.1 MB/s eta 0:00:00
+Downloading packaging-23.2-py3-none-any.whl (53 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 53.0/53.0 kB 1.0 MB/s eta 0:00:00
+Downloading stack_data-0.6.3-py3-none-any.whl (24 kB)
+Downloading asttokens-2.4.1-py2.py3-none-any.whl (27 kB)
+Downloading Brotli-1.1.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.many
+linux_2_12_x86_64.manylinux2010_x86_64.whl (3.0 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.0/3.0 MB 5.3 MB/s eta 0:00:00
+Downloading executing-2.0.0-py2.py3-none-any.whl (24 kB)
+Downloading googleapis_common_protos-1.61.0-py2.py3-none-any.whl (230 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 230.9/230.9 kB 4.9 MB/s eta 0:00:00
+Downloading pyparsing-3.1.1-py3-none-any.whl (103 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 103.1/103.1 kB 4.6 MB/s eta 0:00:00
+Downloading smmap-5.0.1-py3-none-any.whl (24 kB)
+Downloading zopfli-0.2.3-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.
+whl (848 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 848.9/848.9 kB 4.4 MB/s eta 0:00:00
+Downloading wcwidth-0.2.8-py2.py3-none-any.whl (31 kB)
+Building wheels for collected packages: frappe, cairocffi, maxminddb-geolite2, P
+yPika, PyQRCode, rauth, traceback-with-variables, zxcvbn, docopt, maxminddb
+  Building editable for frappe (pyproject.toml) ... done
+  Created wheel for frappe: filename=frappe-15.0.1-py3-none-any.whl size=3868 sh
+a256=85fe44209deff7de5f16a30a7cf2ea106a62c7870c10b0b65ebc57cd27e0e5d9
+  Stored in directory: /tmp/pip-ephem-wheel-cache-l33t_q8_/wheels/43/42/77/adbe4
+90eef8b96317d5ef72a1af00d73979b083d6ca1b8785d
+  Building wheel for cairocffi (pyproject.toml) ... done
+  Created wheel for cairocffi: filename=cairocffi-1.5.1-py3-none-any.whl size=90
+519 sha256=97454731f898cbc5ae0665d91935e59c45f7b93ac34156bd68190bc16ef2d73d
+  Stored in directory: /home/hsrai/.cache/pip/wheels/3d/f0/15/e20ff54ef59ec58a08
+e230bd3874e6f412b09e6a3093f856a7
+  Building wheel for maxminddb-geolite2 (setup.py) ... done
+  Created wheel for maxminddb-geolite2: filename=maxminddb_geolite2-2018.703-py3
+-none-any.whl size=26407051 sha256=1e7ff1a37d8b25e77719d237f3a5d67dd98ae6fcba0ff
+1412c4ebec55e997461
+  Stored in directory: /home/hsrai/.cache/pip/wheels/a5/71/c0/8a053957754d9177cf
+23aec9927971f9ead13517426f0d63d3
+  Building wheel for PyPika (pyproject.toml) ... done
+  Created wheel for PyPika: filename=PyPika-0.48.9-py2.py3-none-any.whl size=537
+23 sha256=a0c09e366a958b108330a31b7ccac38acd39c4ed500f4c0159d489f9839efbb9
+  Stored in directory: /home/hsrai/.cache/pip/wheels/e1/26/51/d0bffb3d2fd8225667
+6d7ad3003faea3bd6dddc9577af665f4
+  Building wheel for PyQRCode (setup.py) ... done
+  Created wheel for PyQRCode: filename=PyQRCode-1.2.1-py3-none-any.whl size=3624
+1 sha256=73deb731eb104430462ea27213819f7a158d62fb8eab8c627546428e12217739
+  Stored in directory: /home/hsrai/.cache/pip/wheels/34/2d/20/082874e49a32cdcc87
+ebaf99dd0099fb7774ef30f010dfb6f2
+  Building wheel for rauth (setup.py) ... done
+  Created wheel for rauth: filename=rauth-0.7.3-py3-none-any.whl size=16075 sha2
+56=c5e7f14c6236eea7b299a67ce4596daae03a3929ff5e08b98a9a1337f513dd5a
+  Stored in directory: /home/hsrai/.cache/pip/wheels/73/f1/e3/dbb192d15a0eff9f22
+caac2d25c202b4a0ad20f006dd2e33d5
+  Building wheel for traceback-with-variables (setup.py) ... done
+  Created wheel for traceback-with-variables: filename=traceback_with_variables-
+2.0.4-py3-none-any.whl size=16758 sha256=56b72ccb45590bc8b865030936c885fe9c5662c
+f204285cdb56baaa5ea1fa6a9
+  Stored in directory: /home/hsrai/.cache/pip/wheels/65/17/16/0aa85f4e50a8e08d1f
+0db63780a52036923637126ad70eb225
+  Building wheel for zxcvbn (setup.py) ... done
+  Created wheel for zxcvbn: filename=zxcvbn-4.4.28-py2.py3-none-any.whl size=408
+151 sha256=e41bfd3a419ff996cafd5a258cccbbbb6bca4629418bf4f3fcd6f81fcd1b92f9
+  Stored in directory: /home/hsrai/.cache/pip/wheels/ef/89/c6/a0e065af99073821bb
+4b83f6ec0561e981fc00498fe8e9c45d
+  Building wheel for docopt (setup.py) ... done
+  Created wheel for docopt: filename=docopt-0.6.2-py2.py3-none-any.whl size=1372
+3 sha256=a15436871289283efaced23fef9c90d51e3a00d014855f83d747b262db6ddb0a
+  Stored in directory: /home/hsrai/.cache/pip/wheels/fc/ab/d4/5da2067ac95b36618c
+629a5f93f809425700506f72c9732fac
+  Building wheel for maxminddb (pyproject.toml) ... done
+  Created wheel for maxminddb: filename=maxminddb-2.4.0-py2.py3-none-any.whl siz
+e=16401 sha256=0636429990d8a15d4ae03d50fa73d398159c8a55919d2a9b39359c7f7b2e8b94
+  Stored in directory: /home/hsrai/.cache/pip/wheels/da/cd/8b/75f90dffa0be3de0d7
+72af50a0d4bbf8e728b701209514e1f8
+Successfully built frappe cairocffi maxminddb-geolite2 PyPika PyQRCode rauth tra
+ceback-with-variables zxcvbn docopt maxminddb
+Installing collected packages: zxcvbn, Whoosh, webencodings, wcwidth, pytz, PyQR
+Code, PyPika, pure-eval, ptyprocess, ply, pickleshare, phonenumbers, pdfkit, pas
+slib, monotonic, filetype, executing, email-reply-parser, docopt, brotli, bleach
+-allowlist, backcall, zopfli, xlrd, urllib3, uritemplate, typing_extensions, tra
+itlets, traceback-with-variables, tinycss2, terminaltables, tenacity, sqlparse,
+soupsieve, smmap, six, semantic-version, RestrictedPython, PyYAML, Pyphen, pypdf
+, pyparsing, pyotp, PyMySQL, PyJWT, pygments, pydyf, pycparser, pyasn1, psycopg2
+-binary, psutil, protobuf, prompt-toolkit, Pillow, pexpect, pbr, parso, packagin
+g, oauthlib, num2words, maxminddb, MarkupSafe, markdown2, lxml, jmespath, idna,
+hiredis, fonttools, filelock, exceptiongroup, et-xmlfile, decorator, cssutils, c
+ssselect, Click, charset-normalizer, chardet, certifi, cachetools, backoff, Babe
+l, async-timeout, annotated-types, Werkzeug, stone, rsa, requests, redis, python
+-dateutil, pydantic-core, pyasn1-modules, openpyxl, maxminddb-geolite2, matplotl
+ib-inline, ldap3, Jinja2, jedi, httplib2, html5lib, gunicorn, googleapis-common-
+protos, gitdb, git-url-parse, cssselect2, cffi, bleach, beautifulsoup4, asttoken
+s, WeasyPrint, stack-data, rq, requests-oauthlib, rauth, pydantic, premailer, po
+sthog, markdownify, google-auth, GitPython, dropbox, cryptography, croniter, cai
+rocffi, botocore, s3transfer, pyOpenSSL, ipython, google-auth-oauthlib, google-a
+uth-httplib2, google-api-core, google-api-python-client, boto3, frappe
+Successfully installed Babel-2.12.1 Click-8.1.7 GitPython-3.1.40 Jinja2-3.1.2 Ma
+rkupSafe-2.1.3 Pillow-10.0.1 PyJWT-2.8.0 PyMySQL-1.1.0 PyPika-0.48.9 PyQRCode-1.
+2.1 PyYAML-6.0.1 Pyphen-0.14.0 RestrictedPython-6.2 WeasyPrint-59.0 Werkzeug-2.3
+.7 Whoosh-2.7.4 annotated-types-0.6.0 asttokens-2.4.1 async-timeout-4.0.3 backca
+ll-0.2.0 backoff-2.2.1 beautifulsoup4-4.12.2 bleach-6.0.0 bleach-allowlist-1.0.3
+ boto3-1.28.72 botocore-1.31.72 brotli-1.1.0 cachetools-4.2.4 cairocffi-1.5.1 ce
+rtifi-2023.7.22 cffi-1.16.0 chardet-5.1.0 charset-normalizer-3.3.1 croniter-1.4.
+1 cryptography-41.0.5 cssselect-1.2.0 cssselect2-0.7.0 cssutils-2.9.0 decorator-
+5.1.1 docopt-0.6.2 dropbox-11.36.2 email-reply-parser-0.5.12 et-xmlfile-1.1.0 ex
+ceptiongroup-1.1.3 executing-2.0.0 filelock-3.8.2 filetype-1.2.0 fonttools-4.43.
+1 frappe-15.0.1 git-url-parse-1.2.2 gitdb-4.0.11 google-api-core-1.34.0 google-a
+pi-python-client-2.2.0 google-auth-1.29.0 google-auth-httplib2-0.1.1 google-auth
+-oauthlib-0.4.6 googleapis-common-protos-1.61.0 gunicorn-21.2.0 hiredis-2.2.3 ht
+ml5lib-1.1 httplib2-0.22.0 idna-3.4 ipython-8.15.0 jedi-0.19.1 jmespath-1.0.1 ld
+ap3-2.9.1 lxml-4.9.3 markdown2-2.4.10 markdownify-0.11.6 matplotlib-inline-0.1.6
+ maxminddb-2.4.0 maxminddb-geolite2-2018.703 monotonic-1.6 num2words-0.5.13 oaut
+hlib-3.2.2 openpyxl-3.1.2 packaging-23.2 parso-0.8.3 passlib-1.7.4 pbr-5.11.1 pd
+fkit-1.0.0 pexpect-4.8.0 phonenumbers-8.13.13 pickleshare-0.7.5 ply-3.11 posthog
+-3.0.2 premailer-3.10.0 prompt-toolkit-3.0.39 protobuf-3.20.3 psutil-5.9.6 psyco
+pg2-binary-2.9.9 ptyprocess-0.7.0 pure-eval-0.2.2 pyOpenSSL-23.2.0 pyasn1-0.5.0
+pyasn1-modules-0.3.0 pycparser-2.21 pydantic-2.3.0 pydantic-core-2.6.3 pydyf-0.8
+.0 pygments-2.16.1 pyotp-2.8.0 pyparsing-3.1.1 pypdf-3.15.5 python-dateutil-2.8.
+2 pytz-2023.3 rauth-0.7.3 redis-4.5.5 requests-2.31.0 requests-oauthlib-1.3.1 rq
+-1.15.1 rsa-4.9 s3transfer-0.7.0 semantic-version-2.10.0 six-1.16.0 smmap-5.0.1
+soupsieve-2.5 sqlparse-0.4.4 stack-data-0.6.3 stone-3.3.1 tenacity-8.2.3 termina
+ltables-3.1.10 tinycss2-1.1.1 traceback-with-variables-2.0.4 traitlets-5.12.0 ty
+ping_extensions-4.8.0 uritemplate-3.0.1 urllib3-2.0.7 wcwidth-0.2.8 webencodings
+-0.5.1 xlrd-2.0.1 zopfli-0.2.3 zxcvbn-4.4.28
+$ yarn install
+yarn install v1.22.19
+[1/5] Validating package.json...
+[2/5] Resolving packages...
+[3/5] Fetching packages...
+info There appears to be trouble with your network connection. Retrying...
+[4/5] Linking dependencies...
+warning " > @frappe/esbuild-plugin-postcss2@0.1.3" has unmet peer dependency "le
+ss@^4.x".
+warning " > @frappe/esbuild-plugin-postcss2@0.1.3" has unmet peer dependency "st
+ylus@^0.x".
+warning " > @vue/component-compiler@4.2.4" has unmet peer dependency "vue-templa
+te-compiler@*".
+[5/5] Building fresh packages...
+Done in 301.78s.
+Found existing apps updating states...
+WARN: restart failed: Couldn't find supervisorctl in PATH
+Getting erpnext
+$ git clone https://github.com/frappe/erpnext.git --branch version-15 --depth 1
+--origin upstream
+Cloning into 'erpnext'...
+remote: Enumerating objects: 4629, done.
+remote: Counting objects: 100% (4629/4629), done.
+remote: Compressing objects: 100% (4051/4051), done.
+remote: Total 4629 (delta 918), reused 2022 (delta 360), pack-reused 0
+Receiving objects: 100% (4629/4629), 15.67 MiB | 2.68 MiB/s, done.
+Resolving deltas: 100% (918/918), done.
+Updating files: 100% (4331/4331), done.
+Ignoring dependencies of erpnext. To install dependencies use --resolve-deps
+Installing erpnext
+$ /home/hsrai/frappe-bench/env/bin/python -m pip install  --upgrade -e /home/hsr
+ai/frappe-bench/apps/erpnext
+Obtaining file:///home/hsrai/frappe-bench/apps/erpnext
+  Installing build dependencies ... error
+  error: subprocess-exited-with-error
+
+  × pip subprocess to install build dependencies did not run successfully.
+  │ exit code: 1
+  ╰─> [7 lines of output]
+      WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None,
+status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(
+host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/flit-c
+ore/
+      WARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None,
+status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(
+host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/flit-c
+ore/
+      WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None,
+status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(
+host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/flit-c
+ore/
+      WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None,
+status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(
+host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/flit-c
+ore/
+      WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None,
+status=None)) after connection broken by 'ReadTimeoutError("HTTPSConnectionPool(
+host='pypi.org', port=443): Read timed out. (read timeout=15)")': /simple/flit-c
+ore/
+      ERROR: Could not find a version that satisfies the requirement flit_core<4
+,>=3.4 (from versions: none)
+      ERROR: No matching distribution found for flit_core<4,>=3.4
+      [end of output]
+
+  note: This error originates from a subprocess, and is likely not a problem wit
+h pip.
+error: subprocess-exited-with-error
+
+× pip subprocess to install build dependencies did not run successfully.
+│ exit code: 1
+╰─> See above for output.
+
+note: This error originates from a subprocess, and is likely not a problem with
+pip.
+subprocess.CalledProcessError: Command '/home/hsrai/frappe-bench/env/bin/python
+-m pip install  --upgrade -e /home/hsrai/frappe-bench/apps/erpnext ' returned no
+n-zero exit status 1.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/bench/commands/make.py", line 68
+, in init
+    init(
+  File "/usr/local/lib/python3.10/dist-packages/bench/utils/render.py", line 105
+, in wrapper_fn
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/bench/utils/system.py", line 94,
+ in init
+    get_app(
+  File "/usr/local/lib/python3.10/dist-packages/bench/app.py", line 444, in get_
+app
+    app.install(verbose=verbose, skip_assets=skip_assets, restart_bench=restart_
+bench)
+  File "/usr/local/lib/python3.10/dist-packages/bench/utils/render.py", line 126
+, in wrapper_fn
+    return fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/bench/app.py", line 242, in inst
+all
+    install_app(
+  File "/usr/local/lib/python3.10/dist-packages/bench/app.py", line 573, in inst
+all_app
+    bench.run(
+  File "/usr/local/lib/python3.10/dist-packages/bench/bench.py", line 48, in run
+    return exec_cmd(cmd, cwd=cwd or self.cwd, _raise=_raise)
+  File "/usr/local/lib/python3.10/dist-packages/bench/utils/__init__.py", line 1
+58, in exec_cmd
+    raise CommandFailedError(cmd) from subprocess.CalledProcessError(return_code
+, cmd)
+bench.exceptions.CommandFailedError: /home/hsrai/frappe-bench/env/bin/python -m
+pip install  --upgrade -e /home/hsrai/frappe-bench/apps/erpnext
+
+ERROR: There was a problem while creating frappe-bench
+Do you want to rollback these changes? [y/N]: y
+INFO: Rolling back Bench "frappe-bench"
+Bench installation complete!
+Preparing for Production installation. This could take a minute... or two so ple
+ase be patient.
+Enter the site name (If you wish to install SSL later, please enter a FQDN): FQD
+N
+Enter the Administrator password:
+Confirm password:
+Password confirmed
+
+[sudo] password for hsrai: Sorry, try again.
+[sudo] password for hsrai:
+sudo: no password was provided
+sudo: 1 incorrect password attempt
+Now setting up your site. This might take a few minutes. Please wait...
+erpnext_install.sh: line 340: cd: frappe-bench: No such file or directory
+send: spawn id exp4 not open
+    while executing
+"send "$sqlpwd\r""
+spawn bench new-site FQDN --install-app erpnext
+WARN: Command not being executed in bench directory
+Usage: bench [OPTIONS] COMMAND [ARGS]...
+Try 'bench --help' for help.
+
+Error: No such command 'new-site'.
+Would you like to continue with production install? (yes/no)
+Response: no
+Getting your site ready for development...
+default -> 18 (-> v18.18.2)
+! WARNING: Version '16' does not exist.
+default -> 16 (-> N/A)
+WARN: Command not being executed in bench directory
+Usage: bench [OPTIONS] COMMAND [ARGS]...
+Try 'bench --help' for help.
+
+Error: No such command 'use'.
+WARN: Command not being executed in bench directory
+Usage: bench [OPTIONS] COMMAND [ARGS]...
+Try 'bench --help' for help.
+
+Error: No such command 'build'.
+Done!
+--------------------------------------------------------------------------------
+---------------
+Congratulations! You have successfully installed Frappe and ERPNext Version 15 D
+evelopment Enviromment.
+Start your instance by running bench start to start your server and visiting htt
+p://10.0.2.15:8000
+Install additional apps as required. Visit https://frappeframework.com for Devel
+oper Documentation.
+Enjoy development with Frappe!
+--------------------------------------------------------------------------------
+---------------
+
+real    66m7.585s
+user    3m55.762s
+sys     10m22.246s
+hsrai@civil:~/erpnext_quick_install$
