@@ -1,4 +1,4 @@
-## Back to [Instructions for filling the Examination Form](ExamForm.md)
+## Back to [Instructions for filling the Examination Form](ExamFormMin.md)
 
 
 ### Saving draft and submitting
