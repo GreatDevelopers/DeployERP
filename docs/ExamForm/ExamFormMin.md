@@ -2,7 +2,7 @@
 
 ### Image specifications and its uploading
 
-Make sure all photos (self, Photo ID) should be of excelelnt quality, and meets the quality parameters as per: [Photo Specificatipns](https://gnecoe.github.io/Notices/Files/Photo.html) . Make sure that self photo has to be square, while of Photo ID, rectangular as per the ID Card, but nicley cropped. It is advised to have good processed images stored on your device. Don't take selfy, go to professional to get good photo or ask your friend who is good at photography. 
+Make sure all photos (self, Photo ID) should be of excellent quality, and meet the quality parameters as per: [Photo Specificatipns](https://gnecoe.github.io/Notices/Files/Photo.html) . Make sure that the photo of self has to be square, while of Photo ID, rectangular as per the ID Card, but nicely cropped. It is advised to have good processed images stored on your device. Don't take selfy, go to professional to get good photo or ask your friend who is good at photography.
 
 Explanation of the figure below ![Screenshot_20231115-141605Img](ExamFormImages/Screenshot_20231115-141605.jpg)
 
