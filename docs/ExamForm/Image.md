@@ -32,6 +32,7 @@
 - Set the Aspect ration 1:1.
 - Adjust the Box to make sure to capture your Face properly
 - Click on Crop.
+- Make sure to Check the Private Checkbox.
 ![Screenshot_20231115-142226Img](ExamFormImages/Screenshot_20231115-142226.jpg)
 
 - Now Click on Upload.
