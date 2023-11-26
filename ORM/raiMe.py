@@ -12,9 +12,8 @@ pageLength = 25;
 def get_context(context):
         context.current_user = frappe.get_doc("User", frappe.session.user)
         context.show_sidebar = False
-        context.Rai = frappe.get_all('Program',
-                filters={'department': ['like', '%eachin%']},
-                fields=['name'],
+        context.Rai = frappe.get_all('Company',
+                fields=['name', 'abbr'],
                 order_by='name asc',
                 start=startRecord,
                 page_length=pageLength,
