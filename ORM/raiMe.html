@@ -21,11 +21,23 @@
     </div>
     <h3 class="my-account-header">{{_("Institutes offering academic programs") }}</h3>
     <hr>
-    {% for record in Rai %}
-      <div>
-        <p> {{ record[0] }}</p>
-      </div>
-    {% endfor %}
+
+<div>
+    <ol>
+        {% for record in Rai %}
+            {% set countProg = frappe.db.count('Program', filters={'department': ['like', '%' + record[1] + '%']}) %}
+            <li>
+                {% if countProg != 0 %}
+                    <a href=coursesByschool?nickNS={{ record[1] }}>
+                {% endif %}
+                    {{record[0]}}{% if countProg != 0 %}</a>
+                {% endif %}
+                    | Classes Count {{ countProg }}
+            </li>
+        {% endfor %}
+    </ol>
+</div>
+
     </div>
 
 {% endblock %}
