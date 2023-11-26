@@ -1,0 +1,31 @@
+{% from "frappe/templates/includes/avatar_macro.html" import avatar %}
+{% extends "templates/web.html" %}
+
+{% block title %}
+        {{ _("Title of page Rai HS") }}
+{% endblock %}
+
+{% block page_content %}
+    <div class="my-account-container">
+    <div class="row account-info d-flex flex-column">
+        <div class="col d-flex justify-content-between align-items-center">
+                <div>
+                        <span class="my-account-avatar">
+                                {{avatar(current_user.name)}}
+                        </span>
+                        <span class="my-account-name ml-4">
+                                {{current_user.full_name}}
+                        </span>
+                </div>
+        </div>
+    </div>
+    <h3 class="my-account-header">{{_("Institutes offering academic programs") }}</h3>
+    <hr>
+    {% for record in Rai %}
+      <div>
+        <p> {{ record[0] }}</p>
+      </div>
+    {% endfor %}
+    </div>
+
+{% endblock %}
