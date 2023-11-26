@@ -1,0 +1,27 @@
+{% from "frappe/templates/includes/avatar_macro.html" import avatar %}
+{% extends "templates/web.html" %}
+
+{% block title %}
+        {{ _("Title of page Rai HS") }}
+{% endblock %}
+
+{% block page_content %}
+    <h3 class="my-account-header">{{_("List of academic programs") }}</h3>
+    <hr>
+
+<div>
+
+    <p>Institute / School's Abbreviation {{ nickName }}</p>
+
+    <hr>
+
+    <ol>
+        {% for record in List %}
+            <li>
+                <a href=Page?Var1={{ record[0] }}>{{record[0]}}</a>
+            </li>
+        {% endfor %}
+    </ol>
+</div>
+
+{% endblock %}
