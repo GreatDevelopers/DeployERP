@@ -1,3 +1,12 @@
+### Fields with permisison level higher than 0
+
+```sql
+SELECT parent, fieldname, label, permlevel, fieldtype
+FROM tabDocField
+WHERE  permlevel <> 0;
+```
+
+
 | Job 1                      |
 |----------------------------|
 | Permissions as per docType |
