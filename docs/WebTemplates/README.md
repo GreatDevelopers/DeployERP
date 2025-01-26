@@ -6,6 +6,7 @@ Experiments with Frappe's web-templates to know specifications which results in 
 ## Hero Section:-
 used this section to add logo
 
+![logo](https://github.com/user-attachments/assets/66a33ef3-6db7-40b0-8637-d572b019adae)
 
 
 ## Section with Split Image
