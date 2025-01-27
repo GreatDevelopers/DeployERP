@@ -72,7 +72,40 @@ Statutory
 
 Non Statutory
 
+3.Academics
+-
 
+
+Course offered
+
+Post graduation
+
+4.Examination
+-
+
+
+
+
+CEO Office
+
+Exam portal for staff
+
+
+
+## At the bottom :-
+Tabs are:-
+
+1.Alumini
+
+2.Archive
+
+3.Useful links
+
+4.Contact us
+
+5 Downloads
+
+6.Email
 ## Slideshow:
 
 Images :-
