@@ -155,6 +155,12 @@ Aspect Ratio: 1.35
 size:-127.2 kB
 
 
+This is the image which also has resolution and aspect ratio different  from other image so change into same dimensions here is the link
+
+![au3_resized](https://github.com/user-attachments/assets/efbde508-1823-4be4-b8b4-8d3271eda25b)
+
+
+
 - image 4
 
 - ![au5](https://github.com/user-attachments/assets/a4bbd562-97bc-487c-a66e-e9ef79f030a7)
