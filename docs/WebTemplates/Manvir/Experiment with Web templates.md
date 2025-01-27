@@ -172,6 +172,18 @@ Aspect Ratio: 1.50
 size:-238.7 kB
 
 
+![cropped-alumni_home_resized_mobile](https://github.com/user-attachments/assets/06093103-6402-4816-9549-9d7c4de892d4)
+
+
+![au1 jpg_resized_mobile](https://github.com/user-attachments/assets/a6b557cd-4fff-4547-9786-b5d6788f3cc7)
+
+![au3_resized_mobile](https://github.com/user-attachments/assets/24810fd9-d7b6-4233-abf2-516961004db9)
+
+![au5 jpg_resized_mobile](https://github.com/user-attachments/assets/5383cb99-f868-46b7-8d9e-c35a39a5d5e6)
+
+
+
+
 ## Markdown
 
 Site designed and maintained by Central Computer Center, GNDEC,Ludhiana
