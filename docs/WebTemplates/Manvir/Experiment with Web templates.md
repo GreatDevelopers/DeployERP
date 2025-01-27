@@ -4,6 +4,8 @@
 ## Hero Section:-
 used this section to add logo
 
+
+
 ![logo](https://github.com/user-attachments/assets/78dfebbd-f12d-4cea-afeb-3d5a11c39369)
 
  format:-jpeg
@@ -120,6 +122,11 @@ Resolution:-1280x720
 aspect ratio :-1.77
 
 size:-129.8kb
+
+When opened in mobile this image resolution and aspect ratio is not same ,so i convert it into  same dimensions .Here is the link:-
+
+![alumni_home_resized](https://github.com/user-attachments/assets/4682f500-9004-4fff-bae7-437258204baf)
+
 
 
 - image 2
