@@ -123,9 +123,8 @@ aspect ratio :-1.77
 
 size:-129.8kb
 
-When opened in mobile this image resolution and aspect ratio is not same ,so i convert it into  same dimensions .Here is the link:-
+![alumni_home_resized_portrait](https://github.com/user-attachments/assets/da69555b-7dfe-42d4-b129-420e7d471846)
 
-![alumni_home_resized](https://github.com/user-attachments/assets/4682f500-9004-4fff-bae7-437258204baf)
 
 
 
@@ -155,9 +154,7 @@ Aspect Ratio: 1.35
 size:-127.2 kB
 
 
-This is the image which also has resolution and aspect ratio different  from other image so change into same dimensions here is the link
 
-![au3_resized](https://github.com/user-attachments/assets/efbde508-1823-4be4-b8b4-8d3271eda25b)
 
 
 
