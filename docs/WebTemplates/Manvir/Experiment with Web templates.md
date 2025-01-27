@@ -125,7 +125,7 @@ aspect ratio :-1.77
 
 size:-129.8kb
 
-![alumni_home_resized_portrait](https://github.com/user-attachments/assets/da69555b-7dfe-42d4-b129-420e7d471846)
+
 
 
 
