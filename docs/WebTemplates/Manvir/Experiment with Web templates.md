@@ -7,6 +7,7 @@ used this section to add logo
 ![logo](https://github.com/user-attachments/assets/78dfebbd-f12d-4cea-afeb-3d5a11c39369)
 
  format:-jpeg
+ 
  Resolution :1224x200
  
  Aspect ratio:-6.12 
